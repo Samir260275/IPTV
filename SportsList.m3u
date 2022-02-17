@@ -88,3 +88,58 @@ http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10361?checkedby:Samir_Sat El 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN Sports 7 Ultra 4K
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10362?checkedby:Samir_Sat El Eulma
 https://raw.githubusercontent.com/Samir260275/IPTV/main/SportsList.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",bein 4K (FHD 1080)
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/60708?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",bein 4K (UHD 3840)
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/190369?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",beIN PREMIUM 3 HD
+http://speeder.live:8080/starmahdy79/0941416146DHZ/31521?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",beIN Sports PREMIUM 1 HD
+http://speeder.live:8080/starmahdy79/0941416146DHZ/65328?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN Sports 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108167?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1HD_(PREMIUM)_H265
+http://eaiptv.net:8888/medo/medo/26500?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1_H265
+http://eaiptv.net:8888/medo/medo/26503?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_2HD_(PREMIUM)_H265
+http://eaiptv.net:8888/medo/medo/26501?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_2_H265
+http://eaiptv.net:8888/medo/medo/26504?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_3_H265
+http://eaiptv.net:8888/medo/medo/26505?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1HD_(PREMIUM)_H265_HQ
+http://eaiptv.net:8888/medo/medo/26479?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1_H265_HQ
+http://eaiptv.net:8888/medo/medo/26482?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_2HD_(PREMIUM)_H265_HQ
+http://eaiptv.net:8888/medo/medo/26480?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_2_H265_HQ
+http://eaiptv.net:8888/medo/medo/26483?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_3HD_(PREMIUM)_H265_HQ
+http://eaiptv.net:8888/medo/medo/26481?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_3_H265_HQ
+http://eaiptv.net:8888/medo/medo/26484?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_4_H265_HQ
+http://eaiptv.net:8888/medo/medo/26485?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_4_H265_SD
+http://eaiptv.net:8888/medo/medo/26496?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_5_H265_SD
+http://eaiptv.net:8888/medo/medo/26497?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1HD_4K
+http://eaiptv.net:8888/medo/medo/26462?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1HD_(PREMIUM)_1080p
+http://eaiptv.net:8888/medo/medo/26379?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1HD_1080p
+http://eaiptv.net:8888/medo/medo/26381?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_2HD_(PREMIUM)_1080p
+http://eaiptv.net:8888/medo/medo/26387?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_2HD_1080p
+http://eaiptv.net:8888/medo/medo/26380?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_3HD_(PREMIUM)_1080p
+http://eaiptv.net:8888/medo/medo/26384?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_3HD_1080p
+http://eaiptv.net:8888/medo/medo/26382?checkedby:Samir_Sat El Eulma
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BeIN_SPORTS_1_(PREMIUM)_VEGA
+http://eaiptv.net:8888/medo/medo/26605?checkedby:Samir_Sat El Eulma
