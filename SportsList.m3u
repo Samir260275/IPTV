@@ -44,3 +44,57 @@ http://maxq.live:800/555/111/480
 http://maxq.live:800/555/111/481
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN HD",BEIN SPORTS 7 HD
 http://maxq.live:800/555/111/482
+
+#EXTINF:-1,BEIN_Sport_01_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52269
+#EXTINF:-1,BEIN_Sport_02_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48878
+#EXTINF:-1,BEIN_Sport_03_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48879
+#EXTINF:-1,BeIN_Sport_07_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49433
+#EXTINF:-1,BeIN_Sport_05_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49605
+#EXTINF:-1,BeIN_Sport_04_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49606
+#EXTINF:-1,BeIN_Sport_06_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49621
+#EXTINF:-1,BeIN_Sport_01_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49622
+#EXTINF:-1,BeIN_Sport_02_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/51018
+#EXTINF:-1,Bein_sport_03_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52271
+#EXTINF:-1,BeIN_Sport_01_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1
+#EXTINF:-1,BeIN_Sport_02_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2
+#EXTINF:-1,BeIN_Sport_04_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4
+#EXTINF:-1,BeIN_Sport_05_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/5
+#EXTINF:-1,BeIN_Sport_06_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/6
+#EXTINF:-1,BeIN_Sport_07_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/7
+#EXTINF:-1,BeIN_Sport_01_PREMIUM_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/9
+#EXTINF:-1,BeIN_Sport_02_PREMIUM_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/8
+#EXTINF:-1,BeIN_Sport_03_PREMIUM_HD
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/11
+#EXTINF:-1,AR: SSC SPORTS 1
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54301
+#EXTINF:-1,AR: SSC SPORTS 2
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54302
+#EXTINF:-1,AR: SSC SPORTS 3
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54303
+#EXTINF:-1,AR: SSC SPORTS 4
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54304
+#EXTINF:-1,AR: SSC SPORTS 5
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54305
+#EXTINF:-1,AR: SSC SPORTS 6
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54306
+#EXTINF:-1,AR: SSC SPORTS 7
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54307
+
