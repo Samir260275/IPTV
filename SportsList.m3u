@@ -98,23 +98,90 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54306
 #EXTINF:-1,AR: SSC SPORTS 7
 http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/54307
 
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS PREMIUM 1HD
-http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
-#EXTINF:-1,Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1,Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1, Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
-
+#EXTM3U
+#EXTINF:-1,-------------## Server 2 HD ##-------------
+http://maxq.live:800/22123/111/447
+#EXTINF:-1,BeIN PREMIUM 1
+http://maxq.live:800/22123/111/605
+#EXTINF:-1,BeIN PREMIUM 2
+http://maxq.live:800/22123/111/606
+#EXTINF:-1,BeIN PREMIUM 3
+http://maxq.live:800/22123/111/607
+#EXTINF:-1,BeIN Sports 1
+http://maxq.live:800/22123/111/608
+#EXTINF:-1,AD Sports Extra FHD
+http://maxq.live:800/22123/111/916
+#EXTINF:-1,-------------## Server 1 HD##-------------
+http://maxq.live:800/22123/111/473
+#EXTINF:-1,BEIN 1 PREMIUM HD
+http://maxq.live:800/22123/111/492
+#EXTINF:-1,BEIN 2 PREMIUM HD
+http://maxq.live:800/22123/111/474
+#EXTINF:-1,BEIN 3 PREMIUM HD
+http://maxq.live:800/22123/111/475
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://maxq.live:800/22123/111/476
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://maxq.live:800/22123/111/477
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://maxq.live:800/22123/111/478
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://maxq.live:800/22123/111/479
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://maxq.live:800/22123/111/480
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://maxq.live:800/22123/111/481
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://maxq.live:800/22123/111/482
+#EXTINF:-1,SSC HD
+http://maxq.live:800/22123/111/897
+#EXTINF:-1,AD Sports Extra HD
+http://maxq.live:800/22123/111/906
+#EXTINF:-1,AD Sports Extra Local
+http://maxq.live:800/22123/111/908
+#EXTINF:-1,El fagr tv
+http://maxq.live:800/22123/111/909
+#EXTINF:-1,-------------## Server 2 SD##-------------
+http://maxq.live:800/22123/111/894
+#EXTINF:-1,BeIN PREMIUM 1 SD
+http://maxq.live:800/22123/111/890
+#EXTINF:-1,BeIN PREMIUM 2 SD
+http://maxq.live:800/22123/111/891
+#EXTINF:-1,BeIN SPORT Max 1 SD
+http://maxq.live:800/22123/111/892
+#EXTINF:-1,BeIN SPORT Max 2 SD
+http://maxq.live:800/22123/111/893
+#EXTINF:-1,-------------## Server 2 LOW##-------------
+http://maxq.live:800/22123/111/900
+#EXTINF:-1,BeIN PREMIUM 1 low
+http://maxq.live:800/22123/111/902
+#EXTINF:-1,BeIN PREMIUM 2 low
+http://maxq.live:800/22123/111/903
+#EXTINF:-1,BeIN SPORT Max 1 Low
+http://maxq.live:800/22123/111/904
+#EXTINF:-1,BeIN SPORT Max 2 Low
+http://maxq.live:800/22123/111/905
+#EXTINF:-1,-------------## Server 1 SD##-------------
+http://maxq.live:800/22123/111/472
+#EXTINF:-1,BEIN 1 PREMIUM SD
+http://maxq.live:800/22123/111/493
+#EXTINF:-1,BEIN 2 PREMIUM SD
+http://maxq.live:800/22123/111/483
+#EXTINF:-1,BEIN 3 PREMIUM SD
+http://maxq.live:800/22123/111/484
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://maxq.live:800/22123/111/485
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://maxq.live:800/22123/111/486
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://maxq.live:800/22123/111/487
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://maxq.live:800/22123/111/488
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://maxq.live:800/22123/111/489
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://maxq.live:800/22123/111/490
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://maxq.live:800/22123/111/491
+#EXTINF:-1,AD Sports Extra LOW
+http://maxq.live:800/22123/111/907
