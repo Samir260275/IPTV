@@ -168,8 +168,60 @@ http://maxq.live:800/22123/111/478
 http://maxq.live:800/22123/111/479
 #EXTINF:-1,BEIN SPORTS 5 HD
 http://maxq.live:800/22123/111/480
-#EXTINF:-1,-------------## beIN 4K ##-------------
+#EXTINF:-1,-------------## beIN 720/1080 ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
+#EXTINF:-1,beIN Sport Premium 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31529
+#EXTINF:-1,beIN Sport Premium 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31528
+#EXTINF:-1,beIN Sport Premium 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31527
+#EXTINF:-1,beIN Sport 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31536
+#EXTINF:-1,beIN Sport 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31535
+#EXTINF:-1,beIN Sport 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31534
+#EXTINF:-1,beIN Sport 04 (720P)
+http://red.ipfox.org:8080/1234/12345678/31533
+#EXTINF:-1,beIN Sport 05 (720P)
+http://red.ipfox.org:8080/1234/12345678/31532
+#EXTINF:-1,beIN Sport 06 (720P)
+http://red.ipfox.org:8080/1234/12345678/31531
+#EXTINF:-1,beIN Sport 07 (720P)
+http://red.ipfox.org:8080/1234/12345678/31530
+#EXTINF:-1,beIN Sport Premium 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31498
+#EXTINF:-1,beIN Sport Premium 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31497
+#EXTINF:-1,beIN Sport Premium 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31496
+#EXTINF:-1,beIN Sport 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31493
+#EXTINF:-1,beIN Sport 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31492
+#EXTINF:-1,beIN Sport 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31491
+#EXTINF:-1,beIN Sport 04 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31490
+#EXTINF:-1,beIN Sport 05 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31489
+#EXTINF:-1,beIN Sport 06 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31488
+#EXTINF:-1,beIN Sport 07 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31487
+#EXTINF:-1,SSC 1 HD
+http://red.ipfox.org:8080/1234/12345678/37815
+#EXTINF:-1,SSC 2 HD
+http://red.ipfox.org:8080/1234/12345678/37821
+#EXTINF:-1,SSC 3 HD
+http://red.ipfox.org:8080/1234/12345678/37816
+#EXTINF:-1,SSC 4 HD
+http://red.ipfox.org:8080/1234/12345678/37817
+#EXTINF:-1,SSC 5 HD
+http://red.ipfox.org:8080/1234/12345678/37818
+#EXTINF:-1,SSC 6 HD
+
 
 #EXTINF:-1,-------------## beIN 4K ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
