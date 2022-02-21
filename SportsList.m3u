@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,-------------## beIN 4K ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:-1,beIN 1 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141545
 #EXTINF:-1,beIN 2 PREMIUM 4K
@@ -18,6 +20,8 @@ http://stariptv.org:8080/wael2021/123456/141552
 #EXTINF:-1,beIN SPORTS 6 4K
 http://stariptv.org:8080/wael2021/123456/141553
 #EXTINF:-1,beIN SPORTS 7 4K
+#EXTINF:-1,-------------## beIN HQ ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:-1,beIN 1 PREMIUM HQ
 http://stariptv.org:8080/wael2021/123456/2762
 #EXTINF:-1,beIN 2 PREMIUM HQ
@@ -32,6 +36,8 @@ http://stariptv.org:8080/wael2021/123456/2756
 http://stariptv.org:8080/wael2021/123456/2757
 #EXTINF:-1,AR: beIN 4 HQ
 http://stariptv.org:8080/wael2021/123456/2758
+#EXTINF:-1,-------------## beIN FHD ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:-1,beIN 1 PREMIUM FHD
 http://stariptv.org:8080/wael2021/123456/141563
 #EXTINF:-1,beIN 2 PREMIUM FHD
@@ -52,7 +58,8 @@ http://stariptv.org:8080/wael2021/123456/141570
 http://stariptv.org:8080/wael2021/123456/141571
 #EXTINF:-1,beIN Sports HD7 FHD
 http://stariptv.org:8080/wael2021/123456/141572
-
+#EXTINF:-1,-------------## beIN HD ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:-1,beIN 1 PREMIUM HD
 http://stariptv.org:8080/wael2021/123456/15563
 #EXTINF:-1,beIN 2 PREMIUM HD
@@ -81,8 +88,8 @@ http://stariptv.org:8080/wael2021/123456/15559
 http://stariptv.org:8080/wael2021/123456/15558
 #EXTINF:-1,AR: beIN 4 HD
 http://stariptv.org:8080/wael2021/123456/15557
-
-
+#EXTINF:-1,-------------## beIN 4K ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="4K",beIN 1 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141545?checkedby:Samir_Sat
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN 2 PREMIUM 4K
@@ -101,7 +108,8 @@ http://stariptv.org:8080/wael2021/123456/141552?checkedby:Samir_Sat
 http://stariptv.org:8080/wael2021/123456/141553?checkedby:Samir_Sat
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN SPORTS 7 4K
 http://stariptv.org:8080/wael2021/123456/141554?checkedby:Samir_Sat
-
+#EXTINF:-1,-------------## beIN HD ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:0 tvg-id="ext" group-title="beIN HD",BeIN PREMIUM 1
 http://maxq.live:800/555/111/605
 #EXTINF:0 tvg-id="ext" group-title="beIN HD",BeIN PREMIUM 2
@@ -160,7 +168,8 @@ http://maxq.live:800/22123/111/478
 http://maxq.live:800/22123/111/479
 #EXTINF:-1,BEIN SPORTS 5 HD
 http://maxq.live:800/22123/111/480
-
+#EXTINF:-1,-------------## bein 4K ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:-1,beIN SPORTS Premium 4K 1
 http://txm.flysat.live:80/152061739610208/v7mYUXc5Rg/205299
 #EXTINF:-1,beIN SPORTS Premium 4K 2
@@ -181,7 +190,8 @@ http://txm.flysat.live:80/152061739610208/v7mYUXc5Rg/205292
 http://txm.flysat.live:80/152061739610208/v7mYUXc5Rg/205291
 #EXTINF:-1,beIN SPORTS 4K 7
 http://txm.flysat.live:80/152061739610208/v7mYUXc5Rg/205290
-
+#EXTINF:-1,-------------## bein 4K ##-------------
+http://stariptv.org:8080/wael2021/123456/1415451
 #EXTINF:-1,beIN SPORTS Premium 4K 1
 http://casper-plus.com:80/live/33333333/22222222/67060.ts
 #EXTINF:-1,beIN SPORTS Premium 4K 2
