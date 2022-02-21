@@ -1,4 +1,88 @@
 #EXTM3U
+#EXTINF:-1,beIN 1 PREMIUM 4K
+http://stariptv.org:8080/wael2021/123456/141545
+#EXTINF:-1,beIN 2 PREMIUM 4K
+http://stariptv.org:8080/wael2021/123456/141546
+#EXTINF:-1,beIN 3 PREMIUM 4K
+http://stariptv.org:8080/wael2021/123456/141547
+#EXTINF:-1,beIN SPORTS 1 4K
+http://stariptv.org:8080/wael2021/123456/141548
+#EXTINF:-1,beIN SPORTS 2 4K
+http://stariptv.org:8080/wael2021/123456/141549
+#EXTINF:-1,beIN SPORTS 3 4K
+http://stariptv.org:8080/wael2021/123456/141550
+#EXTINF:-1,beIN SPORTS 4 4K
+http://stariptv.org:8080/wael2021/123456/141551
+#EXTINF:-1,beIN SPORTS 5 4K
+http://stariptv.org:8080/wael2021/123456/141552
+#EXTINF:-1,beIN SPORTS 6 4K
+http://stariptv.org:8080/wael2021/123456/141553
+#EXTINF:-1,beIN SPORTS 7 4K
+#EXTINF:-1,beIN 1 PREMIUM HQ
+http://stariptv.org:8080/wael2021/123456/2762
+#EXTINF:-1,beIN 2 PREMIUM HQ
+http://stariptv.org:8080/wael2021/123456/2763
+#EXTINF:-1,beIN 3 PREMIUM HQ
+http://stariptv.org:8080/wael2021/123456/2766
+#EXTINF:-1,AR: beIN 1 HQ
+http://stariptv.org:8080/wael2021/123456/2755
+#EXTINF:-1,AR: beIN 2 HQ
+http://stariptv.org:8080/wael2021/123456/2756
+#EXTINF:-1,AR: beIN 3 HQ
+http://stariptv.org:8080/wael2021/123456/2757
+#EXTINF:-1,AR: beIN 4 HQ
+http://stariptv.org:8080/wael2021/123456/2758
+#EXTINF:-1,beIN 1 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141563
+#EXTINF:-1,beIN 2 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141564
+#EXTINF:-1,beIN 3 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141565
+#EXTINF:-1,beIN Sports HD1 FHD
+http://stariptv.org:8080/wael2021/123456/141566
+#EXTINF:-1,beIN Sports HD2 FHD
+http://stariptv.org:8080/wael2021/123456/141567
+#EXTINF:-1,beIN Sports HD3 FHD
+http://stariptv.org:8080/wael2021/123456/141568
+#EXTINF:-1,beIN Sports HD4 FHD
+http://stariptv.org:8080/wael2021/123456/141569
+#EXTINF:-1,beIN Sports HD5 FHD
+http://stariptv.org:8080/wael2021/123456/141570
+#EXTINF:-1,beIN Sports HD6 FHD
+http://stariptv.org:8080/wael2021/123456/141571
+#EXTINF:-1,beIN Sports HD7 FHD
+http://stariptv.org:8080/wael2021/123456/141572
+
+#EXTINF:-1,beIN 1 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15563
+#EXTINF:-1,beIN 2 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15562
+#EXTINF:-1,beIN 3 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15561
+#EXTINF:-1,AR: beIN 1 HD
+http://stariptv.org:8080/wael2021/123456/15560
+#EXTINF:-1,AR: beIN 2 HD
+http://stariptv.org:8080/wael2021/123456/15559
+#EXTINF:-1,AR: beIN 3 HD
+http://stariptv.org:8080/wael2021/123456/15558
+#EXTINF:-1,AR: beIN 4 HD
+http://stariptv.org:8080/wael2021/123456/15557
+#EXTINF:-1,AR: beIN 5 HD
+http://stariptv.org:8080/wael2021/123456/15556
+#EXTINF:-1,AR: beIN 6 HD
+http://stariptv.org:8080/wael2021/123456/15555
+#EXTINF:-1,AR: beIN 7 HD
+http://stariptv.org:8080/wael2021/123456/15720
+#EXTINF:-1,AR: beIN 1 HD
+http://stariptv.org:8080/wael2021/123456/15560
+#EXTINF:-1,AR: beIN 2 HD
+http://stariptv.org:8080/wael2021/123456/15559
+#EXTINF:-1,AR: beIN 3 HD
+http://stariptv.org:8080/wael2021/123456/15558
+#EXTINF:-1,AR: beIN 4 HD
+http://stariptv.org:8080/wael2021/123456/15557
+
+
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="4K",beIN 1 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141545?checkedby:Samir_Sat
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN 2 PREMIUM 4K
