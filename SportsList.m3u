@@ -369,11 +369,142 @@ http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18415
 #EXTINF:-1,BeinSports1
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18416
 
-#EXTINF:-1, DIVERTISSEMENT HD
-http://stariptv.org:8080/wael2021/123456/1320011
-#EXTINF:-1,beIN  Boomerang HD
-http://stariptv.org:8080/wael2021/123456/132001
-#EXTINF:-1,KIDS.SPACETOON
-http://stariptv.org:8080/wael2021/123456/67749
+#EXTINF:-1,-------------## Max Live HD ##-------------
+http://maxq.live:800/22123/111/447
+#EXTINF:-1,BeIN PREMIUM 1
+http://maxq.live:800/22123/111/605
+#EXTINF:-1,BeIN PREMIUM 2
+http://maxq.live:800/22123/111/606
+#EXTINF:-1,BeIN PREMIUM 3
+http://maxq.live:800/22123/111/607
+#EXTINF:-1,BeIN Sports 1
+http://maxq.live:800/22123/111/608
+#EXTINF:-1,-------------## Server 1 HD##-------------
+http://maxq.live:800/22123/111/473
+#EXTINF:-1,BEIN 1 PREMIUM HD
+http://maxq.live:800/22123/111/492
+#EXTINF:-1,BEIN 2 PREMIUM HD
+http://maxq.live:800/22123/111/474
+#EXTINF:-1,BEIN 3 PREMIUM HD
+http://maxq.live:800/22123/111/475
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://maxq.live:800/22123/111/476
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://maxq.live:800/22123/111/477
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://maxq.live:800/22123/111/478
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://maxq.live:800/22123/111/479
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://maxq.live:800/22123/111/480
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://maxq.live:800/22123/111/481
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://maxq.live:800/22123/111/482
+#EXTINF:-1,SSC HD
+http://maxq.live:800/22123/111/897
+#EXTINF:-1,AD Sports Extra Local
+http://maxq.live:800/22123/111/908
+#EXTINF:-1,El fagr tv
+http://maxq.live:800/22123/111/909
+#EXTINF:-1,-------------## Server 2 SD##-------------
+http://maxq.live:800/22123/111/894
+#EXTINF:-1,BeIN PREMIUM 1 SD
+http://maxq.live:800/22123/111/890
+#EXTINF:-1,BeIN PREMIUM 2 SD
+http://maxq.live:800/22123/111/891
+#EXTINF:-1,BeIN PREMIUM 3 SD
+http://maxq.live:800/22123/111/892
+#EXTINF:-1,BeIN Sports 3
+http://maxq.live:800/22123/111/893
+#EXTINF:-1,-------------## Server 1 SD##-------------
+http://maxq.live:800/22123/111/472
+#EXTINF:-1,BEIN 1 PREMIUM SD
+http://maxq.live:800/22123/111/493
+#EXTINF:-1,BEIN 2 PREMIUM SD
+http://maxq.live:800/22123/111/483
+#EXTINF:-1,BEIN 3 PREMIUM SD
+http://maxq.live:800/22123/111/484
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://maxq.live:800/22123/111/485
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://maxq.live:800/22123/111/486
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://maxq.live:800/22123/111/487
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://maxq.live:800/22123/111/488
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://maxq.live:800/22123/111/489
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://maxq.live:800/22123/111/490
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://maxq.live:800/22123/111/491
+#EXTINF:-1,AD Sports Extra LOW
+http://maxq.live:800/22123/111/907
+
+#EXTINF:-1, ----- IPFX -----
+http://red.ipfox.org:8080/1234/12345678/31529
+#EXTINF:-1,beIN Sport Premium 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31529
+#EXTINF:-1,beIN Sport Premium 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31528
+#EXTINF:-1,beIN Sport Premium 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31527
+#EXTINF:-1,beIN Sport 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31536
+#EXTINF:-1,beIN Sport 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31535
+#EXTINF:-1,beIN Sport 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31534
+#EXTINF:-1,beIN Sport 04 (720P)
+http://red.ipfox.org:8080/1234/12345678/31533
+#EXTINF:-1,beIN Sport 05 (720P)
+http://red.ipfox.org:8080/1234/12345678/31532
+#EXTINF:-1,beIN Sport 06 (720P)
+http://red.ipfox.org:8080/1234/12345678/31531
+#EXTINF:-1,beIN Sport 07 (720P)
+http://red.ipfox.org:8080/1234/12345678/31530
+#EXTINF:-1,beIN Sport Premium 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31498
+#EXTINF:-1,beIN Sport Premium 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31497
+#EXTINF:-1,beIN Sport Premium 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31496
+#EXTINF:-1,beIN Sport 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31493
+#EXTINF:-1,beIN Sport 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31492
+#EXTINF:-1,beIN Sport 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31491
+#EXTINF:-1,beIN Sport 04 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31490
+#EXTINF:-1,beIN Sport 05 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31489
+#EXTINF:-1,beIN Sport 06 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31488
+#EXTINF:-1,beIN Sport 07 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31487
+#EXTINF:-1,SSC 1 HD
+http://red.ipfox.org:8080/1234/12345678/37815
+#EXTINF:-1,SSC 2 HD
+http://red.ipfox.org:8080/1234/12345678/37821
+#EXTINF:-1,SSC 3 HD
+http://red.ipfox.org:8080/1234/12345678/37816
+#EXTINF:-1,SSC 4 HD
+http://red.ipfox.org:8080/1234/12345678/37817
+#EXTINF:-1,SSC 5 HD
+http://red.ipfox.org:8080/1234/12345678/37818
+#EXTINF:-1,SSC 6 HD
+http://red.ipfox.org:8080/1234/12345678/37819
+#EXTINF:-1,SSC 7 HD
+http://red.ipfox.org:8080/1234/12345678/37820
+
+
+#EXTINF:-1, ----- DIVERTISSEMENT -----
+http://vmp343.ddnsking.com:80/thomas2/thomas2/560137
+#EXTINF:-1,|Kids| Boomerang
+http://red.ipfox.org:8080/1234/12345678/37486
+#EXTINF:-1,|kids| SPACETOON ARABIC
+http://red.ipfox.org:8080/1234/12345678/2926
 #EXTINF:-1,FR: BOOMERANG FHD
 http://stariptv.org:8080/wael2021/123456/56231
