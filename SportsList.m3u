@@ -543,6 +543,8 @@ http://stariptv.org:8080/wael2021/123456/141545?
 #EXTINF:-1,beIN 2 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141546
 
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="PLAY LIST 1",PLAYLIST 1
+http://hz01.oknirvana.club:8880/get.php?username=AA6M0485&password=535355353&type=m3u&output=ts						
 
 
 
