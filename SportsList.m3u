@@ -1,549 +1,373 @@
 #EXTM3U
-#EXTINF:-1,-------------## beIN 4K ##-------------
+#EXTINF:0,-------------## beIN 4K ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,beIN 1 PREMIUM 4K
+#EXTINF:0,beIN 1 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141545
-#EXTINF:-1,beIN 2 PREMIUM 4K
+#EXTINF:0,beIN 2 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141546
-#EXTINF:-1,beIN 3 PREMIUM 4K
+#EXTINF:0,beIN 3 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141547
-#EXTINF:-1,beIN SPORTS 1 4K
+#EXTINF:0,beIN SPORTS 1 4K
 http://stariptv.org:8080/wael2021/123456/141548
-#EXTINF:-1,beIN SPORTS 2 4K
+#EXTINF:0,beIN SPORTS 2 4K
 http://stariptv.org:8080/wael2021/123456/141549
-#EXTINF:-1,beIN SPORTS 3 4K
+#EXTINF:0,beIN SPORTS 3 4K
 http://stariptv.org:8080/wael2021/123456/141550
-#EXTINF:-1,beIN SPORTS 4 4K
+#EXTINF:0,beIN SPORTS 4 4K
 http://stariptv.org:8080/wael2021/123456/141551
-#EXTINF:-1,beIN SPORTS 5 4K
-http://stariptv.org:8080/wael2021/123456/141552
-#EXTINF:-1,beIN SPORTS 6 4K
-http://stariptv.org:8080/wael2021/123456/141553
-#EXTINF:-1,beIN SPORTS 7 4K
-#EXTINF:-1,-------------## beIN HQ ##-------------
+#EXTINF:0,-------------## beIN HQ ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,beIN 1 PREMIUM HQ
+#EXTINF:0,beIN 1 PREMIUM HQ
 http://stariptv.org:8080/wael2021/123456/2762
-#EXTINF:-1,beIN 2 PREMIUM HQ
+#EXTINF:0,beIN 2 PREMIUM HQ
 http://stariptv.org:8080/wael2021/123456/2763
-#EXTINF:-1,beIN 3 PREMIUM HQ
+#EXTINF:0,beIN 3 PREMIUM HQ
 http://stariptv.org:8080/wael2021/123456/2766
-#EXTINF:-1,AR: beIN 1 HQ
+#EXTINF:0,AR: beIN 1 HQ
 http://stariptv.org:8080/wael2021/123456/2755
-#EXTINF:-1,AR: beIN 2 HQ
+#EXTINF:0,AR: beIN 2 HQ
 http://stariptv.org:8080/wael2021/123456/2756
-#EXTINF:-1,AR: beIN 3 HQ
+#EXTINF:0,AR: beIN 3 HQ
 http://stariptv.org:8080/wael2021/123456/2757
-#EXTINF:-1,AR: beIN 4 HQ
+#EXTINF:0,AR: beIN 4 HQ
 http://stariptv.org:8080/wael2021/123456/2758
-#EXTINF:-1,-------------## beIN FHD ##-------------
+#EXTINF:0,-------------## beIN FHD ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,beIN 1 PREMIUM FHD
+#EXTINF:0,beIN 1 PREMIUM FHD
 http://stariptv.org:8080/wael2021/123456/141563
-#EXTINF:-1,beIN 2 PREMIUM FHD
+#EXTINF:0,beIN 2 PREMIUM FHD
 http://stariptv.org:8080/wael2021/123456/141564
-#EXTINF:-1,beIN 3 PREMIUM FHD
+#EXTINF:0,beIN 3 PREMIUM FHD
 http://stariptv.org:8080/wael2021/123456/141565
-#EXTINF:-1,beIN Sports HD1 FHD
+#EXTINF:0,beIN Sports HD1 FHD
 http://stariptv.org:8080/wael2021/123456/141566
-#EXTINF:-1,beIN Sports HD2 FHD
+#EXTINF:0,beIN Sports HD2 FHD
 http://stariptv.org:8080/wael2021/123456/141567
-#EXTINF:-1,beIN Sports HD3 FHD
+#EXTINF:0,beIN Sports HD3 FHD
 http://stariptv.org:8080/wael2021/123456/141568
-#EXTINF:-1,beIN Sports HD4 FHD
+#EXTINF:0,beIN Sports HD4 FHD
 http://stariptv.org:8080/wael2021/123456/141569
-#EXTINF:-1,beIN Sports HD5 FHD
+#EXTINF:0,beIN Sports HD5 FHD
 http://stariptv.org:8080/wael2021/123456/141570
-#EXTINF:-1,beIN Sports HD6 FHD
+#EXTINF:0,beIN Sports HD6 FHD
 http://stariptv.org:8080/wael2021/123456/141571
-#EXTINF:-1,beIN Sports HD7 FHD
+#EXTINF:0,beIN Sports HD7 FHD
 http://stariptv.org:8080/wael2021/123456/141572
-#EXTINF:-1,-------------## beIN HD ##-------------
+#EXTINF:0,-------------## beIN HD ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,beIN 1 PREMIUM HD
+#EXTINF:0,beIN 1 PREMIUM HD
 http://stariptv.org:8080/wael2021/123456/15563
-#EXTINF:-1,beIN 2 PREMIUM HD
+#EXTINF:0,beIN 2 PREMIUM HD
 http://stariptv.org:8080/wael2021/123456/15562
-#EXTINF:-1,beIN 3 PREMIUM HD
+#EXTINF:0,beIN 3 PREMIUM HD
 http://stariptv.org:8080/wael2021/123456/15561
-#EXTINF:-1,AR: beIN 1 HD
+#EXTINF:0,AR: beIN 1 HD
 http://stariptv.org:8080/wael2021/123456/15560
-#EXTINF:-1,AR: beIN 2 HD
+#EXTINF:0,AR: beIN 2 HD
 http://stariptv.org:8080/wael2021/123456/15559
-#EXTINF:-1,AR: beIN 3 HD
+#EXTINF:0,AR: beIN 3 HD
 http://stariptv.org:8080/wael2021/123456/15558
-#EXTINF:-1,AR: beIN 4 HD
+#EXTINF:0,AR: beIN 4 HD
 http://stariptv.org:8080/wael2021/123456/15557
-#EXTINF:-1,AR: beIN 5 HD
-http://stariptv.org:8080/wael2021/123456/15556
-#EXTINF:-1,AR: beIN 6 HD
-http://stariptv.org:8080/wael2021/123456/15555
-#EXTINF:-1,AR: beIN 7 HD
-http://stariptv.org:8080/wael2021/123456/15720
-#EXTINF:-1,AR: beIN 1 HD
+#EXTINF:0,AR: beIN 1 HD
 http://stariptv.org:8080/wael2021/123456/15560
-#EXTINF:-1,AR: beIN 2 HD
+#EXTINF:0,AR: beIN 2 HD
 http://stariptv.org:8080/wael2021/123456/15559
-#EXTINF:-1,AR: beIN 3 HD
+#EXTINF:0,AR: beIN 3 HD
 http://stariptv.org:8080/wael2021/123456/15558
-#EXTINF:-1,AR: beIN 4 HD
+#EXTINF:0,AR: beIN 4 HD
 http://stariptv.org:8080/wael2021/123456/15557
-#EXTINF:-1,-------------## beIN 4K ##-------------
+#EXTINF:0,-------------## beIN 4K ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="4K",beIN 1 PREMIUM 4K
+#EXTINF:0,beIN 1 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141545?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN 2 PREMIUM 4K
+#EXTINF:0,beIN 2 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141546?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN 3 PREMIUM 4K
+#EXTINF:0,beIN 3 PREMIUM 4K
 http://stariptv.org:8080/wael2021/123456/141547?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN SPORTS 1 4K
+#EXTINF:0,beIN SPORTS 1 4K
 http://stariptv.org:8080/wael2021/123456/141548?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN SPORTS 2 4K
+#EXTINF:0,beIN SPORTS 2 4K
 http://stariptv.org:8080/wael2021/123456/141549?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN SPORTS 3 4K
+#EXTINF:0,beIN SPORTS 3 4K
 http://stariptv.org:8080/wael2021/123456/141550?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN SPORTS 5 4K
+#EXTINF:0,beIN SPORTS 5 4K
 http://stariptv.org:8080/wael2021/123456/141552?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN SPORTS 6 4K
+#EXTINF:0,beIN SPORTS 6 4K
 http://stariptv.org:8080/wael2021/123456/141553?checkedby:Samir_Sat
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 4K",beIN SPORTS 7 4K
+#EXTINF:0,beIN SPORTS 7 4K
 http://stariptv.org:8080/wael2021/123456/141554?checkedby:Samir_Sat
-#EXTINF:-1,-------------## beIN HD ##-------------
+#EXTINF:0,-------------## beIN HD ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:0 tvg-id="ext" group-title="beIN HD",BeIN PREMIUM 1
+#EXTINF:0,BeIN PREMIUM 1
 http://maxq.live:800/555/111/605
-#EXTINF:0 tvg-id="ext" group-title="beIN HD",BeIN PREMIUM 2
+#EXTINF:0,BeIN PREMIUM 2
 http://maxq.live:800/555/111/606
-#EXTINF:0 tvg-id="ext" group-title="beIN HD",BeIN PREMIUM 3
+#EXTINF:0,BeIN PREMIUM 3
 http://maxq.live:800/555/111/607
-#EXTINF:0 tvg-id="ext" group-title="beIN HD",BEIN 1 PREMIUM HD
+#EXTINF:0,BEIN 1 PREMIUM HD
 http://maxq.live:800/555/111/492
-#EXTINF:0 tvg-id="ext" group-title="beIN HD",BEIN 2 PREMIUM HD
+#EXTINF:0,BEIN 2 PREMIUM HD
 http://maxq.live:800/555/111/474
-#EXTINF:0 tvg-id="ext" group-title="beIN HD",BEIN 3 PREMIUM HD
+#EXTINF:0,BEIN 3 PREMIUM HD
 http://maxq.live:800/555/111/475
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN HD",BEIN SPORTS 1 HD
+#EXTINF:0,BEIN SPORTS 1 HD
 http://maxq.live:800/555/111/476
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN HD",BEIN SPORTS 2 HD
+#EXTINF:0,BEIN SPORTS 2 HD
 http://maxq.live:800/555/111/477
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="beIN HD",BEIN SPORTS 3 HD
+#EXTINF:0,BEIN SPORTS 3 HD
 http://maxq.live:800/555/111/478
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN HD",BEIN SPORTS 4 HD
+#EXTINF:0,BEIN SPORTS 4 HD
 http://maxq.live:800/555/111/479
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN HD",BEIN SPORTS 5 HD
-http://maxq.live:800/555/111/480
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN HD",BEIN SPORTS 6 HD
-http://maxq.live:800/555/111/481
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN HD",BEIN SPORTS 7 HD
-http://maxq.live:800/555/111/482
-
-#EXTM3U
-#EXTINF:-1,-------------## Server 2 HD ##-------------
+#EXTINF:0,-------------## Server 2 HD ##-------------
 http://maxq.live:800/22123/111/447
-#EXTINF:-1,BeIN PREMIUM 1
+#EXTINF:0,BeIN PREMIUM 1
 http://maxq.live:800/22123/111/605
-#EXTINF:-1,BeIN PREMIUM 2
+#EXTINF:0,BeIN PREMIUM 2
 http://maxq.live:800/22123/111/606
-#EXTINF:-1,BeIN PREMIUM 3
+#EXTINF:0,BeIN PREMIUM 3
 http://maxq.live:800/22123/111/607
-#EXTINF:-1,BeIN Sports 1
-http://maxq.live:800/22123/111/608
-#EXTINF:-1,AD Sports Extra FHD
-http://maxq.live:800/22123/111/916
-#EXTINF:-1,-------------## Server 1 HD##-------------
+#EXTINF:0,-------------## Server 1 HD##-------------
 http://maxq.live:800/22123/111/473
-#EXTINF:-1,BEIN 1 PREMIUM HD
+#EXTINF:0,BEIN 1 PREMIUM HD
 http://maxq.live:800/22123/111/492
-#EXTINF:-1,BEIN 2 PREMIUM HD
+#EXTINF:0,BEIN 2 PREMIUM HD
 http://maxq.live:800/22123/111/474
-#EXTINF:-1,BEIN 3 PREMIUM HD
+#EXTINF:0,BEIN 3 PREMIUM HD
 http://maxq.live:800/22123/111/475
-#EXTINF:-1,BEIN SPORTS 1 HD
+#EXTINF:0,BEIN SPORTS 1 HD
 http://maxq.live:800/22123/111/476
-#EXTINF:-1,BEIN SPORTS 2 HD
+#EXTINF:0,BEIN SPORTS 2 HD
 http://maxq.live:800/22123/111/477
-#EXTINF:-1,BEIN SPORTS 3 HD
+#EXTINF:0,BEIN SPORTS 3 HD
 http://maxq.live:800/22123/111/478
-#EXTINF:-1,BEIN SPORTS 4 HD
+#EXTINF:0,BEIN SPORTS 4 HD
 http://maxq.live:800/22123/111/479
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://maxq.live:800/22123/111/480
-#EXTINF:-1,-------------## beIN 720/1080 ##-------------
+#EXTINF:0,-------------## beIN 720/1080 ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,beIN Sport Premium 01 (720P)
+#EXTINF:0,beIN Sport Premium 01 (720P)
 http://red.ipfox.org:8080/1234/12345678/31529
-#EXTINF:-1,beIN Sport Premium 02 (720P)
+#EXTINF:0,beIN Sport Premium 02 (720P)
 http://red.ipfox.org:8080/1234/12345678/31528
-#EXTINF:-1,beIN Sport Premium 03 (720P)
+#EXTINF:0,beIN Sport Premium 03 (720P)
 http://red.ipfox.org:8080/1234/12345678/31527
-#EXTINF:-1,beIN Sport 01 (720P)
+#EXTINF:0,beIN Sport 01 (720P)
 http://red.ipfox.org:8080/1234/12345678/31536
-#EXTINF:-1,beIN Sport 02 (720P)
+#EXTINF:0,beIN Sport 02 (720P)
 http://red.ipfox.org:8080/1234/12345678/31535
-#EXTINF:-1,beIN Sport 03 (720P)
+#EXTINF:0,beIN Sport 03 (720P)
 http://red.ipfox.org:8080/1234/12345678/31534
-#EXTINF:-1,beIN Sport 04 (720P)
+#EXTINF:0,beIN Sport 04 (720P)
 http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:-1,beIN Sport 05 (720P)
+#EXTINF:0,beIN Sport 05 (720P)
 http://red.ipfox.org:8080/1234/12345678/31532
-#EXTINF:-1,beIN Sport 06 (720P)
+#EXTINF:0,beIN Sport 06 (720P)
 http://red.ipfox.org:8080/1234/12345678/31531
-#EXTINF:-1,beIN Sport 07 (720P)
+#EXTINF:0,beIN Sport 07 (720P)
 http://red.ipfox.org:8080/1234/12345678/31530
-#EXTINF:-1,beIN Sport Premium 01 (1080P)
+#EXTINF:0,beIN Sport Premium 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31498
-#EXTINF:-1,beIN Sport Premium 02 (1080P)
+#EXTINF:0,beIN Sport Premium 02 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31497
-#EXTINF:-1,beIN Sport Premium 03 (1080P)
+#EXTINF:0,beIN Sport Premium 03 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31496
-#EXTINF:-1,beIN Sport 01 (1080P)
+#EXTINF:0,beIN Sport 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31493
-#EXTINF:-1,beIN Sport 02 (1080P)
+#EXTINF:0,beIN Sport 02 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31492
-#EXTINF:-1,beIN Sport 03 (1080P)
+#EXTINF:0,beIN Sport 03 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:-1,beIN Sport 04 (1080P)
+#EXTINF:0,beIN Sport 04 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:-1,beIN Sport 05 (1080P)
+#EXTINF:0,beIN Sport 05 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31489
-#EXTINF:-1,beIN Sport 06 (1080P)
+#EXTINF:0,beIN Sport 06 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31488
-#EXTINF:-1,beIN Sport 07 (1080P)
+#EXTINF:0,beIN Sport 07 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31487
-#EXTINF:-1,SSC 1 HD
-http://red.ipfox.org:8080/1234/12345678/37815
-#EXTINF:-1,SSC 2 HD
-http://red.ipfox.org:8080/1234/12345678/37821
-#EXTINF:-1,SSC 3 HD
-http://red.ipfox.org:8080/1234/12345678/37816
-#EXTINF:-1,SSC 4 HD
-http://red.ipfox.org:8080/1234/12345678/37817
-#EXTINF:-1,SSC 5 HD
-http://red.ipfox.org:8080/1234/12345678/37818
-#EXTINF:-1,SSC 6 HD
-
-#EXTINF:-1,-------------## beIN ULTRA ##-------------
+#EXTINF:0,-------------## beIN ULTRA ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,Arabic - beIN Sports  1 HD
+#EXTINF:0,Arabic - beIN Sports  1 HD
 http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37976
-#EXTINF:-1,Arabic - beIN Sports  2 HD
+#EXTINF:0,Arabic - beIN Sports  2 HD
 http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37977
-#EXTINF:-1,Arabic - beIN Sports  3 HD
+#EXTINF:0,Arabic - beIN Sports  3 HD
 http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37978
-#EXTINF:-1,Arabic - beIN Sports  4 HD
+#EXTINF:0,Arabic - beIN Sports  4 HD
 http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37979
-#EXTINF:-1,Arabic - beIN Sports  6 HD
+#EXTINF:0,Arabic - beIN Sports  6 HD
 http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37981
-#EXTINF:-1,Arabic - beIN Sports  7 HD
-http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37982
-#EXTINF:-1,Arabic - beIN Sports  9 HD
+#EXTINF:0,Arabic - beIN Sports  9 HD
 http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37983
-#EXTINF:-1,Arabic - beIN Sports 10 HD
-http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37984
-#EXTINF:-1,Arabic - beIN Sports 11 HD
-http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37985
-#EXTINF:-1,Arabic - beIN Sports 12 HD
-http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/37986
-
-#EXTINF:-1,-------------## beIN Backup ##-------------
+#EXTINF:0,-------------## beIN Backup ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,AR: beIN SPorts
+#EXTINF:0,AR: beIN SPorts
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/29
-#EXTINF:-1,AR: beIN Sports 1 HD
+#EXTINF:0,AR: beIN Sports 1 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/30
-#EXTINF:-1,AR: beIN Sports 10 HD
+#EXTINF:0,AR: beIN Sports 10 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/39
-#EXTINF:-1,AR: beIN Sports 11 HD
+#EXTINF:0,AR: beIN Sports 11 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/40
-#EXTINF:-1,AR: beIN Sports 12 HD
+#EXTINF:0,AR: beIN Sports 12 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/41
-#EXTINF:-1,AR: beIN Sports 13 HD
+#EXTINF:0,AR: beIN Sports 13 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/42
-#EXTINF:-1,AR: beIN Sports 2 HD
+#EXTINF:0,AR: beIN Sports 2 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/31
-#EXTINF:-1,AR: beIN Sports 3 HD
+#EXTINF:0,AR: beIN Sports 3 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/32
-#EXTINF:-1,AR: beIN Sports 4 HD
+#EXTINF:0,AR: beIN Sports 4 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/33
-#EXTINF:-1,AR: beIN Sports 5 HD
+#EXTINF:0,AR: beIN Sports 5 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/34
-#EXTINF:-1,AR: beIN Sports 6 HD
+#EXTINF:0,AR: beIN Sports 6 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/35
-#EXTINF:-1,AR: beIN Sports 7 HD
+#EXTINF:0,AR: beIN Sports 7 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/36
-#EXTINF:-1,AR: beIN Sports 8 HD
+#EXTINF:0,AR: beIN Sports 8 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/37
-#EXTINF:-1,AR: beIN Sports 9 HD
+#EXTINF:0,AR: beIN Sports 9 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/38
-#EXTINF:-1,AR: BEIN SPORT (Backup2) 10 HD
+#EXTINF:0,AR: BEIN SPORT (Backup2) 10 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6939
-#EXTINF:-1,AR: BEIN SPORT (Backup2) 8 HD
+#EXTINF:0,AR: BEIN SPORT (Backup2) 8 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6937
-#EXTINF:-1,AR: BEIN SPORT (Backup2) 9 HD
+#EXTINF:0,AR: BEIN SPORT (Backup2) 9 HD
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6938
-#EXTINF:-1,AR: BEIN SPORT (Backup2) HD 2
+#EXTINF:0,AR: BEIN SPORT (Backup2) HD 2
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6860
-#EXTINF:-1,AR: BEIN SPORT (Backup2) HD 4
+#EXTINF:0,AR: BEIN SPORT (Backup2) HD 4
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6862
-#EXTINF:-1,AR: BEIN SPORT (Backup2) HD 5
+#EXTINF:0,AR: BEIN SPORT (Backup2) HD 5
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6863
-#EXTINF:-1,AR: BEIN SPORT (Backup2) HD 6
+#EXTINF:0,AR: BEIN SPORT (Backup2) HD 6
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6864
-#EXTINF:-1,AR: BEIN SPORT (Backup2) HD 7
+#EXTINF:0,AR: BEIN SPORT (Backup2) HD 7
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6865
-
-#EXTINF:-1,-------------## beIN Pro Server ##-------------
+#EXTINF:0,-------------## beIN Pro Server ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:-1,BeinVIP : BEIN SPORTS 1 Premium HD
+#EXTINF:0,BeinVIP : BEIN SPORTS 1 Premium HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95651
-#EXTINF:-1,BeinVIP : BEIN SPORTS 1 Premium FHD
+#EXTINF:0,BeinVIP : BEIN SPORTS 1 Premium FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95650
-#EXTINF:-1,BeinVIP : BEIN SPORTS 2 Premium HD
+#EXTINF:0,BeinVIP : BEIN SPORTS 2 Premium HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95649
-#EXTINF:-1,BeinVIP : BEIN SPORTS 2 Premium FHD
+#EXTINF:0,BeinVIP : BEIN SPORTS 2 Premium FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95648
-#EXTINF:-1,BeinVIP : BEIN SPORTS 3 Premium HD
+#EXTINF:0,BeinVIP : BEIN SPORTS 3 Premium HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95647
-#EXTINF:-1,BeinVIP : BEIN SPORTS 3 Premium FHD
+#EXTINF:0,BeinVIP : BEIN SPORTS 3 Premium FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95646
-#EXTINF:-1,BeinVIP : BEIN SPORTS 1HD EN
+#EXTINF:0,BeinVIP : BEIN SPORTS 1HD EN
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95645
-#EXTINF:-1,BeinVIP : BEIN SPORTS 2HD EN
+#EXTINF:0,BeinVIP : BEIN SPORTS 2HD EN
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95644
-#EXTINF:-1,BeinVIP : BEIN SPORTS 1HD FR
+#EXTINF:0,BeinVIP : BEIN SPORTS 1HD FR
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95643
-#EXTINF:-1,BeinVIP : BEIN SPORTS 2HD FR
+#EXTINF:0,BeinVIP : BEIN SPORTS 2HD FR
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95642
-#EXTINF:-1,BeinVIP : BEIN SPORTS 3HD FR
+#EXTINF:0,BeinVIP : BEIN SPORTS 3HD FR
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95641
-#EXTINF:-1,BeinVIP : BEIN SPORTS XTRA 1 HD
+#EXTINF:0,BeinVIP : BEIN SPORTS XTRA 1 HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95640
-#EXTINF:-1,BeinVIP : BEIN SPORTS XTRA 2 HD
+#EXTINF:0,BeinVIP : BEIN SPORTS XTRA 2 HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/95639
-#EXTINF:-1,BeinVIP : beIN Sports 1 FHD
+#EXTINF:0,BeinVIP : beIN Sports 1 FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59881
-#EXTINF:-1,BeinVIP : beIN Sports 1 HD
+#EXTINF:0,BeinVIP : beIN Sports 1 HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59882
-#EXTINF:-1,BeinVIP : beIN Sports 2 FHD
+#EXTINF:0,BeinVIP : beIN Sports 2 FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59883
-#EXTINF:-1,BeinVIP : beIN Sports 2 HD
+#EXTINF:0,BeinVIP : beIN Sports 2 HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59884
-#EXTINF:-1,BeinVIP : beIN Sports  3 FHD
+#EXTINF:0,BeinVIP : beIN Sports  3 FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59885
-#EXTINF:-1,BeinVIP : beIN Sports  3 HD
+#EXTINF:0,BeinVIP : beIN Sports  3 HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59886
-#EXTINF:-1,BeinVIP : beIN Sports  4 FHD
+#EXTINF:0,BeinVIP : beIN Sports  4 FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59887
-#EXTINF:-1,BeinVIP : beIN Sports  4 HD
+#EXTINF:0,BeinVIP : beIN Sports  4 HD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59888
-#EXTINF:-1,BeinVIP : beIN Sports  5 FHD
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59889
-#EXTINF:-1,BeinVIP : beIN Sports  5 HD
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59890
-#EXTINF:-1,BeinVIP : beIN Sports  6 FHD
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59891
-#EXTINF:-1,BeinVIP : beIN Sports  6 HD
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59892
-#EXTINF:-1,BeinVIP : beIN Sports  7 FHD
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59893
-#EXTINF:-1,BeinVIP : beIN Sports  7 HD
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/59894
-#EXTINF:-1,BeinSports10
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18407
-#EXTINF:-1,BeinSports9
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18408
-#EXTINF:-1,BeinSports8
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18409
-#EXTINF:-1,BeinSports7
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18410
-#EXTINF:-1,BeinSports6
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18411
-#EXTINF:-1,BeinSports5
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18412
-#EXTINF:-1,BeinSports4
+#EXTINF:0,BeinSports4
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18413
-#EXTINF:-1,BeinSports3
+#EXTINF:0,BeinSports3
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18414
-#EXTINF:-1,BeinSports2
+#EXTINF:0,BeinSports2
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18415
-#EXTINF:-1,BeinSports1
+#EXTINF:0,BeinSports1
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18416
-
-#EXTINF:-1,-------------## Max Live HD ##-------------
+#EXTINF:0,-------------## Max Live HD ##-------------
 http://maxq.live:800/22123/111/447
-#EXTINF:-1,BeIN PREMIUM 1
+#EXTINF:0,BeIN PREMIUM 1
 http://maxq.live:800/22123/111/605
-#EXTINF:-1,BeIN PREMIUM 2
+#EXTINF:0,BeIN PREMIUM 2
 http://maxq.live:800/22123/111/606
-#EXTINF:-1,BeIN PREMIUM 3
+#EXTINF:0,BeIN PREMIUM 3
 http://maxq.live:800/22123/111/607
-#EXTINF:-1,BeIN Sports 1
+#EXTINF:0,BeIN Sports 1
 http://maxq.live:800/22123/111/608
-#EXTINF:-1,-------------## Server 1 HD##-------------
+#EXTINF:0,-------------## Server 1 HD##-------------
 http://maxq.live:800/22123/111/473
-#EXTINF:-1,BEIN 1 PREMIUM HD
+#EXTINF:0,BEIN 1 PREMIUM HD
 http://maxq.live:800/22123/111/492
-#EXTINF:-1,BEIN 2 PREMIUM HD
+#EXTINF:0,BEIN 2 PREMIUM HD
 http://maxq.live:800/22123/111/474
-#EXTINF:-1,BEIN 3 PREMIUM HD
+#EXTINF:0,BEIN 3 PREMIUM HD
 http://maxq.live:800/22123/111/475
-#EXTINF:-1,BEIN SPORTS 1 HD
+#EXTINF:0,BEIN SPORTS 1 HD
 http://maxq.live:800/22123/111/476
-#EXTINF:-1,BEIN SPORTS 2 HD
+#EXTINF:0,BEIN SPORTS 2 HD
 http://maxq.live:800/22123/111/477
-#EXTINF:-1,BEIN SPORTS 3 HD
+#EXTINF:0,BEIN SPORTS 3 HD
 http://maxq.live:800/22123/111/478
-#EXTINF:-1,BEIN SPORTS 4 HD
+#EXTINF:0,BEIN SPORTS 4 HD
 http://maxq.live:800/22123/111/479
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://maxq.live:800/22123/111/480
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://maxq.live:800/22123/111/481
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://maxq.live:800/22123/111/482
-#EXTINF:-1,SSC HD
-http://maxq.live:800/22123/111/897
-#EXTINF:-1,AD Sports Extra Local
-http://maxq.live:800/22123/111/908
-#EXTINF:-1,El fagr tv
-http://maxq.live:800/22123/111/909
-#EXTINF:-1,-------------## Server 2 SD##-------------
+#EXTINF:0,-------------## Server 2 SD##-------------
 http://maxq.live:800/22123/111/894
-#EXTINF:-1,BeIN PREMIUM 1 SD
+#EXTINF:0,BeIN PREMIUM 1 SD
 http://maxq.live:800/22123/111/890
-#EXTINF:-1,BeIN PREMIUM 2 SD
+#EXTINF:0,BeIN PREMIUM 2 SD
 http://maxq.live:800/22123/111/891
-#EXTINF:-1,BeIN PREMIUM 3 SD
+#EXTINF:0,BeIN PREMIUM 3 SD
 http://maxq.live:800/22123/111/892
-#EXTINF:-1,BeIN Sports 3
+#EXTINF:0,BeIN Sports 3
 http://maxq.live:800/22123/111/893
-#EXTINF:-1,-------------## Server 1 SD##-------------
-http://maxq.live:800/22123/111/472
-#EXTINF:-1,BEIN 1 PREMIUM SD
-http://maxq.live:800/22123/111/493
-#EXTINF:-1,BEIN 2 PREMIUM SD
-http://maxq.live:800/22123/111/483
-#EXTINF:-1,BEIN 3 PREMIUM SD
-http://maxq.live:800/22123/111/484
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://maxq.live:800/22123/111/485
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://maxq.live:800/22123/111/486
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://maxq.live:800/22123/111/487
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://maxq.live:800/22123/111/488
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://maxq.live:800/22123/111/489
-#EXTINF:-1,BEIN SPORTS 6 SD
-http://maxq.live:800/22123/111/490
-#EXTINF:-1,BEIN SPORTS 7 SD
-http://maxq.live:800/22123/111/491
-#EXTINF:-1,AD Sports Extra LOW
-http://maxq.live:800/22123/111/907
-
-#EXTINF:-1, ----- IPFX -----
+#EXTINF:0, ----- IPFX -----
 http://red.ipfox.org:8080/1234/12345678/31529
-#EXTINF:-1,beIN Sport Premium 01 (720P)
+#EXTINF:0,beIN Sport Premium 01 (720P)
 http://red.ipfox.org:8080/1234/12345678/31529
-#EXTINF:-1,beIN Sport Premium 02 (720P)
+#EXTINF:0,beIN Sport Premium 02 (720P)
 http://red.ipfox.org:8080/1234/12345678/31528
-#EXTINF:-1,beIN Sport Premium 03 (720P)
+#EXTINF:0,beIN Sport Premium 03 (720P)
 http://red.ipfox.org:8080/1234/12345678/31527
-#EXTINF:-1,beIN Sport 01 (720P)
+#EXTINF:0,beIN Sport 01 (720P)
 http://red.ipfox.org:8080/1234/12345678/31536
-#EXTINF:-1,beIN Sport 02 (720P)
+#EXTINF:0,beIN Sport 02 (720P)
 http://red.ipfox.org:8080/1234/12345678/31535
-#EXTINF:-1,beIN Sport 03 (720P)
+#EXTINF:0,beIN Sport 03 (720P)
 http://red.ipfox.org:8080/1234/12345678/31534
-#EXTINF:-1,beIN Sport 04 (720P)
+#EXTINF:0,beIN Sport 04 (720P)
 http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:-1,beIN Sport 05 (720P)
-http://red.ipfox.org:8080/1234/12345678/31532
-#EXTINF:-1,beIN Sport 06 (720P)
-http://red.ipfox.org:8080/1234/12345678/31531
-#EXTINF:-1,beIN Sport 07 (720P)
-http://red.ipfox.org:8080/1234/12345678/31530
-#EXTINF:-1,beIN Sport Premium 01 (1080P)
+#EXTINF:0,beIN Sport Premium 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31498
-#EXTINF:-1,beIN Sport Premium 02 (1080P)
+#EXTINF:0,beIN Sport Premium 02 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31497
-#EXTINF:-1,beIN Sport Premium 03 (1080P)
+#EXTINF:0,beIN Sport Premium 03 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31496
-#EXTINF:-1,beIN Sport 01 (1080P)
+#EXTINF:0,beIN Sport 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31493
-#EXTINF:-1,beIN Sport 02 (1080P)
+#EXTINF:0,beIN Sport 02 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31492
-#EXTINF:-1,beIN Sport 03 (1080P)
+#EXTINF:0,beIN Sport 03 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:-1,beIN Sport 04 (1080P)
+#EXTINF:0,beIN Sport 04 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:-1,beIN Sport 05 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31489
-#EXTINF:-1,beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31488
-#EXTINF:-1,beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31487
-#EXTINF:-1,SSC 1 HD
-http://red.ipfox.org:8080/1234/12345678/37815
-#EXTINF:-1,SSC 2 HD
-http://red.ipfox.org:8080/1234/12345678/37821
-#EXTINF:-1,SSC 3 HD
-http://red.ipfox.org:8080/1234/12345678/37816
-#EXTINF:-1,SSC 4 HD
-http://red.ipfox.org:8080/1234/12345678/37817
-#EXTINF:-1,SSC 5 HD
-http://red.ipfox.org:8080/1234/12345678/37818
-#EXTINF:-1,SSC 6 HD
-http://red.ipfox.org:8080/1234/12345678/37819
-#EXTINF:-1,SSC 7 HD
-http://red.ipfox.org:8080/1234/12345678/37820
-
-#EXTINF:-1,beIN SPORTS FR
-http://loginto.live:80/JP1584/xuCu1Csjrs/735571
-#EXTINF:-1,beIN SPORTS 1 HD FR
-http://loginto.live:80/JP1584/xuCu1Csjrs/73557
-#EXTINF:-1,beIN SPORTS 2 HD FR
-http://loginto.live:80/JP1584/xuCu1Csjrs/73558
-#EXTINF:-1,beIN SPORTS 3 HD FR
-http://loginto.live:80/JP1584/xuCu1Csjrs/73559
-
-
-#EXTINF:-1, ----- DIVERTISSEMENT -----
+#EXTINF:0, ----- DIVERTISSEMENT -----
 http://vmp343.ddnsking.com:80/thomas2/thomas2/560137
-#EXTINF:-1,|Kids| Boomerang
-http://red.ipfox.org:8080/1234/12345678/37486
-#EXTINF:-1,|kids| SPACETOON ARABIC
+#EXTINF:0,|kids| SPACETOON ARABIC
 http://red.ipfox.org:8080/1234/12345678/2926
-#EXTINF:-1,FR: BOOMERANG FHD
+#EXTINF:0,FR: BOOMERANG FHD
 http://stariptv.org:8080/wael2021/123456/56231
-
-#EXTINF:-1, ----- DiscoveryFHD -----
+#EXTINF:0, ----- DiscoveryFHD -----
 http://loginto.live:80/JP1584/xuCu1Csjrs/893631
-#EXTINF:-1,SWISS: Discovery Channel FHD
-http://loginto.live:80/JP1584/xuCu1Csjrs/89363
-
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="PREMIUM 1",beIN 1 PREMIUM
-http://stariptv.org:8080/wael2021/123456/141545?
-#EXTINF:-1,beIN 1 PREMIUM 4K
-http://stariptv.org:8080/wael2021/123456/141545
-
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="PREMIUM 2",beIN 2 PREMIUM
-http://stariptv.org:8080/wael2021/123456/141545?
-#EXTINF:-1,beIN 2 PREMIUM 4K
-http://stariptv.org:8080/wael2021/123456/141546
-
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 1",beIN 1
-http://stariptv.org:8080/wael2021/123456/141545?
-#EXTINF:-1,beIN 1 PREMIUM 4K
-http://stariptv.org:8080/wael2021/123456/141545
-
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 2",beIN 2
-http://stariptv.org:8080/wael2021/123456/141545?
-#EXTINF:-1,beIN 2 PREMIUM 4K
-http://stariptv.org:8080/wael2021/123456/141546
-
-
-
-
-
