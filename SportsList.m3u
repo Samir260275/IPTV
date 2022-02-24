@@ -363,11 +363,34 @@ http://red.ipfox.org:8080/1234/12345678/31492
 http://red.ipfox.org:8080/1234/12345678/31491
 #EXTINF:0,beIN Sport 04 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31490
+
+#EXTINF:-1,Sport-Vip ARB: VIP Sports
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/1498621
+
+#EXTINF:-1,Sport-Vip ARB: Bein Sports Premium 1
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/149862
+#EXTINF:-1,Sport-Vip ARB: Bein Sports Premium 2
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/149863
+#EXTINF:-1,ARB: Bein Sports Premium 1
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/122229
+#EXTINF:-1,ARB: Bein Sports Premium 2
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/122230
+
 #EXTINF:0, ----- DIVERTISSEMENT -----
 http://vmp343.ddnsking.com:80/thomas2/thomas2/560137
-#EXTINF:0,|kids| SPACETOON ARABIC
-http://red.ipfox.org:8080/1234/12345678/2926
+#EXTINF:-1,ARB: SpaceToon
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/29374
 #EXTINF:0,FR: BOOMERANG FHD
 http://stariptv.org:8080/wael2021/123456/56231
 #EXTINF:0, ----- DiscoveryFHD -----
 http://loginto.live:80/JP1584/xuCu1Csjrs/893631
+#EXTINF:-1,FR: Discovery Channel FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/74148
+#EXTINF:-1,FR: Discovery FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/19584
+#EXTINF:-1,FR: Discovery Science FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/19583
+#EXTINF:-1,FR: Discovery Science HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/21129
+#EXTINF:-1,FR: Voyage FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/19524
