@@ -499,6 +499,15 @@ http://red.ipfox.org:8080/1234/12345678/37819
 #EXTINF:-1,SSC 7 HD
 http://red.ipfox.org:8080/1234/12345678/37820
 
+#EXTINF:-1,beIN SPORTS FR
+http://loginto.live:80/JP1584/xuCu1Csjrs/735571
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://loginto.live:80/JP1584/xuCu1Csjrs/73557
+#EXTINF:-1,beIN SPORTS 2 HD FR
+http://loginto.live:80/JP1584/xuCu1Csjrs/73558
+#EXTINF:-1,beIN SPORTS 3 HD FR
+http://loginto.live:80/JP1584/xuCu1Csjrs/73559
+
 
 #EXTINF:-1, ----- DIVERTISSEMENT -----
 http://vmp343.ddnsking.com:80/thomas2/thomas2/560137
@@ -508,3 +517,8 @@ http://red.ipfox.org:8080/1234/12345678/37486
 http://red.ipfox.org:8080/1234/12345678/2926
 #EXTINF:-1,FR: BOOMERANG FHD
 http://stariptv.org:8080/wael2021/123456/56231
+
+#EXTINF:-1, ----- DiscoveryFHD -----
+http://loginto.live:80/JP1584/xuCu1Csjrs/893631
+#EXTINF:-1,SWISS: Discovery Channel FHD
+http://loginto.live:80/JP1584/xuCu1Csjrs/89363
