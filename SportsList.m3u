@@ -522,3 +522,29 @@ http://stariptv.org:8080/wael2021/123456/56231
 http://loginto.live:80/JP1584/xuCu1Csjrs/893631
 #EXTINF:-1,SWISS: Discovery Channel FHD
 http://loginto.live:80/JP1584/xuCu1Csjrs/89363
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="PREMIUM 1",beIN 1 PREMIUM
+http://stariptv.org:8080/wael2021/123456/141545?
+#EXTINF:-1,beIN 1 PREMIUM 4K
+http://stariptv.org:8080/wael2021/123456/141545
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="PREMIUM 2",beIN 2 PREMIUM
+http://stariptv.org:8080/wael2021/123456/141545?
+#EXTINF:-1,beIN 2 PREMIUM 4K
+http://stariptv.org:8080/wael2021/123456/141546
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 1",beIN 1
+http://stariptv.org:8080/wael2021/123456/141545?
+#EXTINF:-1,beIN 1 PREMIUM 4K
+http://stariptv.org:8080/wael2021/123456/141545
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="beIN 2",beIN 2
+http://stariptv.org:8080/wael2021/123456/141545?
+#EXTINF:-1,beIN 2 PREMIUM 4K
+http://stariptv.org:8080/wael2021/123456/141546
+
+
+
+
+
+
