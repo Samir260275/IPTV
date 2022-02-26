@@ -195,8 +195,27 @@ http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18414
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18415
 #EXTINF:0,BeinSports1
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/18416
-#EXTINF:0, ----- IPFX -----
-http://red.ipfox.org:8080/1234/12345678/31529
+#EXTINF:0, ----- 480*720*1080*SSC -----
+#EXTINF:0,beIN Sport Premium 01 (480P)
+http://red.ipfox.org:8080/1234/12345678/31548
+#EXTINF:0,beIN Sport Premium 02 (480P)
+http://red.ipfox.org:8080/1234/12345678/31547
+#EXTINF:0,beIN Sport Premium 03 (480P)
+http://red.ipfox.org:8080/1234/12345678/31546
+#EXTINF:0,beIN Sport 01 (480P)
+http://red.ipfox.org:8080/1234/12345678/31555
+#EXTINF:0,beIN Sport 02 (480P)
+http://red.ipfox.org:8080/1234/12345678/31554
+#EXTINF:0,beIN Sport 03 (480P)
+http://red.ipfox.org:8080/1234/12345678/31553
+#EXTINF:0,beIN Sport 04 (480P)
+http://red.ipfox.org:8080/1234/12345678/31552
+#EXTINF:0,beIN Sport 05 (480P)
+http://red.ipfox.org:8080/1234/12345678/31551
+#EXTINF:0,beIN Sport 06 (480P)
+http://red.ipfox.org:8080/1234/12345678/31550
+#EXTINF:0,beIN Sport 07 (480P)
+http://red.ipfox.org:8080/1234/12345678/31549
 #EXTINF:0,beIN Sport Premium 01 (720P)
 http://red.ipfox.org:8080/1234/12345678/31529
 #EXTINF:0,beIN Sport Premium 02 (720P)
@@ -211,6 +230,12 @@ http://red.ipfox.org:8080/1234/12345678/31535
 http://red.ipfox.org:8080/1234/12345678/31534
 #EXTINF:0,beIN Sport 04 (720P)
 http://red.ipfox.org:8080/1234/12345678/31533
+#EXTINF:0,beIN Sport 05 (720P)
+http://red.ipfox.org:8080/1234/12345678/31532
+#EXTINF:0,beIN Sport 06 (720P)
+http://red.ipfox.org:8080/1234/12345678/31531
+#EXTINF:0,beIN Sport 07 (720P)
+http://red.ipfox.org:8080/1234/12345678/31530
 #EXTINF:0,beIN Sport Premium 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31498
 #EXTINF:0,beIN Sport Premium 02 (1080P)
@@ -225,43 +250,40 @@ http://red.ipfox.org:8080/1234/12345678/31492
 http://red.ipfox.org:8080/1234/12345678/31491
 #EXTINF:0,beIN Sport 04 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:0,Sport-Vip ARB: VIP Sports
-http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/1498621
-#EXTINF:0,Sport-Vip ARB: Bein Sports Premium 1
-http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/149862
-#EXTINF:0,Sport-Vip ARB: Bein Sports Premium 2
-http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/149863
-#EXTINF:0,ARB: Bein Sports Premium 1
-http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/122229
-#EXTINF:0,ARB: Bein Sports Premium 2
-http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/122230
+#EXTINF:0,beIN Sport 05 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31489
+#EXTINF:0,beIN Sport 06 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31488
+#EXTINF:0,beIN Sport 07 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31487
+#EXTINF:0,SSC 1 HD
+http://red.ipfox.org:8080/1234/12345678/37815
+#EXTINF:0,SSC 2 HD
+http://red.ipfox.org:8080/1234/12345678/37821
+#EXTINF:0,SSC 3 HD
+http://red.ipfox.org:8080/1234/12345678/37816
+#EXTINF:0,SSC 4 HD
+http://red.ipfox.org:8080/1234/12345678/37817
+#EXTINF:0,SSC 5 HD
+http://red.ipfox.org:8080/1234/12345678/37818
+#EXTINF:0,SSC 6 HD
+http://red.ipfox.org:8080/1234/12345678/37819
+#EXTINF:0,SSC 7 HD
+http://red.ipfox.org:8080/1234/12345678/37820
+
 #EXTINF:0, ----- DIVERTISSEMENT -----
 http://vmp343.ddnsking.com:80/thomas2/thomas2/560137
-#EXTINF:-1,TR |  Bein SPORTS 1 Feed 4K 10Mbit
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116592
-
-#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" group-title="FR | FRANCE FHD",Spacetoon HD
-http://fasttvuk.com:2086/Habib/12345/69990
-
-#EXTINF:-1 tvg-id="BOOMF" tvg-name="FR: Boomerang HD" group-title="FR | FRANCE FHD",FR: Boomerang HD
-http://fasttvuk.com:2086/Habib/12345/145117
-
-#EXTINF:-1 tvg-id="" tvg-name="NO: Boomerang HD" "NO | Norway",NO: Boomerang HD
-http://fasttvuk.com:2086/Habib/12345/33401
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 1 PREMIUM FHD" group-title="AR | BEIN SPORTS",VIP SPORT: BEIN SPORTS 1 PREMIUM FHD
-http://fasttvuk.com:2086/Habib/12345/79308
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORTS 2 PREMIUM FHD" group-title="AR | BEIN SPORTS",VIP SPORT: BEIN SPORTS 2 PREMIUM FHD
-http://fasttvuk.com:2086/Habib/12345/79309
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 1 (AR)" group-title="AR | BEIN SPORTS",VIP SPORT: BEIN SPORT 1
-http://fasttvuk.com:2086/Habib/12345/79300
-#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 2 (AR)" group-title="AR | BEIN SPORTS",VIP SPORT: BEIN SPORT 2
-http://fasttvuk.com:2086/Habib/12345/79302
-#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 3 (AR)" #EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 3 (AR)" group-title="AR | BEIN SPORTS",VIP SPORT: BEIN SPORT 3
-http://fasttvuk.com:2086/Habib/12345/79303
-#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BEIN SPORT 4 (AR)" group-title="AR | BEIN SPORTS",VIP SPORT: BEIN SPORT 4
-http://fasttvuk.com:2086/Habib/12345/79304
-#EXTINF:-1 tvg-id="" tvg-name="NL VIP: Love Nature 4K+"  group-title="NL | NETHERLANDS",NL VIP: Love Nature 4K+
-http://fasttvuk.com:2086/Habib/12345/115978
+#EXTINF:-1,|kids| SPACETOON ARABIC
+http://red.ipfox.org:8080/1234/12345678/2926
+#EXTINF:-1,|Kids| Boomerang
+http://red.ipfox.org:8080/1234/12345678/37486
+#EXTINF:-1,|Kids| Rotana Kids
+http://red.ipfox.org:8080/1234/12345678/25057
+#EXTINF:-1,|Kids| Nick Jr.
+http://red.ipfox.org:8080/1234/12345678/30413
+#EXTINF:-1,|Platinium| beIN Groummet
+http://red.ipfox.org:8080/1234/12345678/2300
+#EXTINF:-1,|BG| Travel Channel
+http://red.ipfox.org:8080/1234/12345678/31249
+#EXTINF:-1,|BG| City TV
+http://red.ipfox.org:8080/1234/12345678/31245
