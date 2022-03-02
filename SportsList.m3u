@@ -199,14 +199,8 @@ http://red.ipfox.org:8080/1234/12345678/37818
 http://red.ipfox.org:8080/1234/12345678/37819
 #EXTINF:0,SSC 7 HD
 http://red.ipfox.org:8080/1234/12345678/37820
-
 #EXTINF:0,====== beIN SPORTS OVH ======
 http://2690.ovh:25461/r04e78aq/93nxngw7/3168
-#EXTINF:-1,UK-BT Sports 1 UHD
-http://stariptv.org:8080/wael2021/123456/84984
-#EXTINF:-1,UK-BT Sports 2 UHD
-http://stariptv.org:8080/wael2021/123456/84985
-
 #EXTINF:0, ----- DIVERTISSEMENT -----
 http://vmp343.ddnsking.com:80/thomas2/thomas2/560137
 #EXTINF:0,|kids| SPACETOON ARABIC
@@ -231,17 +225,13 @@ http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3088
 http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3089
 #EXTINF:0,[FR] DISCOVERY FAMLIY HD
 http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3090
-#EXTINF:-1,FR: DISCOVERY
+#EXTINF:0,FR: DISCOVERY
 http://stariptv.org:8080/wael2021/123456/10241
-#EXTINF:-1,FR: DISCOVERY FHD
+#EXTINF:0,FR: DISCOVERY FHD
 http://stariptv.org:8080/wael2021/123456/56250
-#EXTINF:-1,FR: DISCOVERY SCIENCE
+#EXTINF:0,FR: DISCOVERY SCIENCE
 http://stariptv.org:8080/wael2021/123456/4277
-#EXTINF:-1,FR: DISCOVERY SCIENCE FHD
+#EXTINF:0,FR: DISCOVERY SCIENCE FHD
 http://stariptv.org:8080/wael2021/123456/56252
-#EXTINF:-1,FR: Discovery investigation
-http://stariptv.org:8080/wael2021/123456/10240
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION FHD
-http://stariptv.org:8080/wael2021/123456/56251
-#EXTINF:-1,FR: DISCOVERY FAMILY FHD
+#EXTINF:0,FR: DISCOVERY FAMILY FHD
 http://stariptv.org:8080/wael2021/123456/56249
