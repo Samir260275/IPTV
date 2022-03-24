@@ -81,150 +81,42 @@ http://stariptv.org:8080/wael2021/123456/141552?checkedby:Samir_Sat
 http://stariptv.org:8080/wael2021/123456/141553?checkedby:Samir_Sat
 #EXTINF:0,beIN SPORTS 7 4K
 http://stariptv.org:8080/wael2021/123456/141554?checkedby:Samir_Sat
-#EXTINF:0,-------------## beIN 720/1080 ##-------------
+#EXTINF:0,-------------## SSC 720/1080 ##-------------
 http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:0,beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31529
-#EXTINF:0,beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31528
-#EXTINF:0,beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31527
-#EXTINF:0,beIN Sport 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31536
-#EXTINF:0,beIN Sport 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31535
-#EXTINF:0,beIN Sport 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31534
-#EXTINF:0,beIN Sport 04 (720P)
-http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:0,beIN Sport 05 (720P)
-http://red.ipfox.org:8080/1234/12345678/31532
-#EXTINF:0,beIN Sport 06 (720P)
-http://red.ipfox.org:8080/1234/12345678/31531
-#EXTINF:0,beIN Sport 07 (720P)
-http://red.ipfox.org:8080/1234/12345678/31530
-#EXTINF:0,beIN Sport Premium 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31498
-#EXTINF:0,beIN Sport Premium 02 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31497
-#EXTINF:0,beIN Sport Premium 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31496
-#EXTINF:0,beIN Sport 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31493
-#EXTINF:0,beIN Sport 02 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31492
-#EXTINF:0,beIN Sport 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:0,beIN Sport 04 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:0,beIN Sport 05 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31489
-#EXTINF:0,beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31488
-#EXTINF:0,beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31487
-#EXTINF:0,-------------## beIN Pro Server ##-------------
-http://stariptv.org:8080/wael2021/123456/1415451
-#EXTINF:0,beIN Sport Premium 01 (480P)
-http://red.ipfox.org:8080/1234/12345678/31548
-#EXTINF:0,beIN Sport Premium 02 (480P)
-http://red.ipfox.org:8080/1234/12345678/31547
-#EXTINF:0,beIN Sport Premium 03 (480P)
-http://red.ipfox.org:8080/1234/12345678/31546
-#EXTINF:0,beIN Sport 01 (480P)
-http://red.ipfox.org:8080/1234/12345678/31555
-#EXTINF:0,beIN Sport 02 (480P)
-http://red.ipfox.org:8080/1234/12345678/31554
-#EXTINF:0,beIN Sport 03 (480P)
-http://red.ipfox.org:8080/1234/12345678/31553
-#EXTINF:0,beIN Sport 04 (480P)
-http://red.ipfox.org:8080/1234/12345678/31552
-#EXTINF:0,beIN Sport 05 (480P)
-http://red.ipfox.org:8080/1234/12345678/31551
-#EXTINF:0,beIN Sport 06 (480P)
-http://red.ipfox.org:8080/1234/12345678/31550
-#EXTINF:0,beIN Sport 07 (480P)
-http://red.ipfox.org:8080/1234/12345678/31549
-#EXTINF:0,beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31529
-#EXTINF:0,beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31528
-#EXTINF:0,beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31527
-#EXTINF:0,beIN Sport 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31536
-#EXTINF:0,beIN Sport 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31535
-#EXTINF:0,beIN Sport 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31534
-#EXTINF:0,beIN Sport 04 (720P)
-http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:0,beIN Sport 05 (720P)
-http://red.ipfox.org:8080/1234/12345678/31532
-#EXTINF:0,beIN Sport 06 (720P)
-http://red.ipfox.org:8080/1234/12345678/31531
-#EXTINF:0,beIN Sport 07 (720P)
-http://red.ipfox.org:8080/1234/12345678/31530
-#EXTINF:0,beIN Sport Premium 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31498
-#EXTINF:0,beIN Sport Premium 02 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31497
-#EXTINF:0,beIN Sport Premium 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31496
-#EXTINF:0,beIN Sport 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31493
-#EXTINF:0,beIN Sport 02 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31492
-#EXTINF:0,beIN Sport 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:0,beIN Sport 04 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:0,beIN Sport 05 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31489
-#EXTINF:0,beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31488
-#EXTINF:0,beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31487
 #EXTINF:0,SSC 1 HD
-http://red.ipfox.org:8080/1234/12345678/37815
+http://stariptv.org:8080/wael2021/123456/142041
 #EXTINF:0,SSC 2 HD
-http://red.ipfox.org:8080/1234/12345678/37821
+http://stariptv.org:8080/wael2021/123456/142042
 #EXTINF:0,SSC 3 HD
-http://red.ipfox.org:8080/1234/12345678/37816
+http://stariptv.org:8080/wael2021/123456/142043
 #EXTINF:0,SSC 4 HD
-http://red.ipfox.org:8080/1234/12345678/37817
+http://stariptv.org:8080/wael2021/123456/142044
 #EXTINF:0,SSC 5 HD
-http://red.ipfox.org:8080/1234/12345678/37818
+http://stariptv.org:8080/wael2021/123456/142045
 #EXTINF:0,SSC 6 HD
-http://red.ipfox.org:8080/1234/12345678/37819
+http://stariptv.org:8080/wael2021/123456/142047
 #EXTINF:0,SSC 7 HD
-http://red.ipfox.org:8080/1234/12345678/37820
+http://stariptv.org:8080/wael2021/123456/142049
 #EXTINF:0,====== beIN SPORTS OVH ======
 http://2690.ovh:25461/r04e78aq/93nxngw7/3168
 #EXTINF:0, ----- DIVERTISSEMENT -----
 http://vmp343.ddnsking.com:80/thomas2/thomas2/560137
-#EXTINF:0,|kids| SPACETOON ARABIC
-http://red.ipfox.org:8080/1234/12345678/2926
+#EXTINF:-1,AE: Space Toon FHD
+http://smartsw.xyz:8080/tom/tom123/1341781
+#EXTINF:-1,kids.Rotana Kids FHD
+http://stariptv.org:8080/wael2021/123456/98040
+#EXTINF:-1,kids.Disney Junior HD
+http://stariptv.org:8080/wael2021/123456/98032
+#EXTINF:-1,kids.NickToon HD
+http://stariptv.org:8080/wael2021/123456/98034
 #EXTINF:0,Tom_and_Jerry
-http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/16843
+http://stariptv.org:8080/wael2021/123456/59122
 #EXTINF:0,beIN DREAM WORKS
 http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/16835
-#EXTINF:0,[FR] BOOMERANG
-http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3081
-#EXTINF:0,|Kids| Nick Jr.
-http://red.ipfox.org:8080/1234/12345678/30413
-#EXTINF:0,|Platinium| beIN Groummet
-http://red.ipfox.org:8080/1234/12345678/2300
-#EXTINF:0,[FR] MY CUISINE HD
-http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3057
-#EXTINF:0,[FR] DISCOVERY SCi HD
-http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3087
-#EXTINF:0,[FR] DISCOVERY INVESTIGATION HD
-http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3088
-#EXTINF:0,[FR] DISCOVERY HD
-http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3089
-#EXTINF:0,[FR] DISCOVERY FAMLIY HD
-http://stream.detr.xyz:8080/TvBezGra401/@bezgRa94asr4@skype/3090
+#EXTINF:-1,FR: BOOMERANG FHD
+http://stariptv.org:8080/wael2021/123456/56231
+#EXTINF:-1,FR: My Cuisine HD
+http://smartsw.xyz:8080/tom/tom123/905044
 #EXTINF:0,FR: DISCOVERY
 http://stariptv.org:8080/wael2021/123456/10241
 #EXTINF:0,FR: DISCOVERY FHD
