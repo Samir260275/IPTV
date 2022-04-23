@@ -1,24 +1,211 @@
 #EXTM3U
+#EXTINF:-1,Bein AFC Global
+http://new-pro.tv:8080/Fernando/123321/311976
+#EXTINF:-1,Bein AFC1 4K
+http://new-pro.tv:8080/Fernando/123321/311977
+#EXTINF:-1,Bein AFC2 4K
+http://new-pro.tv:8080/Fernando/123321/311978
+#EXTINF:-1,Bein AFC3 4K
+http://new-pro.tv:8080/Fernando/123321/311979
+#EXTINF:-1,BeIN Sports News 4K
+http://new-pro.tv:8080/Fernando/123321/68935
+#EXTINF:-1,BeIN Sports Premium 1 4K
+http://new-pro.tv:8080/Fernando/123321/66112
+#EXTINF:-1,BeIN Sports Premium 2 4K
+http://new-pro.tv:8080/Fernando/123321/66111
+#EXTINF:-1,beIN Sports Premium 3 4K
+http://new-pro.tv:8080/Fernando/123321/66104
+#EXTINF:-1,BeIN Sports 1 4K
+http://new-pro.tv:8080/Fernando/123321/66105
+#EXTINF:-1,BeIN Sports 2 4K
+http://new-pro.tv:8080/Fernando/123321/66106
+#EXTINF:-1,BeIN Sports 3 4K
+http://new-pro.tv:8080/Fernando/123321/66107
+#EXTINF:-1,BeIN Sports 4 4K
+http://new-pro.tv:8080/Fernando/123321/66108
+#EXTINF:-1,BeIN Sports 5 4K
+http://new-pro.tv:8080/Fernando/123321/66109
+#EXTINF:-1,BeIN Sports 6 4K
+http://new-pro.tv:8080/Fernando/123321/66110
+#EXTINF:-1,BeIN Sports 7 4K
+http://new-pro.tv:8080/Fernando/123321/66102
+#EXTINF:-1,BeIN Sports English 1 4K
+http://new-pro.tv:8080/Fernando/123321/66119
+#EXTINF:-1,BeIN Sports English 2 4K
+http://new-pro.tv:8080/Fernando/123321/66120
+#EXTINF:-1,BeIN Sports English 3 4K
+http://new-pro.tv:8080/Fernando/123321/66123
+#EXTINF:-1,BeIN Sports French 1 4K
+http://new-pro.tv:8080/Fernando/123321/66121
+#EXTINF:-1,BeIN Sports French 2 4K
+http://new-pro.tv:8080/Fernando/123321/66122
+#EXTINF:-1,BeIN Sports French 3 4k
+http://new-pro.tv:8080/Fernando/123321/219148
+#EXTINF:-1,BeIN Sports NBA 4K
+http://new-pro.tv:8080/Fernando/123321/66094
+#EXTINF:-1,BeIN Sports Xtra 1 4K
+http://new-pro.tv:8080/Fernando/123321/176221
+#EXTINF:-1,BeIN Sports Xtra 2 4K
+http://new-pro.tv:8080/Fernando/123321/176222
+#EXTINF:-1,Bein AFC Global HD
+http://new-pro.tv:8080/Fernando/123321/311980
+#EXTINF:-1,Bein AFC1 HD
+http://new-pro.tv:8080/Fernando/123321/311981
+#EXTINF:-1,Bein AFC2 HD
+http://new-pro.tv:8080/Fernando/123321/311982
+#EXTINF:-1,Bein AFC3 HD
+http://new-pro.tv:8080/Fernando/123321/311983
+#EXTINF:-1,BeIN Sports Global HD
+http://new-pro.tv:8080/Fernando/123321/33688
+#EXTINF:-1,BeIN Sports News HD
+http://new-pro.tv:8080/Fernando/123321/33689
+#EXTINF:-1,BeIN Sports Premium 1 HD
+http://new-pro.tv:8080/Fernando/123321/154695
+#EXTINF:-1,BeIN Sports Premium 1 FHD
+http://new-pro.tv:8080/Fernando/123321/33705
+#EXTINF:-1,BeIN Sports Premium 2 HD
+http://new-pro.tv:8080/Fernando/123321/154696
+#EXTINF:-1,BeIN Sports Premium 2 FHD
+http://new-pro.tv:8080/Fernando/123321/33704
+#EXTINF:-1,BeIN Sports Premium 3 HD
+http://new-pro.tv:8080/Fernando/123321/154697
+#EXTINF:-1,BeIN Sports Premium 3 FHD
+http://new-pro.tv:8080/Fernando/123321/33703
+#EXTINF:-1,BeIN Sports 1 HD
+http://new-pro.tv:8080/Fernando/123321/154698
+#EXTINF:-1,BeIN Sports 1 FHD
+http://new-pro.tv:8080/Fernando/123321/33702
+#EXTINF:-1,BeIN Sports 2 HD
+http://new-pro.tv:8080/Fernando/123321/154699
+#EXTINF:-1,BeIN Sports 2 FHD
+http://new-pro.tv:8080/Fernando/123321/33701
+#EXTINF:-1,BeIN Sports 3 HD
+http://new-pro.tv:8080/Fernando/123321/154700
+#EXTINF:-1,BeIN Sports 3 FHD
+http://new-pro.tv:8080/Fernando/123321/33700
+#EXTINF:-1,BeIN Sports 4 HD
+http://new-pro.tv:8080/Fernando/123321/154701
+#EXTINF:-1,BeIN Sports 4 FHD
+http://new-pro.tv:8080/Fernando/123321/33699
+#EXTINF:-1,BeIN Sports 5 HD
+http://new-pro.tv:8080/Fernando/123321/154702
+#EXTINF:-1,BeIN Sports 5 FHD
+http://new-pro.tv:8080/Fernando/123321/33698
+#EXTINF:-1,BeIN Sports 6 HD
+http://new-pro.tv:8080/Fernando/123321/154703
+#EXTINF:-1,BeIN Sports 6 FHD
+http://new-pro.tv:8080/Fernando/123321/33697
+#EXTINF:-1,BeIN Sports 7 HD
+http://new-pro.tv:8080/Fernando/123321/154704
+#EXTINF:-1,BeIN Sports 7 FHD
+http://new-pro.tv:8080/Fernando/123321/33696
+#EXTINF:-1,BeIN Sports NBA HD
+http://new-pro.tv:8080/Fernando/123321/28294
+#EXTINF:-1,Bein Sports English 1 HD
+http://new-pro.tv:8080/Fernando/123321/219142
+#EXTINF:-1,Bein Sports English 1 FHD
+http://new-pro.tv:8080/Fernando/123321/33690
+#EXTINF:-1,Bein Sports English 2 HD
+http://new-pro.tv:8080/Fernando/123321/219143
+#EXTINF:-1,Bein Sports English 2 FHD
+http://new-pro.tv:8080/Fernando/123321/33694
+#EXTINF:-1,Bein Sports English 3 HD
+http://new-pro.tv:8080/Fernando/123321/219144
+#EXTINF:-1,Bein Sports English 3 FHD
+http://new-pro.tv:8080/Fernando/123321/33693
+#EXTINF:-1,Bein Sports French 1 HD
+http://new-pro.tv:8080/Fernando/123321/219145
+#EXTINF:-1,Bein Sports French 1 FHD
+http://new-pro.tv:8080/Fernando/123321/33692
+#EXTINF:-1,Bein Sports French 2 HD
+http://new-pro.tv:8080/Fernando/123321/219146
+#EXTINF:-1,Bein Sports French 2 FHD
+http://new-pro.tv:8080/Fernando/123321/36360
+#EXTINF:-1,Bein Sports French 3 HD
+http://new-pro.tv:8080/Fernando/123321/219147
+#EXTINF:-1,BeIN Sports Xtra 1 HD
+http://new-pro.tv:8080/Fernando/123321/176223
+#EXTINF:-1,BeIN Sports Xtra 2 HD
+http://new-pro.tv:8080/Fernando/123321/176224
+#EXTINF:-1,BeIN Sports Premium 1 HD -8
+http://new-pro.tv:8080/Fernando/123321/79027
+#EXTINF:-1,BeIN Sports Premium 2 HD -8
+http://new-pro.tv:8080/Fernando/123321/79026
+#EXTINF:-1,BeIN Sports Premium 3 HD -8
+http://new-pro.tv:8080/Fernando/123321/79025
+#EXTINF:-1,BeIN Sports 1 HD -8
+http://new-pro.tv:8080/Fernando/123321/79020
+#EXTINF:-1,BeIN Sports 2 HD -8
+http://new-pro.tv:8080/Fernando/123321/79021
+#EXTINF:-1,BeIN Spors 3 HD -8
+http://new-pro.tv:8080/Fernando/123321/79022
+#EXTINF:-1,BeIN Sports 4 HD -8
+http://new-pro.tv:8080/Fernando/123321/79023
+#EXTINF:-1,BeIN Sport 5 HD -8
+http://new-pro.tv:8080/Fernando/123321/79024
+#EXTINF:-1,Bein AFC Global SD
+http://new-pro.tv:8080/Fernando/123321/311984
+#EXTINF:-1,Bein AFC1 SD
+http://new-pro.tv:8080/Fernando/123321/311985
+#EXTINF:-1,Bein AFC2 SD
+http://new-pro.tv:8080/Fernando/123321/311986
+#EXTINF:-1,Bein AFC3 SD
+http://new-pro.tv:8080/Fernando/123321/311987
+#EXTINF:-1,BeIN Sports Premium 1 SD
+http://new-pro.tv:8080/Fernando/123321/33687
+#EXTINF:-1,BeIN Sports Premium 2 SD
+http://new-pro.tv:8080/Fernando/123321/33686
+#EXTINF:-1,BeIN Sports Premium 3 SD
+http://new-pro.tv:8080/Fernando/123321/33685
+#EXTINF:-1,BeIN Sports 1 SD
+http://new-pro.tv:8080/Fernando/123321/33684
+#EXTINF:-1,BeIN Sports 2 SD
+http://new-pro.tv:8080/Fernando/123321/33683
+#EXTINF:-1,BeIN Sports 3 SD
+http://new-pro.tv:8080/Fernando/123321/33682
+#EXTINF:-1,BeIN Sports 4 SD
+http://new-pro.tv:8080/Fernando/123321/33681
+#EXTINF:-1,BeIN Sports 5 SD
+http://new-pro.tv:8080/Fernando/123321/33680
+#EXTINF:-1,BeIN Sports 6 SD
+http://new-pro.tv:8080/Fernando/123321/33679
+#EXTINF:-1,BeIN Sports 7 SD
+http://new-pro.tv:8080/Fernando/123321/33678
+#EXTINF:-1,BeIN Sports English 1 SD
+http://new-pro.tv:8080/Fernando/123321/65951
+#EXTINF:-1,BeIN Sports English 2 SD
+http://new-pro.tv:8080/Fernando/123321/65947
+#EXTINF:-1,BeIN Sports English 3 SD
+http://new-pro.tv:8080/Fernando/123321/65948
+#EXTINF:-1,BeIN Sports French 1 SD
+http://new-pro.tv:8080/Fernando/123321/65949
+#EXTINF:-1,BeIN Sports French 2 SD
+http://new-pro.tv:8080/Fernando/123321/65950
+#EXTINF:-1,BeIN Sports Xtra 1 SD
+http://new-pro.tv:8080/Fernando/123321/176225
+#EXTINF:-1,BeIN Sports Xtra 2 SD
+http://new-pro.tv:8080/Fernando/123321/176226
+
 #EXTINF:-1,beIN Sport Premium 01 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31498
+http://red.ipfox.org:8080/amr/amr1234/31498
 #EXTINF:-1,beIN Sport Premium 02 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31497
+http://red.ipfox.org:8080/amr/amr1234/31497
 #EXTINF:-1,beIN Sport Premium 03 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31496
+http://red.ipfox.org:8080/amr/amr1234/31496
 #EXTINF:-1,beIN Sport 01 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31493
+http://red.ipfox.org:8080/amr/amr1234/31493
 #EXTINF:-1,beIN Sport 02 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31492
+http://red.ipfox.org:8080/amr/amr1234/31492
 #EXTINF:-1,beIN Sport 03 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31491
+http://red.ipfox.org:8080/amr/amr1234/31491
 #EXTINF:-1,beIN Sport 04 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31490
+http://red.ipfox.org:8080/amr/amr1234/31490
 #EXTINF:-1,beIN Sport 05 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31489
+http://red.ipfox.org:8080/amr/amr1234/31489
 #EXTINF:-1,beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31488
+http://red.ipfox.org:8080/amr/amr1234/31488
 #EXTINF:-1,beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/amer/amer1234/31487
+http://red.ipfox.org:8080/amr/amr1234/31487
 #EXTINF:-1,BeIN Sports Premium 1 HD
 http://new-pro.tv:8080/Fernando/123321/154695
 #EXTINF:-1,BeIN Sports Premium 1 FHD
@@ -85,59 +272,59 @@ http://new-pro.tv:8080/Fernando/123321/36360
 http://new-pro.tv:8080/Fernando/123321/219147
 
 #EXTINF:-1,SSC 1 HD
-http://red.ipfox.org:8080/amer/amer1234/37815
+http://red.ipfox.org:8080/amr/amr1234/37815
 #EXTINF:-1,SSC 2 HD
-http://red.ipfox.org:8080/amer/amer1234/37821
+http://red.ipfox.org:8080/amr/amr1234/37821
 #EXTINF:-1,SSC 3 HD
-http://red.ipfox.org:8080/amer/amer1234/37816
+http://red.ipfox.org:8080/amr/amr1234/37816
 #EXTINF:-1,SSC 4 HD
-http://red.ipfox.org:8080/amer/amer1234/37817
+http://red.ipfox.org:8080/amr/amr1234/37817
 #EXTINF:-1,SSC 5 HD
-http://red.ipfox.org:8080/amer/amer1234/37818
+http://red.ipfox.org:8080/amr/amr1234/37818
 #EXTINF:-1,SSC 6 HD
-http://red.ipfox.org:8080/amer/amer1234/37819
+http://red.ipfox.org:8080/amr/amr1234/37819
 #EXTINF:-1,SSC 7 HD
-http://red.ipfox.org:8080/amer/amer1234/37820
+http://red.ipfox.org:8080/amr/amr1234/37820
 #EXTINF:-1,beIN Sport Premium 01 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31548
+http://red.ipfox.org:8080/amr/amr1234/31548
 #EXTINF:-1,beIN Sport Premium 02 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31547
+http://red.ipfox.org:8080/amr/amr1234/31547
 #EXTINF:-1,beIN Sport Premium 03 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31546
+http://red.ipfox.org:8080/amr/amr1234/31546
 #EXTINF:-1,beIN Sport 01 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31555
+http://red.ipfox.org:8080/amr/amr1234/31555
 #EXTINF:-1,beIN Sport 02 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31554
+http://red.ipfox.org:8080/amr/amr1234/31554
 #EXTINF:-1,beIN Sport 03 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31553
+http://red.ipfox.org:8080/amr/amr1234/31553
 #EXTINF:-1,beIN Sport 04 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31552
+http://red.ipfox.org:8080/amr/amr1234/31552
 #EXTINF:-1,beIN Sport 05 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31551
+http://red.ipfox.org:8080/amr/amr1234/31551
 #EXTINF:-1,beIN Sport 06 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31550
+http://red.ipfox.org:8080/amr/amr1234/31550
 #EXTINF:-1,beIN Sport 07 (480P)
-http://red.ipfox.org:8080/amer/amer1234/31549
+http://red.ipfox.org:8080/amr/amr1234/31549
 #EXTINF:-1,beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31529
+http://red.ipfox.org:8080/amr/amr1234/31529
 #EXTINF:-1,beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31528
+http://red.ipfox.org:8080/amr/amr1234/31528
 #EXTINF:-1,beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31527
+http://red.ipfox.org:8080/amr/amr1234/31527
 #EXTINF:-1,beIN Sport 01 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31536
+http://red.ipfox.org:8080/amr/amr1234/31536
 #EXTINF:-1,beIN Sport 02 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31535
+http://red.ipfox.org:8080/amr/amr1234/31535
 #EXTINF:-1,beIN Sport 03 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31534
+http://red.ipfox.org:8080/amr/amr1234/31534
 #EXTINF:-1,beIN Sport 04 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31533
+http://red.ipfox.org:8080/amr/amr1234/31533
 #EXTINF:-1,beIN Sport 05 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31532
+http://red.ipfox.org:8080/amr/amr1234/31532
 #EXTINF:-1,beIN Sport 06 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31531
+http://red.ipfox.org:8080/amr/amr1234/31531
 #EXTINF:-1,beIN Sport 07 (720P)
-http://red.ipfox.org:8080/amer/amer1234/31530
+http://red.ipfox.org:8080/amr/amr1234/31530
 
 #EXTINF:-1,Bein AFC Global
 http://new-pro.tv:8080/Fernando/123321/311976
