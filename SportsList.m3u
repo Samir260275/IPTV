@@ -115,8 +115,6 @@ http://stariptv.org:8080/basma2022/123456/56230
 http://stariptv.org:8080/basma2022/123456/56239
 #EXTINF:-1,FR: GULLI FHD
 http://stariptv.org:8080/basma2022/123456/56276
-#EXTINF:-1,kids.Rotana Kids HD
-http://stariptv.org:8080/basma2022/123456/98024
 #EXTINF:-1,kids.Sanafir
 http://stariptv.org:8080/basma2022/123456/98025
 #EXTINF:-1,kids.Almajd KIDS
@@ -129,8 +127,6 @@ http://stariptv.org:8080/basma2022/123456/98032
 http://stariptv.org:8080/basma2022/123456/98034
 #EXTINF:-1,kids.Disney Channel HD
 http://stariptv.org:8080/basma2022/123456/98036
-#EXTINF:-1,kids.Tom and Jerry 1
-http://stariptv.org:8080/basma2022/123456/98039
 #EXTINF:-1,kids.Rotana Kids FHD
 http://stariptv.org:8080/basma2022/123456/98040
 #EXTINF:-1,kids.GULLI ARABIC
@@ -143,7 +139,7 @@ http://stariptv.org:8080/basma2022/123456/67749
 http://stariptv.org:8080/basma2022/123456/67770
 #EXTINF:-1,KIDS.Jeem
 http://stariptv.org:8080/basma2022/123456/88016
-#EXTINF:-1,KIDS.Atfal W Mawaheb
-http://stariptv.org:8080/basma2022/123456/88031
-#EXTINF:-1,KIDS.beIN JEEM EUROPEN
-http://stariptv.org:8080/basma2022/123456/22172
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SPACETOON ARABIC
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1722
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?
