@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,beIN 1 PREMIUM 4K
 http://stariptv.org:8080/basma2022/123456/141545
 #EXTINF:-1,beIN 2 PREMIUM 4K
@@ -114,308 +113,85 @@ http://stariptv.org:8080/basma2022/123456/4950
 http://stariptv.org:8080/basma2022/123456/4949
 #EXTINF:-1,FR: beIN  MAX 10
 http://stariptv.org:8080/basma2022/123456/4948
-#SERVER II#
-#EXTINF:-1,beIN 4k 1080
-http://aroma-app.org:80/75544390pw/85532100hk/227700
-#EXTINF:-1,beIN 4k UHD
-http://aroma-app.org:80/75544390pw/85532100hk/227698
-#EXTINF:-1,BEIN SPORTS 1 4K PREMIUM
-http://aroma-app.org:80/75544390pw/85532100hk/19138
-#EXTINF:-1,BEIN SPORTS 2 4K PREMIUM
-http://aroma-app.org:80/75544390pw/85532100hk/19139
-#EXTINF:-1,BEIN SPORTS 3 4K PREMIUM
-http://aroma-app.org:80/75544390pw/85532100hk/19140
-#EXTINF:-1,BEIN SPORTS 1 4K
-http://aroma-app.org:80/75544390pw/85532100hk/19131
-#EXTINF:-1,BEIN SPORTS 2 4K
-http://aroma-app.org:80/75544390pw/85532100hk/19132
-#EXTINF:-1,BEIN SPORTS 3 4K
-http://aroma-app.org:80/75544390pw/85532100hk/19133
-#EXTINF:-1,BEIN SPORTS 4 4K
-http://aroma-app.org:80/75544390pw/85532100hk/19134
-#EXTINF:-1,BEIN SPORTS 5 4K
-http://aroma-app.org:80/75544390pw/85532100hk/19135
-#EXTINF:-1,BEIN SPORTS 6 4K
-http://aroma-app.org:80/75544390pw/85532100hk/19136
-#EXTINF:-1,BEIN SPORTS 7 4K
-http://aroma-app.org:80/75544390pw/85532100hk/19137
-#EXTINF:-1,BEIN SPORTS 1 4K EN
-http://aroma-app.org:80/75544390pw/85532100hk/25904
-#EXTINF:-1,BEIN SPORTS 2 4K EN
-http://aroma-app.org:80/75544390pw/85532100hk/166211
-#EXTINF:-1,BEIN SPORTS 3 4K EN
-http://aroma-app.org:80/75544390pw/85532100hk/166212
-#EXTINF:-1,BEIN SPORTS 1 4K FR
-http://aroma-app.org:80/75544390pw/85532100hk/166208
-#EXTINF:-1,BEIN SPORTS 3 4K FR
-http://aroma-app.org:80/75544390pw/85532100hk/166210
-#EXTINF:-1,BEIN SPORTS 2 4K FR
-http://aroma-app.org:80/75544390pw/85532100hk/166209
-#EXTINF:-1,Bein Sport NBA
-http://aroma-app.org:80/75544390pw/85532100hk/9901
-#EXTINF:-1,BEIN SPORTS XTRA 1 4K
-http://aroma-app.org:80/75544390pw/85532100hk/168385
-#EXTINF:-1,BEIN SPORTS XTRA 2 4K
-http://aroma-app.org:80/75544390pw/85532100hk/168386
-#EXTINF:-1,كأس مارادونا
-http://aroma-app.org:80/75544390pw/85532100hk/205618
-#EXTINF:-1,beIN SPORTS AFC FHD
-http://aroma-app.org:80/75544390pw/85532100hk/229077
-#EXTINF:-1,beIN SPORTS AFC 1 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/229078
-#EXTINF:-1,beIN SPORTS AFC 2 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/229079
-#EXTINF:-1,BEIN SPORTS 1 FHD PREMIUM
-http://aroma-app.org:80/75544390pw/85532100hk/19148
-#EXTINF:-1,BEIN SPORTS 2 FHD PREMIUM
-http://aroma-app.org:80/75544390pw/85532100hk/19149
-#EXTINF:-1,BEIN SPORTS 3 FHD PREMIUM
-http://aroma-app.org:80/75544390pw/85532100hk/19150
-#EXTINF:-1,BEIN SPORTS 1 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/19141
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/19142
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/19143
-#EXTINF:-1,BEIN SPORTS 4 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/19144
-#EXTINF:-1,BEIN SPORTS 5 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/19145
-#EXTINF:-1,BEIN SPORTS 6 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/19146
-#EXTINF:-1,BEIN SPORTS 7 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/19147
-#EXTINF:-1,BEIN SPORTS XTRA 1 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/168389
-#EXTINF:-1,BEIN SPORTS XTRA 2 FHD
-http://aroma-app.org:80/75544390pw/85532100hk/168390
-
-#EXTINF:-1,kids.Rotana Kids HD
-http://stariptv.org:8080/basma2022/123456/98024
-#EXTINF:-1,kids.Sanafir
-http://stariptv.org:8080/basma2022/123456/98025
-#EXTINF:-1,kids.Almajd KIDS
-http://stariptv.org:8080/basma2022/123456/98026
-#EXTINF:-1,kids.FIX FOXI HD
-http://stariptv.org:8080/basma2022/123456/98027
-#EXTINF:-1,kids.Kids Zone
-http://stariptv.org:8080/basma2022/123456/98028
-#EXTINF:-1,Kids: PUBG Arabic
-http://stariptv.org:8080/basma2022/123456/98029
-#EXTINF:-1,kids.Disney Junior HD
-http://stariptv.org:8080/basma2022/123456/98032
-#EXTINF:-1,kids.NickToon HD
-http://stariptv.org:8080/basma2022/123456/98034
-#EXTINF:-1,kids.MODY
-http://stariptv.org:8080/basma2022/123456/98035
-#EXTINF:-1,kids.Disney Channel HD
-http://stariptv.org:8080/basma2022/123456/98036
-#EXTINF:-1,kids.Nickelodeon HD
-http://stariptv.org:8080/basma2022/123456/98037
-#EXTINF:-1,kids.Tom and Jerry 1
-http://stariptv.org:8080/basma2022/123456/98039
-#EXTINF:-1,kids.Rotana Kids FHD
-http://stariptv.org:8080/basma2022/123456/98040
-#EXTINF:-1,kids.GULLI ARABIC
-http://stariptv.org:8080/basma2022/123456/98041
-#EXTINF:-1,kids.Majid Kids TV
-http://stariptv.org:8080/basma2022/123456/98045
-#EXTINF:-1,KIDS.SPACETOON
-http://stariptv.org:8080/basma2022/123456/67749
-#EXTINF:-1,KIDS.CN ARABIA
-http://stariptv.org:8080/basma2022/123456/67770
-#EXTINF:-1,KIDS.Jeem
-http://stariptv.org:8080/basma2022/123456/88016
-#EXTINF:-1,KIDS.Taha
-http://stariptv.org:8080/basma2022/123456/88017
-#EXTINF:-1,KIDS.HodHod TV
-http://stariptv.org:8080/basma2022/123456/88020
-#EXTINF:-1,KIDS.beIN Baraem HD
-http://stariptv.org:8080/basma2022/123456/88023
-#EXTINF:-1,KIDS.Karameesh
-http://stariptv.org:8080/basma2022/123456/88027
-#EXTINF:-1,KIDS.Toyor Al Janah
-http://stariptv.org:8080/basma2022/123456/88029
-#EXTINF:-1,KIDS.Atfal W Mawaheb
-http://stariptv.org:8080/basma2022/123456/88031
-#EXTINF:-1,KIDS.beIN JEEM EUROPEN
-http://stariptv.org:8080/basma2022/123456/22172
-#EXTINF:-1,OSN: MOVIES KIDS HD
-http://stariptv.org:8080/basma2022/123456/55944
-#EXTINF:-1,OSN Kids HD
-http://stariptv.org:8080/basma2022/123456/92313
-#EXTINF:-1,OSN: BABY HD
-http://stariptv.org:8080/basma2022/123456/55923
-#EXTINF:-1,OSN: DISNEY CHANNEL HD
-http://stariptv.org:8080/basma2022/123456/55931
-#EXTINF:-1,OSN: DISNEY JUNIOR HD
-http://stariptv.org:8080/basma2022/123456/55932
-#EXTINF:-1,OSN: KIDS ZONE HD
-http://stariptv.org:8080/basma2022/123456/55937
-#EXTINF:-1,OSN: NICK JR HD
-http://stariptv.org:8080/basma2022/123456/55949
-#EXTINF:-1,OSN: NICKELODEON HD
-http://stariptv.org:8080/basma2022/123456/55950
-#EXTINF:-1,OSN: NickToons HD
-http://stariptv.org:8080/basma2022/123456/70582
-#EXTINF:-1,OSN MOONBUG KIDS
-http://stariptv.org:8080/basma2022/123456/100357
-#EXTINF:-1,OSN KIDS
-http://stariptv.org:8080/basma2022/123456/100359
-#EXTINF:-1,OSN Movies Disney HD
-http://stariptv.org:8080/basma2022/123456/100360
-#EXTINF:-1,OSN DISNEY
-http://stariptv.org:8080/basma2022/123456/100361
-#EXTINF:-1,OSN  Nick Jr
-http://stariptv.org:8080/basma2022/123456/100362
-#EXTINF:-1,OSN Series
-http://stariptv.org:8080/basma2022/123456/100363
-#EXTINF:-1,OSN comedy central
-http://stariptv.org:8080/basma2022/123456/100364
-#EXTINF:-1,OSN baby
-http://stariptv.org:8080/basma2022/123456/100365
-#EXTINF:-1,OSN SERIES FIRST
-http://stariptv.org:8080/basma2022/123456/100366
-#EXTINF:-1,OSN STAR WORLD
-http://stariptv.org:8080/basma2022/123456/100368
-#EXTINF:-1,OSN STAR MOVIES
-http://stariptv.org:8080/basma2022/123456/100369
-#EXTINF:-1,OSN DISNEY JOINUR
-http://stariptv.org:8080/basma2022/123456/100370
-#EXTINF:-1,OSN Kids Zone
-http://stariptv.org:8080/basma2022/123456/100371
-#EXTINF:-1,OSN Nickelodeon
-http://stariptv.org:8080/basma2022/123456/100372
-#EXTINF:-1,OSN Nicktoons
-http://stariptv.org:8080/basma2022/123456/100373
-#EXTINF:-1,Au: ABC KIDS HD
-http://stariptv.org:8080/basma2022/123456/163757
-#EXTINF:-1,WATCH iT! Kids
-http://stariptv.org:8080/basma2022/123456/144028
-#EXTINF:-1,ALFA kids
-http://stariptv.org:8080/basma2022/123456/130507
+#EXTINF:-1,FR: AMAZONE PRIME 1 Full HD
+http://stariptv.org:8080/basma2022/123456/143147
+#EXTINF:-1,FR: AMAZONE PRIME 2 Full HD
+http://stariptv.org:8080/basma2022/123456/143148
+#EXTINF:-1,FR: AMAZONE PRIME 3 Full HD
+http://stariptv.org:8080/basma2022/123456/143149
+#EXTINF:-1,FR: AMAZONE PRIME 4 Full HD
+http://stariptv.org:8080/basma2022/123456/143150
+#EXTINF:-1,FR: AMAZONE PRIME 5 Full HD
+http://stariptv.org:8080/basma2022/123456/143151
+#EXTINF:-1,FR: AMAZONE PRIME 6 Full HD
+http://stariptv.org:8080/basma2022/123456/143152
+#EXTINF:-1,FR: AMAZONE PRIME 7 Full HD
+http://stariptv.org:8080/basma2022/123456/143153
+#EXTINF:-1,FR: AMAZONE PRIME 8 Full HD
+http://stariptv.org:8080/basma2022/123456/143154
+#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE Full HD
+http://stariptv.org:8080/basma2022/123456/143155
+#EXTINF:-1,FR: CANAL+ TOP 14 RUGBY Full HD
+http://stariptv.org:8080/basma2022/123456/143156
+#EXTINF:-1,FR: CANAL+ FORMULE 1 Full HD
+http://stariptv.org:8080/basma2022/123456/143157
+#EXTINF:-1,FR: CANAL+ MOTO GP Full HD
+http://stariptv.org:8080/basma2022/123456/143158
+#EXTINF:-1,FR: TF1 FHD
+http://stariptv.org:8080/basma2022/123456/56327
+#EXTINF:-1,FR: FRANCE 2 FHD
+http://stariptv.org:8080/basma2022/123456/56268
+#EXTINF:-1,FR: FRANCE 3 FHD
+http://stariptv.org:8080/basma2022/123456/56269
+#EXTINF:-1,FR: FRANCE 4 FHD
+http://stariptv.org:8080/basma2022/123456/56270
+#EXTINF:-1,FR: FRANCE 5 FHD
+http://stariptv.org:8080/basma2022/123456/56271
+#EXTINF:-1,FR: FRANCE O FHD
+http://stariptv.org:8080/basma2022/123456/56272
+#EXTINF:-1,FR: M6 FHD
+http://stariptv.org:8080/basma2022/123456/56281
+#EXTINF:-1,FR: ARTE
+http://stariptv.org:8080/basma2022/123456/10282
+#EXTINF:-1,FR: CANAL+ FHD
+http://stariptv.org:8080/basma2022/123456/56236
+#EXTINF:-1,FR: CANAL+ SPORT FHD
+http://stariptv.org:8080/basma2022/123456/56238
+#EXTINF:-1,FR: LUXE TV HD
+http://stariptv.org:8080/basma2022/123456/4282
+#EXTINF:-1,FR: DISCOVERY FHD
+http://stariptv.org:8080/basma2022/123456/56250
+#EXTINF:-1,FR: DISCOVERY SCIENCE FHD
+http://stariptv.org:8080/basma2022/123456/56252
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION FHD
+http://stariptv.org:8080/basma2022/123456/56251
+#EXTINF:-1,FR: DISCOVERY FAMILY FHD
+http://stariptv.org:8080/basma2022/123456/56249
+#EXTINF:-1,FR: USHUAIA TV
+http://stariptv.org:8080/basma2022/123456/10151
+#EXTINF:-1,FR: SCIENCE ET VIE FHD
+http://stariptv.org:8080/basma2022/123456/56317
+#EXTINF:-1,FR: CHASSE ET PECHE FHD
+http://stariptv.org:8080/basma2022/123456/56241
+#EXTINF:-1,FR: SEASON FHD
+http://stariptv.org:8080/basma2022/123456/56318
+#EXTINF:-1,FR: VOYAGE
+http://stariptv.org:8080/basma2022/123456/4354
+#EXTINF:-1,FR: DISNEY JUNIOR FHD
+http://stariptv.org:8080/basma2022/123456/56256
 #EXTINF:-1,FR: BOOMERANG FHD
 http://stariptv.org:8080/basma2022/123456/56231
-#EXTINF:-1,beIN HG HD
-http://stariptv.org:8080/basma2022/123456/132010
-#EXTINF:-1,beIN Dream Works
-http://stariptv.org:8080/basma2022/123456/132011
-#EXTINF:-1,beIN Travel
-http://stariptv.org:8080/basma2022/123456/132012
-#EXTINF:-1,beIN CARTOON NETWORK
-http://stariptv.org:8080/basma2022/123456/132014
-#EXTINF:-1,beIN FATAFEAT
-http://stariptv.org:8080/basma2022/123456/132015
-#EXTINF:-1,beIN Nat Geo Wild
-http://stariptv.org:8080/basma2022/123456/132016
-#EXTINF:-1,beIN Discovery Family HD
-http://stariptv.org:8080/basma2022/123456/132017
-#KIDS CHANNELS#
-#EXTINF:-1,الهداف
-http://aroma-app.org:80/75544390pw/85532100hk/169765
-#EXTINF:-1,كابتن رابح
-http://aroma-app.org:80/75544390pw/85532100hk/169766
-#EXTINF:-1,Chop Chop Ninja
-http://aroma-app.org:80/75544390pw/85532100hk/169767
-#EXTINF:-1,Guzura
-http://aroma-app.org:80/75544390pw/85532100hk/169768
-#EXTINF:-1,السباق الكبير
-http://aroma-app.org:80/75544390pw/85532100hk/169769
-#EXTINF:-1,Toyor AlJanah
-http://aroma-app.org:80/75544390pw/85532100hk/1364
-#EXTINF:-1,Marah Tv Songs
-http://aroma-app.org:80/75544390pw/85532100hk/169129
-#EXTINF:-1,الحماة الأبطال
-http://aroma-app.org:80/75544390pw/85532100hk/167807
-#EXTINF:-1,طرزان وجين
-http://aroma-app.org:80/75544390pw/85532100hk/167808
-#EXTINF:-1,طرزان وجين 2
-http://aroma-app.org:80/75544390pw/85532100hk/167809
-#EXTINF:-1,السندباد
-http://aroma-app.org:80/75544390pw/85532100hk/167810
-#EXTINF:-1,السندباد 2
-http://aroma-app.org:80/75544390pw/85532100hk/167811
-#EXTINF:-1,رحلة هايدي إلى الجبال
-http://aroma-app.org:80/75544390pw/85532100hk/167812
-#EXTINF:-1,رحلة هايدي إلى الجبال 2
-http://aroma-app.org:80/75544390pw/85532100hk/167813
-#EXTINF:-1,رحلة هايدي إلى الجبال 3
-http://aroma-app.org:80/75544390pw/85532100hk/167814
-#EXTINF:-1,ماشا و الدب Masha and the Bear
-http://aroma-app.org:80/75544390pw/85532100hk/167815
-#EXTINF:-1,ماشا و الدب Masha and the Bear 2
-http://aroma-app.org:80/75544390pw/85532100hk/167816
-#EXTINF:-1,ماشا و الدب Masha and the Bear 3
-http://aroma-app.org:80/75544390pw/85532100hk/167817
-#EXTINF:-1,حكايات ماشا المرعبة
-http://aroma-app.org:80/75544390pw/85532100hk/167818
-#EXTINF:-1,النسر الذهبي
-http://aroma-app.org:80/75544390pw/85532100hk/167275
-#EXTINF:-1,مسامير
-http://aroma-app.org:80/75544390pw/85532100hk/167276
-#EXTINF:-1,مسامير 2
-http://aroma-app.org:80/75544390pw/85532100hk/167277
-#EXTINF:-1,Kids Songs
-http://aroma-app.org:80/75544390pw/85532100hk/161993
-#EXTINF:-1,PJ.Masks
-http://aroma-app.org:80/75544390pw/85532100hk/161433
-#EXTINF:-1,Baby Bus
-http://aroma-app.org:80/75544390pw/85532100hk/161396
-#EXTINF:-1,TOM AND JERRY
-http://aroma-app.org:80/75544390pw/85532100hk/168189
-#EXTINF:-1,SPIDER MAN
-http://aroma-app.org:80/75544390pw/85532100hk/168190
-#EXTINF:-1,Rotana Kids
-http://aroma-app.org:80/75544390pw/85532100hk/93966
-#EXTINF:-1,Majid Kids
-http://aroma-app.org:80/75544390pw/85532100hk/24409
-#EXTINF:-1,Jeem HD
-http://aroma-app.org:80/75544390pw/85532100hk/5941
-#EXTINF:-1,Baraem
-http://aroma-app.org:80/75544390pw/85532100hk/8211
-#EXTINF:-1,Disney Channel HD
-http://aroma-app.org:80/75544390pw/85532100hk/5949
-#EXTINF:-1,Disney Junior HD
-http://aroma-app.org:80/75544390pw/85532100hk/5947
-#EXTINF:-1,SPACETOON
-http://aroma-app.org:80/75544390pw/85532100hk/1361
-#EXTINF:-1,Cartoon Network
-http://aroma-app.org:80/75544390pw/85532100hk/1362
-#EXTINF:-1,Koogi TV
-http://aroma-app.org:80/75544390pw/85532100hk/48836
-#EXTINF:-1,Taha TV
-http://aroma-app.org:80/75544390pw/85532100hk/5189
-#EXTINF:-1,Toyor Baby
-http://aroma-app.org:80/75544390pw/85532100hk/1365
-#EXTINF:-1,MODY KIDS
-http://aroma-app.org:80/75544390pw/85532100hk/1366
-#EXTINF:-1,Karameesh
-http://aroma-app.org:80/75544390pw/85532100hk/3126
-#EXTINF:-1,Sat7 Kids
-http://aroma-app.org:80/75544390pw/85532100hk/4194
-#EXTINF:-1,Baby tv
-http://aroma-app.org:80/75544390pw/85532100hk/5942
-#EXTINF:-1,Movies Kids HD
-http://aroma-app.org:80/75544390pw/85532100hk/5943
-#EXTINF:-1,Movies Disney HD
-http://aroma-app.org:80/75544390pw/85532100hk/5944
-#EXTINF:-1,Nick JR
-http://aroma-app.org:80/75544390pw/85532100hk/5946
-#EXTINF:-1,Kids zone HD
-http://aroma-app.org:80/75544390pw/85532100hk/5951
-#EXTINF:-1,Fix Foxi HD
-http://aroma-app.org:80/75544390pw/85532100hk/5952
-#EXTINF:-1,Gulli Bil Arabia
-http://aroma-app.org:80/75544390pw/85532100hk/8044
-#EXTINF:-1,Boomerang Kids
-http://aroma-app.org:80/75544390pw/85532100hk/8164
-#EXTINF:-1,Atfal  Mawaheb
-http://aroma-app.org:80/75544390pw/85532100hk/8433
-#EXTINF:-1,TOYOR ALJANAH Muzic
-http://aroma-app.org:80/75544390pw/85532100hk/13670
-#EXTINF:-1,Kids Learn Video
-http://aroma-app.org:80/75544390pw/85532100hk/169130
-#EXTINF:-1,AGHAPY KIDS
-http://aroma-app.org:80/75544390pw/85532100hk/197647
-#EXTINF:-1,Boomerang Kids arabic
-http://aroma-app.org:80/75544390pw/85532100hk/214974
+#EXTINF:-1,FR: CARTOON NETWORK FHD
+http://stariptv.org:8080/basma2022/123456/56240
+#EXTINF:-1,FR: NICKELODEON JUNIOR FHD
+http://stariptv.org:8080/basma2022/123456/56290
+#EXTINF:-1,FR: BOING FHD
+http://stariptv.org:8080/basma2022/123456/56230
+#EXTINF:-1,FR: TV 5 MONDE
+http://stariptv.org:8080/basma2022/123456/15350
+#EXTINF:-1,FR: CANAL J FHD
+http://stariptv.org:8080/basma2022/123456/56239
+#EXTINF:-1,FR: AB EXPLORE FHD
+http://stariptv.org:8080/basma2022/123456/56266
+#EXTINF:-1,FR: GULLI FHD
+http://stariptv.org:8080/basma2022/123456/56276
