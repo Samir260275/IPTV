@@ -175,6 +175,12 @@ http://stariptv.org:8080/basma2022/123456/56317
 http://stariptv.org:8080/basma2022/123456/56241
 #EXTINF:-1,FR: SEASON FHD
 http://stariptv.org:8080/basma2022/123456/56318
+#EXTINF:-1,FR: TV 5 MONDE
+http://stariptv.org:8080/basma2022/123456/15350
+#EXTINF:-1,CA: TV5 QUEBEC
+http://stariptv.org:8080/basma2022/123456/92527
+#EXTINF:-1,AFRICA: TV5 AfriqueMonde
+http://stariptv.org:8080/basma2022/123456/92780
 #EXTINF:-1,FR: VOYAGE
 http://stariptv.org:8080/basma2022/123456/4354
 #EXTINF:-1,FR: DISNEY JUNIOR FHD
@@ -187,8 +193,6 @@ http://stariptv.org:8080/basma2022/123456/56240
 http://stariptv.org:8080/basma2022/123456/56290
 #EXTINF:-1,FR: BOING FHD
 http://stariptv.org:8080/basma2022/123456/56230
-#EXTINF:-1,FR: TV 5 MONDE
-http://stariptv.org:8080/basma2022/123456/15350
 #EXTINF:-1,FR: CANAL J FHD
 http://stariptv.org:8080/basma2022/123456/56239
 #EXTINF:-1,FR: AB EXPLORE FHD
