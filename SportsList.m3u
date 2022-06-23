@@ -91,26 +91,16 @@ http://stariptv.org:8080/basma2022/123456/10282
 http://stariptv.org:8080/basma2022/123456/56236
 #EXTINF:-1,FR: CANAL+ SPORT FHD
 http://stariptv.org:8080/basma2022/123456/56238
-#EXTINF:-1,FR: LUXE TV HD
-http://stariptv.org:8080/basma2022/123456/4282
 #EXTINF:-1,FR: DISCOVERY FHD
 http://stariptv.org:8080/basma2022/123456/56250
 #EXTINF:-1,FR: DISCOVERY SCIENCE FHD
 http://stariptv.org:8080/basma2022/123456/56252
-#EXTINF:-1,FR: DISCOVERY FAMILY FHD
-http://stariptv.org:8080/basma2022/123456/56249
 #EXTINF:-1,FR: USHUAIA TV
 http://stariptv.org:8080/basma2022/123456/10151
 #EXTINF:-1,FR: CHASSE ET PECHE FHD
 http://stariptv.org:8080/basma2022/123456/56241
 #EXTINF:-1,FR: TV 5 MONDE
 http://stariptv.org:8080/basma2022/123456/15350
-#EXTINF:-1,CA: TV5 QUEBEC
-http://stariptv.org:8080/basma2022/123456/92527
-#EXTINF:-1,AFRICA: TV5 Afrique
-http://stariptv.org:8080/basma2022/123456/92780
-#EXTINF:-1,FR: VOYAGE
-http://stariptv.org:8080/basma2022/123456/4354
 #EXTINF:-1,FR: DISNEY JUNIOR FHD
 http://stariptv.org:8080/basma2022/123456/56256
 #EXTINF:-1,FR: BOOMERANG FHD
@@ -123,7 +113,37 @@ http://stariptv.org:8080/basma2022/123456/56290
 http://stariptv.org:8080/basma2022/123456/56230
 #EXTINF:-1,FR: CANAL J FHD
 http://stariptv.org:8080/basma2022/123456/56239
-#EXTINF:-1,FR: AB EXPLORE FHD
-http://stariptv.org:8080/basma2022/123456/56266
 #EXTINF:-1,FR: GULLI FHD
 http://stariptv.org:8080/basma2022/123456/56276
+#EXTINF:-1,kids.Rotana Kids HD
+http://stariptv.org:8080/basma2022/123456/98024
+#EXTINF:-1,kids.Sanafir
+http://stariptv.org:8080/basma2022/123456/98025
+#EXTINF:-1,kids.Almajd KIDS
+http://stariptv.org:8080/basma2022/123456/98026
+#EXTINF:-1,kids.Kids Zone
+http://stariptv.org:8080/basma2022/123456/98028
+#EXTINF:-1,kids.Disney Junior HD
+http://stariptv.org:8080/basma2022/123456/98032
+#EXTINF:-1,kids.NickToon HD
+http://stariptv.org:8080/basma2022/123456/98034
+#EXTINF:-1,kids.Disney Channel HD
+http://stariptv.org:8080/basma2022/123456/98036
+#EXTINF:-1,kids.Tom and Jerry 1
+http://stariptv.org:8080/basma2022/123456/98039
+#EXTINF:-1,kids.Rotana Kids FHD
+http://stariptv.org:8080/basma2022/123456/98040
+#EXTINF:-1,kids.GULLI ARABIC
+http://stariptv.org:8080/basma2022/123456/98041
+#EXTINF:-1,kids.Majid Kids TV
+http://stariptv.org:8080/basma2022/123456/98045
+#EXTINF:-1,KIDS.SPACETOON
+http://stariptv.org:8080/basma2022/123456/67749
+#EXTINF:-1,KIDS.CN ARABIA
+http://stariptv.org:8080/basma2022/123456/67770
+#EXTINF:-1,KIDS.Jeem
+http://stariptv.org:8080/basma2022/123456/88016
+#EXTINF:-1,KIDS.Atfal W Mawaheb
+http://stariptv.org:8080/basma2022/123456/88031
+#EXTINF:-1,KIDS.beIN JEEM EUROPEN
+http://stariptv.org:8080/basma2022/123456/22172
