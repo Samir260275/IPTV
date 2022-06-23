@@ -42,35 +42,12 @@ http://stariptv.org:8080/basma2022/123456/141572
 http://stariptv.org:8080/basma2022/123456/15563
 #EXTINF:-1,beIN 2 PREMIUM HD
 http://stariptv.org:8080/basma2022/123456/15562
-#EXTINF:-1,beIN 3 PREMIUM HD
-http://stariptv.org:8080/basma2022/123456/15561
-#EXTINF:-1,AR: beIN EXTRA 1 HD
-http://stariptv.org:8080/basma2022/123456/15721
-#EXTINF:-1,AR: beIN EXTRA 2 HD
-http://stariptv.org:8080/basma2022/123456/15722
-#EXTINF:-1,AR: beIN 1 HD
-http://stariptv.org:8080/basma2022/123456/15560
-#EXTINF:-1,AR: beIN 2 HD
-http://stariptv.org:8080/basma2022/123456/15559
-#EXTINF:-1,AR: beIN 3 HD
-http://stariptv.org:8080/basma2022/123456/15558
-#EXTINF:-1,AR: beIN 4 HD
-http://stariptv.org:8080/basma2022/123456/15557
-#EXTINF:-1,AR: beIN 5 HD
-http://stariptv.org:8080/basma2022/123456/15556
-#EXTINF:-1,AR: beIN 6 HD
-http://stariptv.org:8080/basma2022/123456/15555
-#EXTINF:-1,AR: beIN 7 HD
 #EXTINF:-1,beIN 1 PREMIUM HQ
 http://stariptv.org:8080/basma2022/123456/2762
 #EXTINF:-1,beIN 2 PREMIUM HQ
 http://stariptv.org:8080/basma2022/123456/2763
 #EXTINF:-1,beIN 3 PREMIUM HQ
 http://stariptv.org:8080/basma2022/123456/2766
-#EXTINF:-1,AR: beIN 1 XTRA HQ
-http://stariptv.org:8080/basma2022/123456/132027
-#EXTINF:-1,AR: beIN 2 XTRA HQ
-http://stariptv.org:8080/basma2022/123456/132028
 #EXTINF:-1,AR: beIN 1 HQ
 http://stariptv.org:8080/basma2022/123456/2755
 #EXTINF:-1,AR: beIN 2 HQ
@@ -83,8 +60,6 @@ http://stariptv.org:8080/basma2022/123456/2758
 http://stariptv.org:8080/basma2022/123456/2759
 #EXTINF:-1,AR: beIN 6 HQ
 http://stariptv.org:8080/basma2022/123456/2760
-#EXTINF:-1,AR: beIN 7 HQ
-http://stariptv.org:8080/basma2022/123456/2761
 #EXTINF:-1,FR: BEIN SPORTS 1 FHD
 http://stariptv.org:8080/basma2022/123456/56225
 #EXTINF:-1,FR: beIN SPORT 2
@@ -127,12 +102,6 @@ http://stariptv.org:8080/basma2022/123456/143153
 http://stariptv.org:8080/basma2022/123456/143154
 #EXTINF:-1,FR: CANAL+ PREMIER LEAGUE Full HD
 http://stariptv.org:8080/basma2022/123456/143155
-#EXTINF:-1,FR: CANAL+ TOP 14 RUGBY Full HD
-http://stariptv.org:8080/basma2022/123456/143156
-#EXTINF:-1,FR: CANAL+ FORMULE 1 Full HD
-http://stariptv.org:8080/basma2022/123456/143157
-#EXTINF:-1,FR: CANAL+ MOTO GP Full HD
-http://stariptv.org:8080/basma2022/123456/143158
 #EXTINF:-1,FR: TF1 FHD
 http://stariptv.org:8080/basma2022/123456/56327
 #EXTINF:-1,FR: FRANCE 2 FHD
@@ -165,17 +134,13 @@ http://stariptv.org:8080/basma2022/123456/56251
 http://stariptv.org:8080/basma2022/123456/56249
 #EXTINF:-1,FR: USHUAIA TV
 http://stariptv.org:8080/basma2022/123456/10151
-#EXTINF:-1,FR: SCIENCE ET VIE FHD
-http://stariptv.org:8080/basma2022/123456/56317
 #EXTINF:-1,FR: CHASSE ET PECHE FHD
 http://stariptv.org:8080/basma2022/123456/56241
-#EXTINF:-1,FR: SEASON FHD
-http://stariptv.org:8080/basma2022/123456/56318
 #EXTINF:-1,FR: TV 5 MONDE
 http://stariptv.org:8080/basma2022/123456/15350
 #EXTINF:-1,CA: TV5 QUEBEC
 http://stariptv.org:8080/basma2022/123456/92527
-#EXTINF:-1,AFRICA: TV5 AfriqueMonde
+#EXTINF:-1,AFRICA: TV5 Afrique
 http://stariptv.org:8080/basma2022/123456/92780
 #EXTINF:-1,FR: VOYAGE
 http://stariptv.org:8080/basma2022/123456/4354
