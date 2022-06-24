@@ -143,3 +143,14 @@ http://stariptv.org:8080/basma2022/123456/88016
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1722
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?
+#EXTINF:-1,TV5 MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8 TV5 Monde Info
+#EXTINF:-1,TV5 MONDE STYLE HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8 TV5 Monde Style HD (403)
+#EXTINF:-1,TV5 MONDE MAGHREB
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8 TV5 Monde Maghreb-Orient (403)
+#EXTINF:-1,TV5 MONDE EUROPE
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8 TV5 Monde Europe (403)
+
+
+
