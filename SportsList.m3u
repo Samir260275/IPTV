@@ -81,8 +81,6 @@ http://stariptv.org:8080/basma2022/123456/56269
 http://stariptv.org:8080/basma2022/123456/56270
 #EXTINF:-1,FR: FRANCE 5 FHD
 http://stariptv.org:8080/basma2022/123456/56271
-#EXTINF:-1,FR: FRANCE O FHD
-http://stariptv.org:8080/basma2022/123456/56272
 #EXTINF:-1,FR: M6 FHD
 http://stariptv.org:8080/basma2022/123456/56281
 #EXTINF:-1,FR: ARTE
@@ -117,8 +115,6 @@ http://stariptv.org:8080/basma2022/123456/56239
 http://stariptv.org:8080/basma2022/123456/56276
 #EXTINF:-1,kids.Sanafir
 http://stariptv.org:8080/basma2022/123456/98025
-#EXTINF:-1,kids.Almajd KIDS
-http://stariptv.org:8080/basma2022/123456/98026
 #EXTINF:-1,kids.Kids Zone
 http://stariptv.org:8080/basma2022/123456/98028
 #EXTINF:-1,kids.Disney Junior HD
@@ -144,16 +140,12 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1722
 #EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?
 #EXTINF:-1,TV5 MONDE INFO
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8 TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1,TV5 MONDE STYLE HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/06.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1,TV5 MONDE MAGHREB
-https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/06.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4705049,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio1",SUBTITLES="subs"
-06.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1,TV5 MONDE EUROPE
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8 TV5 Monde Europe (403)
-#EXTM3U
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1,TV5 MONDE STYLE HD2
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-
