@@ -154,6 +154,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/06.m3u8
 #EXTINF:-1,TV5 MONDE EUROPE
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8 TV5 Monde Europe (403)
 #EXTM3U
-
-
+#EXTINF:-1,TV5 MONDE STYLE HD2
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
