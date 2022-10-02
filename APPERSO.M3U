@@ -1,0 +1,128 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TF1.png" group-title="FRANCE FHD",TF1 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/94.ts
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE2.png" group-title="FRANCE FHD",FRANCE 2 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/139.ts
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FRANCE 3 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE3.png" group-title="FRANCE FHD",FRANCE 3 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/137.ts
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FRANCE 5 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE5.png" group-title="FRANCE FHD",FRANCE 5 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/113.ts
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 FHD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/m6fhd.png" group-title="FRANCE FHD",M6 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/378.ts
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/ARTE.png" group-title="FRANCE FHD",ARTE FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/145.ts
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/W9.png" group-title="FRANCE FHD",W9 FHD
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="CHASSE ET PECHE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CHASSEEPECHE.png" group-title="FRANCE FHD",CHASSE ET PECHE FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/165.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYSCIENCE.png" group-title="FRANCE FHD",DISCOVERY SCIENCE FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/120.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="DISCOVERY FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYCHANNEL.png" group-title="FRANCE FHD",DISCOVERY FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/156.ts
+#EXTINF:-1 tvg-id="TV5.Europe.fr" tvg-name="TV5 MONDE FBS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TV5MONDE.png" group-title="FRANCE FHD",TV5 MONDE FBS FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/2285.ts
+#EXTINF:-1 tvg-id="tv5mondefrancebelgiquesuisse.fr" tvg-name="TV5 MONDE FBS HD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE FBS HD
+http://ndasat.net:80/live/32974401006293005/1593574628/7830.ts
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 MONDE EUROPE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE EUROPE 
+http://ndasat.net:80/live/32974401006293005/1593574628/50976.ts
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 MONDE INFO " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE INFO 
+http://ndasat.net:80/live/32974401006293005/1593574628/35835.ts
+#EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-name="TV5 MONDE ASIE" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE ASIE
+http://ndasat.net:80/live/32974401006293005/1593574628/50974.ts
+#EXTINF:-1 tvg-id="tv5mondemaghreborien.fr" tvg-name="TV5 MONDE MAGHREB " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE MAGHREB 
+http://ndasat.net:80/live/32974401006293005/1593574628/95441.ts
+#EXTINF:-1 tvg-id="TV5.ca" tvg-name="TV5 MONDE QUEBEC " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE QUEBEC 
+http://ndasat.net:80/live/32974401006293005/1593574628/50986.ts
+#EXTINF:-1 tvg-id="tv5mondeetatsunis.fr" tvg-name="TV5 MONDE ÉTATS-UNIS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE ÉTATS-UNIS 
+http://ndasat.net:80/live/32974401006293005/1593574628/95439.ts
+#EXTINF:-1 tvg-id="TV5Style.fr" tvg-name="TV5 MONDE STYLE" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE STYLE
+http://ndasat.net:80/live/32974401006293005/1593574628/95440.ts
+#EXTINF:-1 tvg-id="TV5MondeAfrique.civ" tvg-name="CA | [FR] TV5 QUEBEC " tvg-logo="http://apimg.in/picons/NEW2021/canada-picones/tv5.png" group-title="CANADA",CA | [FR] TV5 QUEBEC 
+http://ndasat.net:80/live/32974401006293005/1593574628/50985.ts
+#EXTINF:-1 tvg-id="TVK" tvg-name="AF | TV5 MONDE Afrique" tvg-logo="" group-title="AFRICA",AF | TV5 MONDE Afrique
+http://ndasat.net:80/live/32974401006293005/1593574628/46951.ts
+#EXTINF:-1 tvg-id="C+FOOT.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://128.199.43.91/pubs/2022/canalfoot.png" group-title="SPORT FHD",CANAL+ FOOT FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/99358.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="RMC SPORT 1 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/rmcsport.png" group-title="SPORT FHD",RMC SPORT 1 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/377.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="RMC SPORT 2 FHD" tvg-logo="http://atlaspro.to:80/images/e1c562f3c3857b5413961bdd64f26fe3.png" group-title="SPORT FHD",RMC SPORT 2 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/376.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FHD",FR | BEIN SPORT 1 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/589.ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FHD",FR | BEIN SPORT 2 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/590.ts
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR | BEIN SPORT 3 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT FHD",FR | BEIN SPORT 3 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/591.ts
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="AR | beIN SPORTS PREMIUM 1FHD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/beinsportpremium4.png" group-title="SPORT FHD",AR | beIN SPORTS PREMIUM 1FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/9138.ts
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="AR | beIN SPORTS PREMIUM 2FHD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/beinsportpremium4.png" group-title="SPORT FHD",AR | beIN SPORTS PREMIUM 2FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/9137.ts
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="AR | beIN SPORTS PREMIUM 3FHD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/beinsportpremium4.png" group-title="SPORT FHD",AR | beIN SPORTS PREMIUM 3FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/15807.ts
+#EXTINF:-1 tvg-id="beinsportsxtra1ar.qa" tvg-name="AR | beIN SPORTS XTRA 1FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | beIN SPORTS XTRA 1FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/78877.ts
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_EN.bein" tvg-name="AR | beIN SPORTS XTRA 2FHD " tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | beIN SPORTS XTRA 2FHD 
+http://ndasat.net:80/live/32974401006293005/1593574628/78884.ts
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR | BEIN SPORTS 1 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | BEIN SPORTS 1 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/9135.ts
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR | BEIN SPORTS 2 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | BEIN SPORTS 2 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/9134.ts
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR | BEIN SPORTS 3 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | BEIN SPORTS 3 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/15808.ts
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR | BEIN SPORTS 4 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | BEIN SPORTS 4 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/15426.ts
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR | BEIN SPORTS 5 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | BEIN SPORTS 5 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/9131.ts
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR | BEIN SPORTS 6 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | BEIN SPORTS 6 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/9130.ts
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR | BEIN SPORTS 7 FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bs.png" group-title="SPORT FHD",AR | BEIN SPORTS 7 FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/20668.ts
+#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV HD" tvg-logo="http://atlaspro.to:80/images/1fe5c0f76edf1698bbc2332f112e41c0.png" group-title="ALGERIA",DZ | ENTV HD
+http://ndasat.net:80/live/32974401006293005/1593574628/191.ts
+#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | ENTV SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | ENTV SD
+http://ndasat.net:80/live/32974401006293005/1593574628/50508.ts
+#EXTINF:-1 tvg-id="CanalAlgerie.ar" tvg-name="DZ | CANAL ALGERIE" tvg-logo="http://apimg.in/picons/PICONS-BOUQET-ALGERIA/CANALALGERIE.png" group-title="ALGERIA",DZ | CANAL ALGERIE
+http://ndasat.net:80/live/32974401006293005/1593574628/182.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV3 AL IKHBARIA" tvg-logo="http://apimg.in/picons/PICONS-BOUQET-ALGERIA/ALGER3.png" group-title="ALGERIA",DZ | TV3 AL IKHBARIA
+http://ndasat.net:80/live/32974401006293005/1593574628/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV4 TAMAZIGH" tvg-logo="http://apimg.in/picons/PICONS-BOUQET-ALGERIA/ALGER4.png" group-title="ALGERIA",DZ | TV4 TAMAZIGH
+http://ndasat.net:80/live/32974401006293005/1593574628/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV5 QURAN" tvg-logo="http://apimg.in/picons/PICONS-BOUQET-ALGERIA/ALGER5.png" group-title="ALGERIA",DZ | TV5 QURAN
+http://ndasat.net:80/live/32974401006293005/1593574628/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 HD" tvg-logo="http://apimg.in/pubs/december2020/19-05-2021/alger6.png" group-title="ALGERIA",DZ | TV6 HD
+http://ndasat.net:80/live/32974401006293005/1593574628/30611.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV6 SD" tvg-logo="http://apimg.in/pubs/december2020/19-05-2021/alger6.png" group-title="ALGERIA",DZ | TV6 SD
+http://ndasat.net:80/live/32974401006293005/1593574628/71816.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV7 AL MAARIFA " tvg-logo="http://apimg.in/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV7 AL MAARIFA 
+http://ndasat.net:80/live/32974401006293005/1593574628/59597.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | TV8 AL DHAKIRA" tvg-logo="http://apimg.in/picons/PICONS-BOUQET-ALGERIA/ENTV.png" group-title="ALGERIA",DZ | TV8 AL DHAKIRA
+http://ndasat.net:80/live/32974401006293005/1593574628/59843.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | ENTV WEB SPORT " tvg-logo="http://128.199.43.91/pubs/2022/dzsport.png" group-title="ALGERIA",DZ | ENTV WEB SPORT 
+http://ndasat.net:80/live/32974401006293005/1593574628/98640.ts
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="DZ | ENTV WEB SPORT 2" tvg-logo="http://128.199.43.91/pubs/2022/dzsport.png" group-title="ALGERIA",DZ | ENTV WEB SPORT 2
+http://ndasat.net:80/live/32974401006293005/1593574628/77735.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 1" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC 1
+http://ndasat.net:80/live/32974401006293005/1593574628/76528.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 2" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC 2
+http://ndasat.net:80/live/32974401006293005/1593574628/76529.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 3" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC 3
+http://ndasat.net:80/live/32974401006293005/1593574628/76530.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 4" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC 4
+http://ndasat.net:80/live/32974401006293005/1593574628/76532.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 5" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC 5
+http://ndasat.net:80/live/32974401006293005/1593574628/76535.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC EXTRA 1" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC EXTRA 1
+http://ndasat.net:80/live/32974401006293005/1593574628/76536.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC EXTRA 2" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC EXTRA 2
+http://ndasat.net:80/live/32974401006293005/1593574628/78255.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC EXTRA 3" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC EXTRA 3
+http://ndasat.net:80/live/32974401006293005/1593574628/80671.ts
+#EXTINF:-1 tvg-id="" tvg-name="DZ | 4 KIDS " tvg-logo="http://apimg.in/pubs/december2020/30-10-21/4kids.png" group-title="ALGERIA",DZ | 4 KIDS 
+http://ndasat.net:80/live/32974401006293005/1593574628/64539.ts
+#EXTINF:-1 tvg-id="spacetoon.sa" tvg-name="AR | Spacetoon" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png" group-title="ARABIC",AR | Spacetoon
+http://ndasat.net:80/live/32974401006293005/1593574628/37990.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | Majid Kids" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/MAJIDKIDS.png" group-title="ARABIC",AR | Majid Kids
+http://ndasat.net:80/live/32974401006293005/1593574628/37996.ts
+#EXTINF:-1 tvg-id="dreamWorks.qa" tvg-name="AR | DREAM WORKS KIDS" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/DREAMWORKS.png" group-title="ARABIC",AR | DREAM WORKS KIDS
+http://ndasat.net:80/live/32974401006293005/1593574628/37999.ts
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/BOOMERANG.png" group-title="FRANCE FHD",BOOMERANG FHD
+http://ndasat.net:80/live/32974401006293005/1593574628/155.ts
