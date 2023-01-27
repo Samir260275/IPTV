@@ -127,9 +127,20 @@ http://ndasat.net:80/live/32974401006293005/1593574628/76536.ts
 http://ndasat.net:80/live/32974401006293005/1593574628/78255.ts
 #EXTINF:-1 tvg-id="SSC Extra 3 HD" tvg-name="AR | SSC EXTRA 3" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/ssc.png" group-title="ARABIC",AR | SSC EXTRA 3
 http://ndasat.net:80/live/32974401006293005/1593574628/80671.ts
-#EXTINF:-1 tvg-id="" tvg-name="DZ | 4 KIDS " tvg-logo="http://apimg.in/pubs/december2020/30-10-21/4kids.png" group-title="ALGERIA",DZ | 4 KIDS 
-http://ndasat.net:80/live/32974401006293005/1593574628/64539.ts
-#EXTINF:-1 tvg-id="spacetoon.sa" tvg-name="AR | Spacetoon" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png" group-title="ARABIC",AR | Spacetoon
+#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="AR | ALKASS 1" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="ARABIC",AR | ALKASS 1
+http://ndasat.net:80/live/32974401006293005/1593574628/38036.ts
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="AR | ALKASS 2" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="ARABIC",AR | ALKASS 2
+http://ndasat.net:80/live/32974401006293005/1593574628/38037.ts
+#EXTINF:-1 tvg-id="BeIN Alkass 3 HD" tvg-name="AR | ALKASS 3" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="ARABIC",AR | ALKASS 3
+http://ndasat.net:80/live/32974401006293005/1593574628/47759.ts
+#EXTINF:-1 tvg-id="alkassfour.qa" tvg-name="AR | ALKASS 4" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="ARABIC",AR | ALKASS 4
+http://ndasat.net:80/live/32974401006293005/1593574628/38038.ts
+#EXTINF:-1 tvg-id="BeIN Alkass 5 HD" tvg-name="AR | ALKASS 5" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="ARABIC",AR | ALKASS 5
+http://ndasat.net:80/live/32974401006293005/1593574628/38039.ts
+#EXTINF:-1 tvg-id="alkasssix.qa" tvg-name="AR | ALKASS 6" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/ALKASS.png" group-title="ARABIC",AR | ALKASS 6
+http://ndasat.net:80/live/32974401006293005/1593574628/58564.ts
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon FHD
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1 tvg-id="spacetoon.sa" tvg-name="AR | Spacetoon" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png" group-title="ARABIC",AR | Spacetoon
 http://ndasat.net:80/live/32974401006293005/1593574628/37990.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | Majid Kids" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/MAJIDKIDS.png" group-title="ARABIC",AR | Majid Kids
 http://ndasat.net:80/live/32974401006293005/1593574628/37996.ts
