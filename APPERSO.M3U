@@ -83,8 +83,8 @@ http://38gb.pro:80/live/4478355/94943550/11108.ts
 http://38gb.pro:80/live/4478355/94943550/11078.ts
 #EXTINF:0,MAISON HD
 http://38gb.pro:80/live/4478355/94943550/16048.ts
-#EXTINF:0,MANDARINE HD
-http://38gb.pro:80/live/4478355/94943550/16047.ts
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE" tvg-logo="http://one-iptv.com/logoX/francetnt/arte.png" group-title="FRANCE FULL HD",ARTE
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/133283
 
 KIDS
 #EXTINF:0,BOOMERANG FHD
@@ -99,6 +99,220 @@ http://38gb.pro:80/live/4478355/94943550/17175.ts
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
 #EXTINF:0,AR | MAJID KIDS
 http://38gb.pro:80/live/4478355/94943550/37996.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: NETFLIX KIDS" tvg-logo="" group-title="NETFLIX BOX ",AR: NETFLIX KIDS
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/159745
+#EXTINF:-1 tvg-id="" tvg-name="AR: KING KIDS" tvg-logo="" group-title="NETFLIX BOX ",AR: KING KIDS
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/159754
+#EXTINF:-1 tvg-id="" tvg-name="AR: NETFLIX KIDS" tvg-logo="" group-title="NETFLIX BOX ",AR: NETFLIX KIDS
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/159745
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX SALI" tvg-logo="https://i.ytimg.com/vi/lFtpFIJhuhU/maxresdefault.jpg" group-title="ARABE KIDS",|AR| FLIX SALI
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93970
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX POPEYE" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/Popeye-logo.png" group-title="ARABE KIDS",|AR| FLIX POPEYE
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93969
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX KUNG FU PANDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kung_Fu_Panda_logo.svg/1280px-Kung_Fu_Panda_logo.svg.png" group-title="ARABE KIDS",|AR| FLIX KUNG FU PANDA
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93968
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX  BATMAN" tvg-logo="https://e7.pngegg.com/pngimages/142/968/png-clipart-batman-logo-joker-bat-signal-dc-comics-batman-logo-comics-heroes.png" group-title="ARABE KIDS",|AR| FLIX  BATMAN
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93967
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX ROBIN HOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Robin_Hood_logo.svg/1280px-Robin_Hood_logo.svg.png" group-title="ARABE KIDS",|AR| FLIX ROBIN HOOD
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93966
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX Histoires  des prophetes قصص الانبياء" tvg-logo="https://e7.pngegg.com/pngimages/939/948/png-clipart-qisas-al-anbiya-brand-margret-howth-a-story-of-to-day-product-design-font-mobomarket-text-mobomarket.png" group-title="ARABE KIDS",|AR| FLIX Histoires  des prophetes قصص الانبياء
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93965
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX Goldrak جراندايزر..." tvg-logo="https://image.over-blog.com/ezQEavt_My6EDon1p1Q-aTSuioE=/filters:no_upscale()/image%2F1589174%2F20210830%2Fob_c5de40_goldorak3.png" group-title="ARABE KIDS",|AR| FLIX Goldrak جراندايزر...
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93964
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX Histoir Mondial حكايات عالمية" tvg-logo="https://e7.pngegg.com/pngimages/290/501/png-clipart-fairy-tale-book-fireworks-castle.png" group-title="ARABE KIDS",|AR| FLIX Histoir Mondial حكايات عالمية
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93963
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX Macha et l′Ours" tvg-logo="https://e7.pngegg.com/pngimages/991/864/png-clipart-macha-masha-and-the-bear-bear-purple-child.png" group-title="ARABE KIDS",|AR| FLIX Macha et l′Ours
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93962
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX Captain Majed" tvg-logo="https://w7.pngwing.com/pngs/327/526/png-transparent-captain-tsubasa-thumbnail.png" group-title="ARABE KIDS",|AR| FLIX Captain Majed
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93961
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX TOM SAYER." tvg-logo="https://www.tomsawyer.tv/wp-content/uploads/2019/10/logo_tom.png" group-title="ARABE KIDS",|AR| FLIX TOM SAYER.
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93960
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX TOM AND JERRY" tvg-logo="https://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG36.png" group-title="ARABE KIDS",|AR| FLIX TOM AND JERRY
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93959
+#EXTINF:-1 tvg-id="" tvg-name="|AR| FLIX MAWGLI" tvg-logo="https://w7.pngwing.com/pngs/792/29/png-transparent-mowgli-the-jungle-book-baloo-mowgli-bagheera-shere-khan-the-jungle-book-mammal-carnivoran-dog-like-mammal-thumbnail.png" group-title="ARABE KIDS",|AR| FLIX MAWGLI
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/93958
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MBC 3" tvg-logo="https://1.bp.blogspot.com/-LBOPMv9HNKo/Xz7QCllcDrI/AAAAAAAARx4/TPOoE5NVr9cDQOakPNFw5X1H_8-3ZvEZQCLcBGAsYHQ/s1600/mbc%2B3.png" group-title="ARABE KIDS",|AR| MBC 3
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51663
+#EXTINF:-1 tvg-id="" tvg-name="|AR|   SPACETOON AR" tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png" group-title="ARABE KIDS",|AR|   SPACETOON AR
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51664
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Majid Kids TV HD" tvg-logo="https://e7.pngegg.com/pngimages/793/114/png-clipart-majid-kids-tv-television-channel-al-jazeera-majid-kids-tv-television-channel.png" group-title="ARABE KIDS",|AR| Majid Kids TV HD
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51666
+#EXTINF:-1 tvg-id="" tvg-name="BATOOT KIDS EGY" tvg-logo="https://e7.pngegg.com/pngimages/623/863/png-clipart-donald-duck-mickey-mouse-daisy-duck-the-walt-disney-company-huey-dewey-and-louie-donald-duck-television-heroes.png" group-title="ARABE KIDS",BATOOT KIDS EGY
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51671
+#EXTINF:-1 tvg-id="ToyourAlJannah.jo" tvg-name="TOYOR jannah" tvg-logo="https://i.pinimg.com/originals/4d/d2/d1/4dd2d1abe3f8c7bb61b75c31df83f3a7.png" group-title="ARABE KIDS",TOYOR jannah
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51681
+#EXTINF:-1 tvg-id="CartoonNetworkAr.qa" tvg-name="CARTOON NETWORk ARABIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="ARABE KIDS",CARTOON NETWORk ARABIA
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51682
+#EXTINF:-1 tvg-id="" tvg-name="KARAMEESH" tvg-logo="https://1.bp.blogspot.com/-3v6Gs1D1BXM/X4yuVID4rfI/AAAAAAAAL5A/_1woKCTlUM4-XqhYGZQrbj6f7yms4IZlACLcBGAsYHQ/s16000/KARAMCHE.png" group-title="ARABE KIDS",KARAMEESH
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51683
+#EXTINF:-1 tvg-id="" tvg-name="TAHA" tvg-logo="https://i.pinimg.com/originals/57/75/c1/5775c16180e3a14426724b235d27365d.png" group-title="ARABE KIDS",TAHA
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/51684
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Yu-Gi-Oh! Arc-V S2 (2 يوغي يو! آرك-في )" tvg-logo="http://www.arbflix.com/uploads/articles/e2b74902.jpg" group-title="ARABE KIDS",KD-S: Yu-Gi-Oh! Arc-V S2 (2 يوغي يو! آرك-في )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103182
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Yu-Gi-Oh! Arc-V S1 (1 يوغي يو! آرك-في )" tvg-logo="http://www.arbflix.com/uploads/articles/e2b74902.jpg" group-title="ARABE KIDS",KD-S: Yu-Gi-Oh! Arc-V S1 (1 يوغي يو! آرك-في )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103181
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: World Of Winx S1 (1 عالم ينكس )" tvg-logo="http://www.arbflix.com/uploads/articles/31b4c382.jpg" group-title="ARABE KIDS",KD-S: World Of Winx S1 (1 عالم ينكس )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103180
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Wishenpoof! S1&2 (1&2 وشن بوف )" tvg-logo="http://www.arbflix.com/uploads/articles/8f63e65d.jpg" group-title="ARABE KIDS",KD-S: Wishenpoof! S1&2 (1&2 وشن بوف )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103179
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: UFO Grendizer (مغامرات الفضاء غريندايزر)" tvg-logo="http://www.arbflix.com/uploads/articles/e9e42cb8.png" group-title="ARABE KIDS",KD-S: UFO Grendizer (مغامرات الفضاء غريندايزر)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103178
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Tumble Leaf S3&4 (3&4 الورقة المتعثرة )" tvg-logo="http://www.arbflix.com/uploads/articles/3ff3a610.jpg" group-title="ARABE KIDS",KD-S: Tumble Leaf S3&4 (3&4 الورقة المتعثرة )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103177
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Tumble Leaf S1&2 (1&2 الورقة المتعثرة  )" tvg-logo="http://www.arbflix.com/uploads/articles/3ff3a610.jpg" group-title="ARABE KIDS",KD-S: Tumble Leaf S1&2 (1&2 الورقة المتعثرة  )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103176
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Transformers Cyberverse S1 (1 ترانسفورمارز سايبرفيرز)" tvg-logo="http://www.arbflix.com/uploads/articles/7ed50dd0.jpg" group-title="ARABE KIDS",KD-S: Transformers Cyberverse S1 (1 ترانسفورمارز سايبرفيرز)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103175
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Tom And Jerry Classic (توم و جيرى زمان)" tvg-logo="http://www.arbflix.com/uploads/articles/58a2afb8.jpg" group-title="ARABE KIDS",KD-S: Tom And Jerry Classic (توم و جيرى زمان)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103174
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Tom And Jerry ( توم و جيري)" tvg-logo="http://www.arbflix.com/uploads/articles/0b9517f6.jpg" group-title="ARABE KIDS",KD-S: Tom And Jerry ( توم و جيري)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103173
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Tom & Jerry Kids (أبناء توم وجيري)" tvg-logo="http://www.arbflix.com/uploads/articles/a74680e0.jpg" group-title="ARABE KIDS",KD-S: Tom & Jerry Kids (أبناء توم وجيري)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103172
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: The Penguins Of Madagascar S1&2 (  1&2 بطاريق مدغشقر)" tvg-logo="http://www.arbflix.com/uploads/articles/73b518af.jpg" group-title="ARABE KIDS",KD-S: The Penguins Of Madagascar S1&2 (  1&2 بطاريق مدغشقر)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103171
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: The Magic School Bus S3 (3 اتوبيس المدرسة العجيب)" tvg-logo="http://www.arbflix.com/uploads/articles/4302a321.jpg" group-title="ARABE KIDS",KD-S: The Magic School Bus S3 (3 اتوبيس المدرسة العجيب)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103170
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: The Magic School Bus S2 (2 اتوبيس المدرسة العجيب)" tvg-logo="http://www.arbflix.com/uploads/articles/4302a321.jpg" group-title="ARABE KIDS",KD-S: The Magic School Bus S2 (2 اتوبيس المدرسة العجيب)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103169
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: The Magic School Bus S1 (1 اتوبيس المدرسة العجيب)" tvg-logo="http://www.arbflix.com/uploads/articles/4302a321.jpg" group-title="ARABE KIDS",KD-S: The Magic School Bus S1 (1 اتوبيس المدرسة العجيب)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103168
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: The Legend of Snow White (فلة والاقزام السبعة)" tvg-logo="http://www.arbflix.com/uploads/articles/093af975.jpg" group-title="ARABE KIDS",KD-S: The Legend of Snow White (فلة والاقزام السبعة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103167
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: The Boss Baby Back in Business S1&2 (1&2 عودة الطفل الزعيم)" tvg-logo="http://www.arbflix.com/uploads/articles/71c81342.jpg" group-title="ARABE KIDS",KD-S: The Boss Baby Back in Business S1&2 (1&2 عودة الطفل الزعيم)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103166
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Sohbet El Ayat S1(1 صحبة الايات)" tvg-logo="http://www.arbflix.com/uploads/articles/e4a26b83.jpg" group-title="ARABE KIDS",KD-S: Sohbet El Ayat S1(1 صحبة الايات)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103165
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Pokémon Indigo League ( دوري بوكيمون النيلي)" tvg-logo="http://www.arbflix.com/uploads/articles/4617fcbc.jpg" group-title="ARABE KIDS",KD-S: Pokémon Indigo League ( دوري بوكيمون النيلي)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103164
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Noor We ElRahalat ElKhariqa S1(1 نور و الرحلات الخارقة)" tvg-logo="http://www.arbflix.com/uploads/articles/0b5f5456.jpg" group-title="ARABE KIDS",KD-S: Noor We ElRahalat ElKhariqa S1(1 نور و الرحلات الخارقة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103163
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Noah S1(1 نوح)" tvg-logo="http://www.arbflix.com/uploads/articles/50eda7a9.jpg" group-title="ARABE KIDS",KD-S: Noah S1(1 نوح)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103162
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Moghamarat Sindibad ( مغامرات سندباد)" tvg-logo="http://www.arbflix.com/uploads/articles/d758b626.jpg" group-title="ARABE KIDS",KD-S: Moghamarat Sindibad ( مغامرات سندباد)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103161
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Mickey Mouse S1 (1 ميكي ماوس)" tvg-logo="http://www.arbflix.com/uploads/articles/5fd7585a.png" group-title="ARABE KIDS",KD-S: Mickey Mouse S1 (1 ميكي ماوس)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103160
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Lantern Tales S1(1 قنديل الحكايات)" tvg-logo="http://www.arbflix.com/uploads/articles/ba43ab5d.jpg" group-title="ARABE KIDS",KD-S: Lantern Tales S1(1 قنديل الحكايات)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103159
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Justin Time (جاستن تيم)" tvg-logo="http://www.arbflix.com/uploads/articles/5fd9fa80.jpg" group-title="ARABE KIDS",KD-S: Justin Time (جاستن تيم)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103158
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Hamdoon S1(1 حمدون)" tvg-logo="http://www.arbflix.com/uploads/articles/31558544.jpg" group-title="ARABE KIDS",KD-S: Hamdoon S1(1 حمدون)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103157
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: El Azhar fee ahd eldawla elothmania S1(1 الأزهر في عهد الدولة العثمانية)" tvg-logo="http://www.arbflix.com/uploads/articles/5a669f8b.jpg" group-title="ARABE KIDS",KD-S: El Azhar fee ahd eldawla elothmania S1(1 الأزهر في عهد الدولة العثمانية)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103156
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Disney Elena of Avalor S1(1إيلينا أميرة أفالور)" tvg-logo="http://www.arbflix.com/uploads/articles/f3b2dbf2.jpg" group-title="ARABE KIDS",KD-S: Disney Elena of Avalor S1(1إيلينا أميرة أفالور)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103155
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Dino Dana S1&2 (1&2 دينو دانا)" tvg-logo="http://www.arbflix.com/uploads/articles/0348f032.jpg" group-title="ARABE KIDS",KD-S: Dino Dana S1&2 (1&2 دينو دانا)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103154
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Digimon Frontier S1 (1 ابطال الديجتال)" tvg-logo="http://www.arbflix.com/uploads/articles/3abdf0bb.jpg" group-title="ARABE KIDS",KD-S: Digimon Frontier S1 (1 ابطال الديجتال)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103153
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Digimon Adventure S3 ( 3 أبطال الديجيتال)" tvg-logo="http://www.arbflix.com/uploads/articles/225b939a.jpg" group-title="ARABE KIDS",KD-S: Digimon Adventure S3 ( 3 أبطال الديجيتال)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103152
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Digimon Adventure S2 ( 2 أبطال الديجيتال)" tvg-logo="http://www.arbflix.com/uploads/articles/225b939a.jpg" group-title="ARABE KIDS",KD-S: Digimon Adventure S2 ( 2 أبطال الديجيتال)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103151
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Digimon Adventure S1 ( 1 أبطال الديجيتال)" tvg-logo="http://www.arbflix.com/uploads/articles/225b939a.jpg" group-title="ARABE KIDS",KD-S: Digimon Adventure S1 ( 1 أبطال الديجيتال)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103150
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Danger & Eggs S1 (1 خطر و بيضة)" tvg-logo="http://www.arbflix.com/uploads/articles/b3b957d0.jpg" group-title="ARABE KIDS",KD-S: Danger & Eggs S1 (1 خطر و بيضة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103149
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Costume Quest S1 (1 كوستوم كويست)" tvg-logo="http://www.arbflix.com/uploads/articles/25d9b6e6.jpg" group-title="ARABE KIDS",KD-S: Costume Quest S1 (1 كوستوم كويست)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103148
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Chico Bon Bon: Monkey with a Tool Belt S1&2 (2&1 تشيكو وحزام الأدوات)" tvg-logo="http://www.arbflix.com/uploads/articles/028142ce.jpg" group-title="ARABE KIDS",KD-S: Chico Bon Bon: Monkey with a Tool Belt S1&2 (2&1 تشيكو وحزام الأدوات)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103147
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Captain Majid Al Shabah S1 (1 كابتن ماجد الشبح)" tvg-logo="http://www.arbflix.com/uploads/articles/723698cb.jpg" group-title="ARABE KIDS",KD-S: Captain Majid Al Shabah S1 (1 كابتن ماجد الشبح)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103146
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Bakar S9&10 (10&9 بكار)" tvg-logo="http://www.arbflix.com/uploads/articles/9668c8f4.jpeg" group-title="ARABE KIDS",KD-S: Bakar S9&10 (10&9 بكار)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103145
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Bakar S7&8 (8&7 بكار)" tvg-logo="http://www.arbflix.com/uploads/articles/9668c8f4.jpeg" group-title="ARABE KIDS",KD-S: Bakar S7&8 (8&7 بكار)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103144
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Bakar S5&6 (6&5 بكار)" tvg-logo="http://www.arbflix.com/uploads/articles/9668c8f4.jpeg" group-title="ARABE KIDS",KD-S: Bakar S5&6 (6&5 بكار)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103143
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Bakar S3&4 (4&3 بكار)" tvg-logo="http://www.arbflix.com/uploads/articles/9668c8f4.jpeg" group-title="ARABE KIDS",KD-S: Bakar S3&4 (4&3 بكار)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103142
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Bakar S1&2 (2&1 بكار)" tvg-logo="http://www.arbflix.com/uploads/articles/9668c8f4.jpeg" group-title="ARABE KIDS",KD-S: Bakar S1&2 (2&1 بكار)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103141
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Amir We Rehlat El Asatir (أمير ورحلة الأساطير)" tvg-logo="http://www.arbflix.com/uploads/articles/b09354d8.jpg" group-title="ARABE KIDS",KD-S: Amir We Rehlat El Asatir (أمير ورحلة الأساطير)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103140
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Ai no Gakko Cuore Monogatari (أحلى الأيام)" tvg-logo="http://www.arbflix.com/uploads/articles/08c573c5.jpg" group-title="ARABE KIDS",KD-S: Ai no Gakko Cuore Monogatari (أحلى الأيام)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103139
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abtal Al Madina S2 (2 أبطال المدينة)" tvg-logo="http://www.arbflix.com/uploads/articles/84ea5a27.png" group-title="ARABE KIDS",KD-S: Abtal Al Madina S2 (2 أبطال المدينة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103138
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abtal Al Madina S1 (1 أبطال المدينة)" tvg-logo="http://www.arbflix.com/uploads/articles/84ea5a27.png" group-title="ARABE KIDS",KD-S: Abtal Al Madina S1 (1 أبطال المدينة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103137
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abtal Al Kora S3 (3 ابطال الكرة)" tvg-logo="http://www.arbflix.com/uploads/articles/c1594359.jpg" group-title="ARABE KIDS",KD-S: Abtal Al Kora S3 (3 ابطال الكرة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103136
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abtal Al Kora S2 (2 ابطال الكرة)" tvg-logo="http://www.arbflix.com/uploads/articles/c1594359.jpg" group-title="ARABE KIDS",KD-S: Abtal Al Kora S2 (2 ابطال الكرة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103135
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abtal Al Kora S1 (1 ابطال الكرة)" tvg-logo="http://www.arbflix.com/uploads/articles/c1594359.jpg" group-title="ARABE KIDS",KD-S: Abtal Al Kora S1 (1 ابطال الكرة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103134
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abtal Al Kora Al Fursan (ابطال الكرة الفرسان)" tvg-logo="http://www.arbflix.com/uploads/articles/54bbeac4.png" group-title="ARABE KIDS",KD-S: Abtal Al Kora Al Fursan (ابطال الكرة الفرسان)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103133
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abnaa Al Watan ( أبناء الوطن)" tvg-logo="http://www.arbflix.com/uploads/articles/192ec576.png" group-title="ARABE KIDS",KD-S: Abnaa Al Watan ( أبناء الوطن)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103132
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Abby Hatcher S1 (1 ابي هاتشر)" tvg-logo="http://www.arbflix.com/uploads/articles/a363154b.jpg" group-title="ARABE KIDS",KD-S: Abby Hatcher S1 (1 ابي هاتشر)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103131
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Toy Story  (سلسلة حكاية لعبة)" tvg-logo="http://www.arbflix.com/uploads/articles/9e4e55ca.jpg" group-title="ARABE KIDS",KD-M: Toy Story  (سلسلة حكاية لعبة)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103130
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Tinker Bell (سلسلة تنكربيل)" tvg-logo="http://www.arbflix.com/uploads/articles/3819e81e.jpg" group-title="ARABE KIDS",KD-M: Tinker Bell (سلسلة تنكربيل)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103129
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: The Rescuers (سلسلة المنقذون )" tvg-logo="http://www.arbflix.com/uploads/articles/1cbef698.jpg" group-title="ARABE KIDS",KD-M: The Rescuers (سلسلة المنقذون )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103128
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: The Reef (سلسلة ريف)" tvg-logo="http://www.arbflix.com/uploads/articles/f73e5304.jpg" group-title="ARABE KIDS",KD-M: The Reef (سلسلة ريف)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103127
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: The Lion King (سلسلة الاسد الملك )" tvg-logo="http://www.arbflix.com/uploads/articles/2f46514e.jpg" group-title="ARABE KIDS",KD-M: The Lion King (سلسلة الاسد الملك )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103126
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: The Incredibles (سلسلة الخارقون  )" tvg-logo="http://www.arbflix.com/uploads/articles/85267947.jpg" group-title="ARABE KIDS",KD-M: The Incredibles (سلسلة الخارقون  )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103125
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: The Angry Birds Movie (سلسلة الطيور الغاضبة  )" tvg-logo="http://www.arbflix.com/uploads/articles/495cb52b.jpg" group-title="ARABE KIDS",KD-M: The Angry Birds Movie (سلسلة الطيور الغاضبة  )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103124
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Rio (سلسلة ريو )" tvg-logo="http://www.arbflix.com/uploads/articles/3f00c289.jpg" group-title="ARABE KIDS",KD-M: Rio (سلسلة ريو )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103123
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Pocahontas (سلسلة بوكاهونتاس )" tvg-logo="http://www.arbflix.com/uploads/articles/88fd9119.jpg" group-title="ARABE KIDS",KD-M: Pocahontas (سلسلة بوكاهونتاس )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103122
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Open Season (سلسلة الموسم المفتوح )" tvg-logo="http://www.arbflix.com/uploads/articles/dad7eef2.jpg" group-title="ARABE KIDS",KD-M: Open Season (سلسلة الموسم المفتوح )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103121
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Mulan (سلسلة مولان )" tvg-logo="http://www.arbflix.com/uploads/articles/8eda4157.jpg" group-title="ARABE KIDS",KD-M: Mulan (سلسلة مولان )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103120
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Movie Classic 3 (افلام كلاسيك 3)" tvg-logo="http://www.arbflix.com/uploads/articles/57a3f0f5.jpg" group-title="ARABE KIDS",KD-M: Movie Classic 3 (افلام كلاسيك 3)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103119
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Movie Classic 2 (افلام كلاسيك 2)" tvg-logo="http://www.arbflix.com/uploads/articles/57a3f0f5.jpg" group-title="ARABE KIDS",KD-M: Movie Classic 2 (افلام كلاسيك 2)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103118
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Movie Classic 1 (افلام كلاسيك ١)" tvg-logo="http://www.arbflix.com/uploads/articles/57a3f0f5.jpg" group-title="ARABE KIDS",KD-M: Movie Classic 1 (افلام كلاسيك ١)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103117
+#EXTINF:-1 tvg-id="" tvg-name="Inc (سلسلة شركة المرعبين )" tvg-logo="http://www.arbflix.com/uploads/articles/b0211483.jpg" group-title="KIDS MOVIES 24/7",KD-M: Monsters, Inc (سلسلة شركة المرعبين )" tvg-logo="http://www.arbflix.com/uploads/articles/b0211483.jpg" group-title="ARABE KIDS",Inc (سلسلة شركة المرعبين )" tvg-logo="http://www.arbflix.com/uploads/articles/b0211483.jpg" group-title="KIDS MOVIES 24/7",KD-M: Monsters, Inc (سلسلة شركة المرعبين )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103116
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Madagascar (سلسلة مدغشقر )" tvg-logo="http://www.arbflix.com/uploads/articles/560f11aa.jpg" group-title="ARABE KIDS",KD-M: Madagascar (سلسلة مدغشقر )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103115
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Kung Fu Panda (سلسلة كونغو فو باندا )" tvg-logo="http://www.arbflix.com/uploads/articles/b48b5cda.jpg" group-title="ARABE KIDS",KD-M: Kung Fu Panda (سلسلة كونغو فو باندا )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103114
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Ice Age (سلسلة العصر الجليدي )" tvg-logo="http://www.arbflix.com/uploads/articles/7166ce70.jpg" group-title="ARABE KIDS",KD-M: Ice Age (سلسلة العصر الجليدي )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103113
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Hugo (سلسلة هوجو )" tvg-logo="http://www.arbflix.com/uploads/articles/b8afb696.jpg" group-title="ARABE KIDS",KD-M: Hugo (سلسلة هوجو )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103112
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Hotel Transylvania (سلسلة فندق ترانسلفانيا)" tvg-logo="http://www.arbflix.com/uploads/articles/cb0a9574.jpg" group-title="ARABE KIDS",KD-M: Hotel Transylvania (سلسلة فندق ترانسلفانيا)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103111
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Frozen (سلسلة ملكة الثلج)" tvg-logo="http://www.arbflix.com/uploads/articles/07f9f377.jpg" group-title="ARABE KIDS",KD-M: Frozen (سلسلة ملكة الثلج)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103110
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Finding Dory And Nemo (البحث عن دوري نيمو)" tvg-logo="http://www.arbflix.com/uploads/articles/f76ed40e.jpg" group-title="ARABE KIDS",KD-M: Finding Dory And Nemo (البحث عن دوري نيمو)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103109
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Dragon Ball  (سلسلة دراجون بول)" tvg-logo="http://www.arbflix.com/uploads/articles/cb57d6af.jpg" group-title="ARABE KIDS",KD-M: Dragon Ball  (سلسلة دراجون بول)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103108
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Detective Conan (سلسلة المحقق كونان)" tvg-logo="http://www.arbflix.com/uploads/articles/16c91a14.jpg" group-title="ARABE KIDS",KD-M: Detective Conan (سلسلة المحقق كونان)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103107
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Cars (سلسلة سيارات)" tvg-logo="http://www.arbflix.com/uploads/articles/670cc0f6.jpg" group-title="ARABE KIDS",KD-M: Cars (سلسلة سيارات)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103106
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Brother Bear (سلسلة أخي الدب)" tvg-logo="http://www.arbflix.com/uploads/articles/d9e74b91.jpg" group-title="ARABE KIDS",KD-M: Brother Bear (سلسلة أخي الدب)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103105
+#EXTINF:-1 tvg-id="" tvg-name="KD-M: Barbie (سلسلة باربي)" tvg-logo="http://www.arbflix.com/uploads/articles/3b925074.jpg" group-title="ARABE KIDS",KD-M: Barbie (سلسلة باربي)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103104
+#EXTINF:-1 tvg-id="" tvg-name="A-AR: Adel Emam 5 (5 عادل امام)" tvg-logo="http://www.arbflix.com/uploads/articles/3c1801fb.jpg" group-title="ARAB MOVIES 24/24",A-AR: Adel Emam 5 (5 عادل امام)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103103
+#EXTINF:-1 tvg-id="" tvg-name="A-AR: Adel Emam 4 (4 عادل امام)" tvg-logo="http://www.arbflix.com/uploads/articles/3c1801fb.jpg" group-title="ARAB MOVIES 24/24",A-AR: Adel Emam 4 (4 عادل امام)
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103102
+#EXTINF:-1 tvg-id="" tvg-name="KD-S: Maya The Bee S01 (1 النحلة مايا )" tvg-logo="http://www.arbflix.com/uploads/articles/c31c4b99.jpg" group-title="ARAB MOVIES 24/24",KD-S: Maya The Bee S01 (1 النحلة مايا )
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/103101
+
 
 BEIN ENT
 #EXTINF:0,FATAFEAT FHD
