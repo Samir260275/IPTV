@@ -1,53 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 1 GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/22/521212637.png" group-title="GOGO",BEIN SPORTS PREMIUM 1 GHD
+#EXTINF:0,AR | beIN SPORTS PREMIUM 1 FHD
 http://38gb.pro:80/live/4478355/94943550/0c55573d-12d8-43af-823b-25c94d67b190.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 1 HD(1080i)" tvg-logo="https://www6.0zz0.com/2022/01/27/22/521212637.png" group-title="GOGO",BEIN SPORTS PREMIUM 1 HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/7369a55f-1bcd-4592-b56a-5cfab9b730ff.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 2 GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/760386963.png" group-title="GOGO",BEIN SPORTS PREMIUM 2 GHD 
+#EXTINF:0,AR | beIN SPORTS PREMIUM 2 FHD
 http://38gb.pro:80/live/4478355/94943550/01ed3a36-03b2-4f64-9dfa-dea3df61b611.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 2 HD(1080i)" tvg-logo="https://www6.0zz0.com/2022/01/27/22/760386963.png" group-title="GOGO",BEIN SPORTS PREMIUM 2 HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/7cf68b40-6bb9-4013-b549-6bb698f7281d.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 3 GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/505832915.png" group-title="GOGO",BEIN SPORTS PREMIUM 3 GHD 
+#EXTINF:0,AR | beIN SPORTS PREMIUM 3 FHD
 http://38gb.pro:80/live/4478355/94943550/4514dd56-a85f-41eb-b5e3-b72e99dc90ae.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 3 HD(1080i)" tvg-logo="https://www6.0zz0.com/2022/01/27/22/505832915.png" group-title="GOGO",BEIN SPORTS PREMIUM 3 HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/70022042-b5ac-459a-98e2-ac610972e062.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1HD GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/331790169.png" group-title="GOGO",BEIN SPORTS 1HD GHD 
+#EXTINF:0,AR | BEIN SPORTS 1 FHD
 http://38gb.pro:80/live/4478355/94943550/d461442c-174d-413a-8f60-041e6dd4f9cc.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1HD(1080i)" tvg-logo="https://www14.0zz0.com/2022/01/27/22/454939537.png" group-title="GOGO",BEIN SPORTS 1HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/36fd8419-e7a9-4184-b74e-be1d3c045c8e.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/190267867.png" group-title="GOGO",BEIN SPORTS 2 HD GHD 
+#EXTINF:0,AR | BEIN SPORTS 2 FHD
 http://38gb.pro:80/live/4478355/94943550/6f91c9ad-073b-486a-ab15-f537f6bea3e2.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2HD(1080i)" tvg-logo="https://www14.0zz0.com/2022/01/27/22/818970998.png" group-title="GOGO",BEIN SPORTS 2HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/c816273b-6db1-45bd-b0b9-347bc213e7e7.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/794834367.png" group-title="GOGO",BEIN SPORTS 3 HD GHD 
+#EXTINF:0,AR | BEIN SPORTS 3 FHD
 http://38gb.pro:80/live/4478355/94943550/d3f51267-8b0f-4e6d-baef-239e6625dd45.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3HD(1080i)" tvg-logo="https://www14.0zz0.com/2022/01/27/22/798340876.png" group-title="GOGO",BEIN SPORTS 3HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/2c876741-08aa-42b8-b8ac-9c5950bef67e.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/416726231.png" group-title="GOGO",BEIN SPORTS 4 HD GHD 
+#EXTINF:0,AR | BEIN SPORTS 4 FHD
 http://38gb.pro:80/live/4478355/94943550/ff452afc-2486-4906-a44c-9c19f60223ed.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4HD(1080i)" tvg-logo="https://www14.0zz0.com/2022/01/27/22/188068553.png" group-title="GOGO",BEIN SPORTS 4HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/8692890b-6c94-49ee-b735-9a22e56e15be.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/181309184.png" group-title="GOGO",BEIN SPORTS 5 HD GHD 
+#EXTINF:0,AR | BEIN SPORTS 5 FHD
 http://38gb.pro:80/live/4478355/94943550/28a459e7-83c3-45c7-bac3-55d524b2a64b.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5HD(1080i)" tvg-logo="https://www14.0zz0.com/2022/01/27/22/521283383.png" group-title="GOGO",BEIN SPORTS 5HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/8894ff5f-0e7b-4e2a-8e07-a9025d520f03.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/452839047.png" group-title="GOGO",BEIN SPORTS 6 HD GHD 
+#EXTINF:0,AR | BEIN SPORTS 6 FHD
 http://38gb.pro:80/live/4478355/94943550/c0acccc8-dd00-4dbe-8c03-af30b82b351b.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6HD(1080i)" tvg-logo="https://www6.0zz0.com/2022/01/27/22/452839047.png" group-title="GOGO",BEIN SPORTS 6HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/87bd28cc-b536-4f9d-bbda-d360d3d1b311.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD GHD " tvg-logo="https://www6.0zz0.com/2022/01/27/22/964106444.png" group-title="GOGO",BEIN SPORTS 7 HD GHD 
+#EXTINF:0,AR | BEIN SPORTS 7 FHD
 http://38gb.pro:80/live/4478355/94943550/72fa7606-10d0-4338-a515-19ccd1312a7b.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7HD(1080i)" tvg-logo="https://www14.0zz0.com/2022/01/27/22/819528568.png" group-title="GOGO",BEIN SPORTS 7HD(1080i)
-http://38gb.pro:80/live/4478355/94943550/769ee7c0-cb63-43aa-9a46-047c7f48e888.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 GHD" tvg-logo=";;" group-title="GOGO",BEIN SPORTS XTRA 1 GHD
+#EXTINF:0,AR | BEIN SPORTS XTRA 1 GHD" tvg-logo=";;" group-title="GOGO",BEIN SPORTS XTRA 1 GHD
 http://38gb.pro:80/live/4478355/94943550/c5dfd65e-5536-4c22-8a8f-2a77d653fcd8.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 GHD" tvg-logo=";;" group-title="GOGO",BEIN SPORTS XTRA 2 GHD
+#EXTINF:0,AR | BEIN SPORTS XTRA 2 GHD" tvg-logo=";;" group-title="GOGO",BEIN SPORTS XTRA 2 GHD
 http://38gb.pro:80/live/4478355/94943550/6083be8a-d45e-41c1-8c59-3e27aea844b0.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 GHD" tvg-logo="https://www9.0zz0.com/2022/01/26/21/790381597.png" group-title="GOGO",BEINSPORT 1 GHD
+#EXTINF:0,AR | SSC 1 FHD
+http://38gb.pro:80/live/4478355/94943550/d035ba77-b1f6-4074-9461-7925417342df.ts
+#EXTINF:0,AR | SSC 2 FHD
+http://38gb.pro:80/live/4478355/94943550/f449b3c0-d658-4744-abf1-5bd6ecde4b2a.ts
+#EXTINF:0,AR | SSC 3 FHD
+http://38gb.pro:80/live/4478355/94943550/73ac7de5-cf4c-425c-98ce-bc5ef29a1a8a.ts
+#EXTINF:0,AR | SSC 4 FHD" tvg-logo="" group-title="GOGO",SSC 4 FHDF
+http://38gb.pro:80/live/4478355/94943550/d36b3aec-6a20-4d8e-9165-ad2904d84d2d.ts
+#EXTINF:0,AR | SSC 5 FHD
+http://38gb.pro:80/live/4478355/94943550/92e5b2b7-c6c9-4184-9d9e-d4baa9fa58b5.ts
+#EXTINF:0,AR | SSC EXTRA 1 FHD
+http://38gb.pro:80/live/4478355/94943550/01276739-4216-47b8-a800-82d114c79987.ts
+#EXTINF:0,AR | SSC EXTRA 2 FHD
+http://38gb.pro:80/live/4478355/94943550/518dc3ae-7761-43dc-b46e-062ae7fa3a25.ts
+#EXTINF:0,AR | SSC EXTRA 3 FHD
+http://38gb.pro:80/live/4478355/94943550/629109dc-7c12-4f4a-ac06-d1f1e79ac8d9.ts
+#EXTINF:0,AR | STARZPLAY AD PREMIUM 1 FHD
+http://38gb.pro:80/live/4478355/94943550/487c661c-9221-4ed1-ab87-21ba20d2e1a6.ts
+#EXTINF:0,AR | STARZPLAY AD PREMIUM 2 FHD
+http://38gb.pro:80/live/4478355/94943550/4647ec73-c261-44a0-9bb3-357b9000ab06.ts
+#EXTINF:0,AR | STARZPLAY AD PREMIUM 1 HEVC
+http://38gb.pro:80/live/4478355/94943550/3a9528ed-5a03-4885-9bfd-21b165720a0a.ts
+#EXTINF:0,AR | STARZPLAY AD PREMIUM 2 HEVC
+http://38gb.pro:80/live/4478355/94943550/54618cb5-2911-404f-a08c-2574ca53125c.ts
+#EXTINF:0,FR | BEIN SPORT 1 FHD
 http://38gb.pro:80/live/4478355/94943550/b8d74de5-7d4a-4c0b-8a7c-7eff72ffee5c.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 GHD" tvg-logo="https://www11.0zz0.com/2022/01/26/20/329572553.png" group-title="GOGO",BEINSPORT 2 GHD
+#EXTINF:0,FR | BEIN SPORT 2 FHD
 http://38gb.pro:80/live/4478355/94943550/3777ee83-c087-45dd-8f65-35d701402e53.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 3 GHD" tvg-logo="https://www11.0zz0.com/2022/01/26/20/253095505.png" group-title="GOGO",BEINSPORT 3 GHD
+#EXTINF:0,FR | BEIN SPORT 3 FHD
 http://38gb.pro:80/live/4478355/94943550/f7cf018e-5f1b-41a2-b560-e5097009fa64.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 4 GHD" tvg-logo="https://www11.0zz0.com/2022/01/26/20/108904428.png" group-title="GOGO",BEIN SPORTS MAX 4 GHD
 http://38gb.pro:80/live/4478355/94943550/6a6786ec-957c-43cc-ac7c-87bd10c13157.ts
@@ -63,124 +67,36 @@ http://38gb.pro:80/live/4478355/94943550/0375d3a2-75d2-4e81-ad86-d943e1c88f60.ts
 http://38gb.pro:80/live/4478355/94943550/fe9eee13-0fed-4a27-9bb3-50e8033b7f5a.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 10 GHD" tvg-logo="https://www5.0zz0.com/2022/01/26/21/203457994.png" group-title="GOGO",BEIN SPORTS MAX 10 GHD
 http://38gb.pro:80/live/4478355/94943550/0b822e9b-e274-4244-aa38-10b664018d73.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS GHD" tvg-logo="https://www7.0zz0.com/2022/02/02/16/349094141.png" group-title="GOGO",BEINSPORTS GHD
-http://38gb.pro:80/live/4478355/94943550/4b4d1667-a586-4671-8313-222ed61fe841.ts
-#EXTINF:-1 tvg-id="" tvg-name="-AL- SS-1 HD" tvg-logo="" group-title="GOGO",-AL- SS-1 HD
-http://38gb.pro:80/live/4478355/94943550/621ded12-e388-42b3-93e0-1bce1cb34d97.ts
-#EXTINF:-1 tvg-id="" tvg-name="-AL- SS-2 HD" tvg-logo="" group-title="GOGO",-AL- SS-2 HD
-http://38gb.pro:80/live/4478355/94943550/5bd94900-c30b-43c9-b94a-5772d44a0f1d.ts
-#EXTINF:-1 tvg-id="" tvg-name="-AL- SS-3 HD" tvg-logo="" group-title="GOGO",-AL- SS-3 HD
-http://38gb.pro:80/live/4478355/94943550/d00cee66-2d17-4599-b75e-767deefd6750.ts
-#EXTINF:-1 tvg-id="" tvg-name="-AL- SS-4 HD" tvg-logo="" group-title="GOGO",-AL- SS-4 HD
-http://38gb.pro:80/live/4478355/94943550/871c929a-027d-4d0e-9ea2-9b7e554005bd.ts
-#EXTINF:-1 tvg-id="" tvg-name="-AL- SS-5 HD" tvg-logo="" group-title="GOGO",-AL- SS-5 HD
-http://38gb.pro:80/live/4478355/94943550/b8ed4fec-df01-46a5-8722-8c9cf0ff9afd.ts
-#EXTINF:-1 tvg-id="" tvg-name="-AL- SS-6 HD" tvg-logo="" group-title="GOGO",-AL- SS-6 HD
-http://38gb.pro:80/live/4478355/94943550/90555be6-fcf9-4e56-bee3-942775130367.ts
-#EXTINF:-1 tvg-id="" tvg-name="-AL- SS-7 HD" tvg-logo="" group-title="GOGO",-AL- SS-7 HD
-http://38gb.pro:80/live/4478355/94943550/c79e69a7-c9fc-4bd9-8b98-092c1608689c.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 EXTRA HD" tvg-logo="" group-title="GOGO",SSC 1 EXTRA HD
-http://38gb.pro:80/live/4478355/94943550/114d9df4-6e45-494d-baa5-4edac237c5bb.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="" group-title="GOGO",SSC 1 FHD
-http://38gb.pro:80/live/4478355/94943550/d035ba77-b1f6-4074-9461-7925417342df.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD" tvg-logo="" group-title="GOGO",SSC 1 HD
-http://38gb.pro:80/live/4478355/94943550/f7e8c970-1f4f-4e95-8714-3a07ef1c67c8.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2 EXTRA FHD" tvg-logo="" group-title="GOGO",SSC 2 EXTRA FHD
-http://38gb.pro:80/live/4478355/94943550/518dc3ae-7761-43dc-b46e-062ae7fa3a25.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2 EXTRA HD" tvg-logo="" group-title="GOGO",SSC 2 EXTRA HD
-http://38gb.pro:80/live/4478355/94943550/00ca8dc3-49c1-4036-992e-a841bbd664f9.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2 FHDF" tvg-logo="" group-title="GOGO",SSC 2 FHDF
-http://38gb.pro:80/live/4478355/94943550/f449b3c0-d658-4744-abf1-5bd6ecde4b2a.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="" group-title="GOGO",SSC 2 HD
-http://38gb.pro:80/live/4478355/94943550/624d9c2e-c319-4282-871c-bd5663aaca18.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 EXTRA FHD" tvg-logo="" group-title="GOGO",SSC 3 EXTRA FHD
-http://38gb.pro:80/live/4478355/94943550/629109dc-7c12-4f4a-ac06-d1f1e79ac8d9.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 EXTRA HD" tvg-logo="" group-title="GOGO",SSC 3 EXTRA HD
-http://38gb.pro:80/live/4478355/94943550/18e35745-a9de-4539-9690-8050460a0b6c.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 FHDF" tvg-logo="" group-title="GOGO",SSC 3 FHDF
-http://38gb.pro:80/live/4478355/94943550/73ac7de5-cf4c-425c-98ce-bc5ef29a1a8a.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD" tvg-logo="" group-title="GOGO",SSC 3 HD
-http://38gb.pro:80/live/4478355/94943550/6abf0d19-2881-48c9-817a-d1ee0e8fc8eb.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 4 FHDF" tvg-logo="" group-title="GOGO",SSC 4 FHDF
-http://38gb.pro:80/live/4478355/94943550/d36b3aec-6a20-4d8e-9165-ad2904d84d2d.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD" tvg-logo="" group-title="GOGO",SSC 4 HD
-http://38gb.pro:80/live/4478355/94943550/b97c4bc1-0adc-4f84-8040-aa263d1ce583.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 5 FHDF" tvg-logo="" group-title="GOGO",SSC 5 FHDF
-http://38gb.pro:80/live/4478355/94943550/9690e298-2cfd-4fc2-a492-975642e146eb.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HD" tvg-logo="" group-title="GOGO",SSC 5 HD
-http://38gb.pro:80/live/4478355/94943550/92e5b2b7-c6c9-4184-9d9e-d4baa9fa58b5.ts
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 EXTRA FHD" tvg-logo="" group-title="GOGO",SSC 1 EXTRA FHD
-http://38gb.pro:80/live/4478355/94943550/01276739-4216-47b8-a800-82d114c79987.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 FHD" tvg-logo="" group-title="GOGO",AD Sport Premium 1 FHD
-http://38gb.pro:80/live/4478355/94943550/487c661c-9221-4ed1-ab87-21ba20d2e1a6.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 HD" tvg-logo="" group-title="GOGO",AD Sport Premium 1 HD
-http://38gb.pro:80/live/4478355/94943550/a486685f-d448-4ce3-8e41-f505988f2065.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 FHD" tvg-logo="" group-title="GOGO",AD Sport Premium 2 FHD
-http://38gb.pro:80/live/4478355/94943550/4647ec73-c261-44a0-9bb3-357b9000ab06.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 HD" tvg-logo="" group-title="GOGO",AD Sport Premium 2 HD
-http://38gb.pro:80/live/4478355/94943550/8874e2d4-25ba-4e83-bfd2-02f74c9d5f96.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports Premium 1 HEVC" tvg-logo="" group-title="GOGO",AD Sports Premium 1 HEVC
-http://38gb.pro:80/live/4478355/94943550/3a9528ed-5a03-4885-9bfd-21b165720a0a.ts
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports Premium 2 HEVC" tvg-logo="" group-title="GOGO",AD Sports Premium 2 HEVC
-http://38gb.pro:80/live/4478355/94943550/54618cb5-2911-404f-a08c-2574ca53125c.ts
-#EXTINF:-1 tvg-id="" tvg-name="PORTAIL   RMC SPORT UGHD" tvg-logo="https://www2.0zz0.com/2022/01/27/16/964881402.png" group-title="GOGO",PORTAIL   RMC SPORT UGHD
-http://38gb.pro:80/live/4478355/94943550/ed1d7b23-b32b-4184-a72e-e96f75b9f1a8.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 ACCESS GHD" tvg-logo="https://www5.0zz0.com/2022/01/27/11/984787575.png" group-title="GOGO",RMC SPORT 1 ACCESS GHD
-http://38gb.pro:80/live/4478355/94943550/0ddb1672-c6a9-473c-85e6-dab8242ab21a.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 GHD" tvg-logo="https://www11.0zz0.com/2022/01/27/10/935070657.png" group-title="GOGO",RMC SPORT 1 GHD
-http://38gb.pro:80/live/4478355/94943550/9f4b54fa-068d-42ce-b595-c668061fd26e.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1-HEVC" tvg-logo="" group-title="GOGO",RMC SPORT 1-HEVC
-http://38gb.pro:80/live/4478355/94943550/b01de287-c4cd-493b-9198-3cbb2826f490.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 ACCESS GHD" tvg-logo="https://www5.0zz0.com/2022/01/27/11/482853078.png" group-title="GOGO",RMC SPORT 2 ACCESS GHD
-http://38gb.pro:80/live/4478355/94943550/51cc4557-5b38-4c61-93b6-f837314f6ab1.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 GHD" tvg-logo="https://www11.0zz0.com/2022/01/27/10/133508992.png" group-title="GOGO",RMC SPORT 2 GHD
-http://38gb.pro:80/live/4478355/94943550/f605c087-8add-47b6-89fe-a497ee7996fb.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2-HEVC" tvg-logo="" group-title="GOGO",RMC SPORT 2-HEVC
-http://38gb.pro:80/live/4478355/94943550/83633a4b-887d-424d-9fc9-ed5c7d072152.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4K GHD" tvg-logo="https://www11.0zz0.com/2022/01/27/10/935070657.png" group-title="GOGO",RMC SPORT 4K GHD
-http://38gb.pro:80/live/4478355/94943550/48c0c009-5fb9-4d27-98d7-d67e6d34830f.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Foot 4K GHD" tvg-logo="https://www9.0zz0.com/2022/01/27/13/565526309.jpg" group-title="GOGO",CANAL+ Foot 4K GHD
+#EXTINF:0,CANAL+ FOOT UHD
 http://38gb.pro:80/live/4478355/94943550/ee751bde-8492-4b46-ac91-89415926c247.ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1 GHD" tvg-logo="" group-title="GOGO",TF1 GHD
+#EXTINF:0,CANAL+ FOOT HEVC
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/5d4bb508-e05d-4e81-a33f-3353b69d6b13.ts
+#EXTINF:-1 tvg-id="" tvg-name="PORTAIL   RMC SPORT UGHD" tvg-ogo="https://www2.0zz0.com/2022/01/27/16/964881402.png" group-title="GOGO",PORTAIL   RMC SPORT UGHD
+http://38gb.pro:80/live/4478355/94943550/ed1d7b23-b32b-4184-a72e-e96f75b9f1a8.ts
+#EXTINF:0,RMC SPORT 1 FHD
+http://38gb.pro:80/live/4478355/94943550/9f4b54fa-068d-42ce-b595-c668061fd26e.ts
+#EXTINF:0,RMC SPORT 2 FHD
+http://38gb.pro:80/live/4478355/94943550/f605c087-8add-47b6-89fe-a497ee7996fb.ts
+#EXTINF:0,TF1 FHD
 http://38gb.pro:80/live/4478355/94943550/9cad444d-b1ec-424d-a500-ba60c3fff34d.ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1  +1 GHD" tvg-logo="" group-title="GOGO",TF1  +1 GHD
+#EXTINF:0,TF1 +1 FHD
 http://38gb.pro:80/live/4478355/94943550/d194203a-6754-44ec-b1d1-3879a0f79e07.ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 GHD" tvg-logo="" group-title="GOGO",FRANCE 2 GHD
+#EXTINF:0,FRANCE 2 FHD
 http://38gb.pro:80/live/4478355/94943550/7fc0d70f-0bc4-4e51-b64d-5fea376ffede.ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 GHD" tvg-logo="" group-title="GOGO",FRANCE 3 GHD
+#EXTINF:0,FRANCE 3 FHD
 http://38gb.pro:80/live/4478355/94943550/9698cea0-c91a-4fa9-9343-1860b24c9c24.ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 GHD" tvg-logo="" group-title="GOGO",FRANCE 5 GHD
+#EXTINF:0,FRANCE 4 FHD
+http://38gb.pro:80/live/4478355/94943550/12631.ts
+#EXTINF:0,FRANCE 5 FHD
 http://38gb.pro:80/live/4478355/94943550/c9635fbb-e4ac-45ed-ab9c-93f6e4284736.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE FBS GHD" tvg-logo="https://www4.0zz0.com/2022/01/27/10/949855962.png" group-title="GOGO",TV5 MONDE FBS GHD
-http://38gb.pro:80/live/4478355/94943550/f7439e0a-d5bb-42f7-a4b2-1dc34d148c4e.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="" group-title="GOGO",TV5 MONDE
-http://38gb.pro:80/live/4478355/94943550/709ce41e-549b-4daa-b228-8758174344ba.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://www11.0zz0.com/2022/01/27/08/803951327.png" group-title="GOGO",TV5 MONDE
-http://38gb.pro:80/live/4478355/94943550/88a4c592-3b07-49d0-a5bd-929aca1ef6d1.ts
-#EXTINF:-1 tvg-id="" tvg-name="M6 GHD" tvg-logo="" group-title="GOGO",M6 GHD
+#EXTINF:0,M6 FHD
 http://38gb.pro:80/live/4478355/94943550/57c8b2fa-dc20-4a9b-b056-4e7fef393dfc.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ALPHA JU GHD" tvg-logo="https://www6.0zz0.com/2022/01/27/16/278618416.png" group-title="GOGO",CANAL ALPHA JU GHD
+#EXTINF:0,CANAL ALPHA FHD
 http://38gb.pro:80/live/4478355/94943550/9ae8c4e8-f22b-4064-a76d-89281ce28eb1.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHASSE & PECHE GHD" tvg-logo="https://www2.0zz0.com/2022/01/26/22/108231544.png" group-title="GOGO",CHASSE & PECHE GHD
+#EXTINF:0,CHASSE ET PECHE FHD
 http://38gb.pro:80/live/4478355/94943550/d4c654e9-8555-4119-9055-6f244b78cb18.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="GOGO",DISCOVERY
-http://38gb.pro:80/live/4478355/94943550/772fe6a9-2d65-42e6-a691-e6ab2816a381.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="GOGO",DISCOVERY CHANNEL HD
-http://38gb.pro:80/live/4478355/94943550/b3b5489f-a7b0-4873-9b4c-58c2f7e8db6e.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL-HEVC" tvg-logo="" group-title="GOGO",DISCOVERY CHANNEL-HEVC
-http://38gb.pro:80/live/4478355/94943550/608c9b4a-36f8-48fe-b894-3ed80ae62f5c.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY GHD" tvg-logo="https://www8.0zz0.com/2022/01/27/08/607708191.png" group-title="GOGO",DISCOVERY FAMILY GHD
-http://38gb.pro:80/live/4478355/94943550/cc68b2ba-6d75-4fb1-bd87-b3989327e8d1.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="" group-title="GOGO",DISCOVERY HD
-http://38gb.pro:80/live/4478355/94943550/458a4d68-9701-4a5c-842c-1ade10ceaada.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION GHD" tvg-logo="https://www8.0zz0.com/2022/01/27/08/468568508.png" group-title="GOGO",DISCOVERY INVESTIGATION GHD
-http://38gb.pro:80/live/4478355/94943550/6c8ee6b6-c662-4ad9-b879-94b84018c54c.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://www8.0zz0.com/2022/01/27/08/468568508.png" group-title="GOGO",DISCOVERY INVESTIGATION HD
-http://38gb.pro:80/live/4478355/94943550/672102b6-7341-437f-a223-3bec97fd4424.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION-HEVC" tvg-logo="" group-title="GOGO",DISCOVERY INVESTIGATION-HEVC
-http://38gb.pro:80/live/4478355/94943550/3b5761d6-3eeb-4df4-bad6-87b294810d6f.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www2.0zz0.com/2022/01/26/20/427577817.png" group-title="GOGO",DISCOVERY SCIENCE
-http://38gb.pro:80/live/4478355/94943550/e7476a38-5712-44e7-8f08-cce115c773a4.ts
+#EXTINF:0,DISCOVERY SCIENCE HEVC
+http://38gb.pro:80/live/4478355/94943550/56c52ee4-c3bb-4c72-89e1-9adbe2abeed8.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="GOGO",DISCOVERY SCIENCE
 http://38gb.pro:80/live/4478355/94943550/56c52ee4-c3bb-4c72-89e1-9adbe2abeed8.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="GOGO",DISCOVERY SCIENCE HD
@@ -189,43 +105,51 @@ http://38gb.pro:80/live/4478355/94943550/64134af2-6331-4d5c-ba13-22790dafa0c4.ts
 http://38gb.pro:80/live/4478355/94943550/9f731fac-aded-4e9f-818e-5d464ed36f71.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE-HEVC" tvg-logo="" group-title="GOGO",DISCOVERY SCIENCE-HEVC
 http://38gb.pro:80/live/4478355/94943550/d475ee1b-8244-44ab-b5f0-2e8131bb23aa.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOURMAND TV-HEVC" tvg-logo="" group-title="GOGO",GOURMAND TV-HEVC
+#EXTINF:0,DISCOVERY FHD
+http://38gb.pro:80/live/4478355/94943550/772fe6a9-2d65-42e6-a691-e6ab2816a381.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL-HEVC" tvg-logo="" group-title="GOGO",DISCOVERY CHANNEL-HEVC
+http://38gb.pro:80/live/4478355/94943550/608c9b4a-36f8-48fe-b894-3ed80ae62f5c.ts
+#EXTINF:0,GOURMAND HEVC
 http://38gb.pro:80/live/4478355/94943550/f12f5632-704e-4e52-82ec-78e9435700e2.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAISON & TRAVAUX-HEVC" tvg-logo="" group-title="GOGO",MAISON & TRAVAUX-HEVC
+#EXTINF:0,MAISON&TRAVAUX HD
 http://38gb.pro:80/live/4478355/94943550/12dc1e99-944a-40f5-bc10-c233c2c41c4c.ts
-#EXTINF:-1 tvg-id="" tvg-name="MyZEN NATURE-HEVC" tvg-logo="" group-title="GOGO",MyZEN NATURE-HEVC
+#EXTINF:0,MYZEN HEVC
 http://38gb.pro:80/live/4478355/94943550/ecbb164d-4103-42b0-89f0-17179781fa6b.ts
-#EXTINF:-1 tvg-id="" tvg-name="MyZEN TV-HEVC" tvg-logo="" group-title="GOGO",MyZEN TV-HEVC
-http://38gb.pro:80/live/4478355/94943550/159424a7-8fe8-4706-8c0e-f0017293edfd.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL GHD" tvg-logo="https://www9.0zz0.com/2022/01/27/15/534444679.png" group-title="GOGO",NAUTICAL CHANNEL GHD
+#EXTINF:0,NAUTICAL FHD
 http://38gb.pro:80/live/4478355/94943550/32ce1017-c2fb-4f5b-8556-6a1adb10d072.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE GHD" tvg-logo="https://www10.0zz0.com/2022/01/26/22/724561906.png" group-title="GOGO",RMC DECOUVERTE GHD
-http://38gb.pro:80/live/4478355/94943550/404619b8-450c-44a8-8359-54ddfbb97be7.ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE-HEVC" tvg-logo="" group-title="GOGO",RMC DECOUVERTE-HEVC
-http://38gb.pro:80/live/4478355/94943550/036625d6-427a-45ea-819f-eac38bd80f9b.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV8 FHD" tvg-logo="" group-title="GOGO",TV8 FHD
+#EXTINF:0,ONE TV FHD
+http://38gb.pro:80/live/4478355/94943550/11067.ts
+#EXTINF:0,TV5 MONDE STYLE FHD
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/06.m3u8
+#EXTINF:0,TV8 HD
 http://38gb.pro:80/live/4478355/94943550/ea2992ea-73b8-47d2-a55a-92c102d55b09.ts
-#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV GHD" tvg-logo="https://www9.0zz0.com/2022/01/26/21/253749180.png" group-title="GOGO",USHUAIA TV GHD
+#EXTINF:0,USHUAIA FHD
 http://38gb.pro:80/live/4478355/94943550/ce17d655-fc0c-416e-a6cf-687ace2249fc.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Fatafeat HD" tvg-logo="https://www10.0zz0.com/2022/01/27/18/456295938.jpg" group-title="GOGO",BEIN Fatafeat HD
+#EXTINF:0,WEO TV FHD
+http://38gb.pro:80/live/4478355/94943550/11236.ts
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE" tvg-logo="http://one-iptv.com/logoX/francetnt/arte.png" group-title="FRANCE FULL HD",ARTE
+http://revteam4.offshorerev.cc:80/SPIDER_DhVqK2/7LkZsHX3gy/133283
+#EXTINF:0,FATAFEAT FHD
 http://38gb.pro:80/live/4478355/94943550/e98662e2-8de9-4610-8a42-f01df999257a.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN GOURMET HD" tvg-logo="https://www2.0zz0.com/2022/01/27/18/990453784.png" group-title="GOGO",BEIN GOURMET HD
+#EXTINF:0,GOURMET HD
 http://38gb.pro:80/live/4478355/94943550/0293f9c6-7c5e-42a1-8720-cacc5759be8e.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang-GHD" tvg-logo="" group-title="GOGO",Boomerang-GHD
+#EXTINF:0,BOOMERANG FHD
 http://38gb.pro:80/live/4478355/94943550/22f977eb-2113-4fcf-9b30-47692b4bb11e.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL J GHD" tvg-logo="https://www4.0zz0.com/2022/01/27/08/328468995.png" group-title="GOGO",CANAL J GHD
+#EXTINF:0,CANAL J FHD
 http://38gb.pro:80/live/4478355/94943550/5b3e9d2b-25bc-412b-8158-c68845e63ec4.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUNIOR GHD" tvg-logo="https://www14.0zz0.com/2022/01/27/08/818235511.png" group-title="GOGO",NICKELODEON JUNIOR GHD
+#EXTINF:0,NICKELODEON JUNIOR FHD
 http://38gb.pro:80/live/4478355/94943550/c8c0a989-dc57-406d-8738-65d9c0171740.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELETOON   GHD" tvg-logo="https://www10.0zz0.com/2022/01/26/22/893470737.png" group-title="GOGO",TELETOON   GHD
+#EXTINF:0,TELETOON FHD
 http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.ts
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS-HEVC" tvg-logo="" group-title="GOGO",DREAMWORKS-HEVC
+#EXTINF:0,DREAMWORKS FHD
 http://38gb.pro:80/live/4478355/94943550/e930bbc0-1c22-403e-9f95-d3ee65e5e16e.ts
+#EXTINF:0,MAJID HD
+http://38gb.pro:80/live/4478355/94943550/17178.ts
 #EXTINF:60,SPACETOON FHD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
-#EXTINF:-1 tvg-id="" tvg-name="Shaun the Sheep" tvg-logo="" group-title="GOGO",Shaun the Sheep
+#EXTINF:0,SHAUN THE SHEEP
 http://38gb.pro:80/live/4478355/94943550/dce60a5b-6c5e-411c-ba51-5f923ded6c03.ts
-#EXTINF:-1 tvg-id="" tvg-name="kids:Tom and Jerry" tvg-logo="" group-title="GOGO",kids:Tom and Jerry
+#EXTINF:0,TOM & JERRY HD
 http://38gb.pro:80/live/4478355/94943550/898c2036-28ed-49fd-bfec-967fa0d412a3.ts
 #EXTINF:-1 tvg-id="" tvg-name="ENTV ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/440126101.png" group-title="GOGO",ENTV ALGERIE
 http://38gb.pro:80/live/4478355/94943550/6ecc62c3-8388-48d7-a21d-3d6221b567c3.ts
@@ -239,5 +163,3 @@ http://38gb.pro:80/live/4478355/94943550/9b0feda4-c89b-4a20-bd74-d3439e43972c.ts
 http://38gb.pro:80/live/4478355/94943550/5225f81b-e55d-4277-8d35-ba53b0e88580.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE 6" tvg-logo="https://www4.0zz0.com/2022/01/27/19/988429683.png" group-title="GOGO",ALGERIE 6
 http://38gb.pro:80/live/4478355/94943550/b7153f69-1695-46d4-989f-4d1063e9ccc6.ts
-
-
