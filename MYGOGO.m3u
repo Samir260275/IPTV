@@ -111,30 +111,22 @@ http://38gb.pro:80/live/4478355/94943550/772fe6a9-2d65-42e6-a691-e6ab2816a381.m3
 http://38gb.pro:80/live/4478355/94943550/608c9b4a-36f8-48fe-b894-3ed80ae62f5c.m3u8
 #EXTINF:-1,GOURMAND HEVC
 http://38gb.pro:80/live/4478355/94943550/f12f5632-704e-4e52-82ec-78e9435700e2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BON APPETIT GHD" tvg-logo="" group-title="GOGO",BON APPETIT GHD
+http://38gb.pro:80/live/4478355/94943550/db7efb8c-b987-4ead-b7d0-35b25df04eaf.m3u8
 #EXTINF:-1,MAISON&TRAVAUX HD
 http://38gb.pro:80/live/4478355/94943550/12dc1e99-944a-40f5-bc10-c233c2c41c4c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY ZEN 4K (Multi-Audio)" tvg-logo="" group-title="GOGO",MY ZEN 4K (Multi-Audio)
-http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/de569f1b-b7da-4766-9d0b-c1735821433a.m3u8
-#EXTINF:-1,MYZEN HEVC
-http://38gb.pro:80/live/4478355/94943550/159424a7-8fe8-4706-8c0e-f0017293edfd.m3u8
 #EXTINF:-1,NAUTICAL FHD
 http://38gb.pro:80/live/4478355/94943550/32ce1017-c2fb-4f5b-8556-6a1adb10d072.m3u8
-#EXTINF:-1,ONE TV FHD
-http://38gb.pro:80/live/4478355/94943550/8e2ff17f-26ca-4546-90ac-027eb3970db3.m3u8
 #EXTINF:-1,TV5 MONDE STYLE FHD
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/06.m3u8
 #EXTINF:-1,TV8 HD
 http://38gb.pro:80/live/4478355/94943550/7fc638a2-5b01-4ff8-a461-8a16269d1fef.m3u8
 #EXTINF:-1,USHUAIA FHD
 http://38gb.pro:80/live/4478355/94943550/ce17d655-fc0c-416e-a6cf-687ace2249fc.m3u8
-#EXTINF:-1,WEO TV FHD
-http://38gb.pro:80/live/4478355/94943550/bb506bf5-3c04-4722-b401-cfacde45bb97.m3u8
 #EXTINF:-1,FATAFEAT FHD
 http://38gb.pro:80/live/4478355/94943550/e98662e2-8de9-4610-8a42-f01df999257a.m3u8
 #EXTINF:-1,GOURMET HD
 http://38gb.pro:80/live/4478355/94943550/0293f9c6-7c5e-42a1-8720-cacc5759be8e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID TOPCHEF" tvg-logo="https://www.umniah.com/media/3h1aacge/services-tv-content-shahid-plus.png" group-title="GOGO",SHAHID TOPCHEF
-http://38gb.pro:80/live/4478355/94943550/8550d387-ad39-46ec-a062-b894f435e945.m3u8
 #EXTINF:-1,BOOMERANG FHD
 http://38gb.pro:80/live/4478355/94943550/22f977eb-2113-4fcf-9b30-47692b4bb11e.m3u8
 #EXTINF:-1,CANAL J FHD
@@ -146,11 +138,9 @@ http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3
 #EXTINF:-1,DREAMWORKS FHD
 http://38gb.pro:80/live/4478355/94943550/e930bbc0-1c22-403e-9f95-d3ee65e5e16e.m3u8
 #EXTINF:-1,MAJID HD
-http://38gb.pro:80/live/4478355/94943550/17178.m3u8
+http://38gb.pro:80/live/4478355/94943550/9beb2c74-e3a0-4a55-8846-797470fc80d9.m3u8
 #EXTINF:60,SPACETOON FHD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
-#EXTINF:-1,SHAUN THE SHEEP
-http://38gb.pro:80/live/4478355/94943550/dce60a5b-6c5e-411c-ba51-5f923ded6c03.m3u8
 #EXTINF:-1,TOM & JERRY HD
 http://38gb.pro:80/live/4478355/94943550/898c2036-28ed-49fd-bfec-967fa0d412a3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Cartoon" tvg-logo="" group-title="GOGO",SHAHID CARTOON
