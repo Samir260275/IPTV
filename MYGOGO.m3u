@@ -118,7 +118,7 @@ http://38gb.pro:80/live/4478355/94943550/12dc1e99-944a-40f5-bc10-c233c2c41c4c.m3
 #EXTINF:-1,NAUTICAL 
 http://38gb.pro:80/live/4478355/94943550/32ce1017-c2fb-4f5b-8556-6a1adb10d072.m3u8
 #EXTINF:-1,TV5MONDE STYLE HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/06.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1,TV8 HD
 http://38gb.pro:80/live/4478355/94943550/7fc638a2-5b01-4ff8-a461-8a16269d1fef.m3u8
 #EXTINF:-1,USHUAIA 
