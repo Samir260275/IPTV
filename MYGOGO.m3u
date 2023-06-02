@@ -131,6 +131,8 @@ http://38gb.pro:80/live/4478355/94943550/bb506bf5-3c04-4722-b401-cfacde45bb97.m3
 http://38gb.pro:80/live/4478355/94943550/e98662e2-8de9-4610-8a42-f01df999257a.m3u8
 #EXTINF:-1,GOURMET HD
 http://38gb.pro:80/live/4478355/94943550/0293f9c6-7c5e-42a1-8720-cacc5759be8e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID TOPCHEF" tvg-logo="https://www.umniah.com/media/3h1aacge/services-tv-content-shahid-plus.png" group-title="GOGO",SHAHID TOPCHEF
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/8550d387-ad39-46ec-a062-b894f435e945.m3u8
 #EXTINF:-1,BOOMERANG FHD
 http://38gb.pro:80/live/4478355/94943550/22f977eb-2113-4fcf-9b30-47692b4bb11e.m3u8
 #EXTINF:-1,CANAL J FHD
@@ -149,6 +151,24 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 http://38gb.pro:80/live/4478355/94943550/dce60a5b-6c5e-411c-ba51-5f923ded6c03.m3u8
 #EXTINF:-1,TOM & JERRY HD
 http://38gb.pro:80/live/4478355/94943550/898c2036-28ed-49fd-bfec-967fa0d412a3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID STYLE" tvg-logo="https://www.umniah.com/media/3h1aacge/services-tv-content-shahid-plus.png" group-title="GOGO",SHAHID STYLE
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/93b07662-d14e-484b-84b6-8f8070e6b84e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Cartoon" tvg-logo="" group-title="GOGO",Shahid Cartoon
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/196fbc27-8dc0-486d-9219-dd058965830f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shaun the Sheep" tvg-logo="" group-title="GOGO",Shaun the Sheep
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/dce60a5b-6c5e-411c-ba51-5f923ded6c03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Platinium Kids 1" tvg-logo="" group-title="GOGO",Platinium Kids 1
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/6c5ce8b1-d2df-45b5-a953-ce55f15f4107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Platinium Kids 2" tvg-logo="" group-title="GOGO",Platinium Kids 2
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/f41f4ddf-5ac1-453f-b998-94b7ca8520c4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Platinium Kids 3" tvg-logo="" group-title="GOGO",Platinium Kids 3
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/47971d6a-8729-4852-ae9e-aad782674d20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Platinium Kids 4" tvg-logo="" group-title="GOGO",Platinium Kids 4
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/93fbb608-fc09-4b96-9aec-a06421b7c2ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Platinium Kids 5" tvg-logo="" group-title="GOGO",Platinium Kids 5
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/f14529ba-5183-40e2-bd21-a117f943f816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="GOGO",ROTANA KIDS 4K
+http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/9456ae30-c82a-4ec6-b444-9999c8809b44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ENTV ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/440126101.png" group-title="GOGO",ENTV ALGERIE
 http://38gb.pro:80/live/4478355/94943550/6ecc62c3-8388-48d7-a21d-3d6221b567c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/371583147.png" group-title="GOGO",CANAL ALGERIE
