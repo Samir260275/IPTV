@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,AR | beIN SPORTS 1 PREMIUM HD
+#EXTINF:-1,AR | beIN SPORTS PREMIUM 1 HD
 http://38gb.pro:80/live/4478355/94943550/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
-#EXTINF:-1,AR | beIN SPORTS 2 PREMIUM HD
+#EXTINF:-1,AR | beIN SPORTS PREMIUM 2 HD
 http://38gb.pro:80/live/4478355/94943550/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
-#EXTINF:-1,AR | beIN SPORTS 3 PREMIUM HD
+#EXTINF:-1,AR | beIN SPORTS PREMIUM 3 HD
 http://38gb.pro:80/live/4478355/94943550/4514dd56-a85f-41eb-b5e3-b72e99dc90ae.m3u8
 #EXTINF:-1,AR | beIN SPORTS 1 
 http://38gb.pro:80/live/4478355/94943550/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
@@ -139,7 +139,7 @@ http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3
 http://38gb.pro:80/live/4478355/94943550/e930bbc0-1c22-403e-9f95-d3ee65e5e16e.m3u8
 #EXTINF:-1,MAJID KIDS HD
 http://38gb.pro:80/live/4478355/94943550/9beb2c74-e3a0-4a55-8846-797470fc80d9.m3u8
-#EXTINF:60,SPACE TOON 1
+#EXTINF:60,SPACE TOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
 #EXTINF:-1,TOM & JERRY
 http://38gb.pro:80/live/4478355/94943550/898c2036-28ed-49fd-bfec-967fa0d412a3.m3u8
@@ -159,7 +159,7 @@ http://38gb.pro:80/live/4478355/94943550/93fbb608-fc09-4b96-9aec-a06421b7c2ae.m3
 http://38gb.pro:80/live/4478355/94943550/f14529ba-5183-40e2-bd21-a117f943f816.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_KIDS_Logo.png/1200px-Rotana_KIDS_Logo.png" group-title="GOGO",ROTANA KIDS 4K
 http://38gb.pro:80/live/4478355/94943550/9456ae30-c82a-4ec6-b444-9999c8809b44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENTV ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/440126101.png" group-title="GOGO",ENTV
+#EXTINF:-1 tvg-id="" tvg-name="ENTV ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/440126101.png" group-title="GOGO",PROGRAMME NATIONAL HD
 http://38gb.pro:80/live/4478355/94943550/6ecc62c3-8388-48d7-a21d-3d6221b567c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/371583147.png" group-title="GOGO",CANAL ALGERIE
 http://38gb.pro:80/live/4478355/94943550/1c9228f1-b7df-45ce-bb61-2311fe41c34c.m3u8
@@ -169,5 +169,5 @@ http://38gb.pro:80/live/4478355/94943550/7d4ed3c4-5630-4735-9214-852424399e7d.m3
 http://38gb.pro:80/live/4478355/94943550/9b0feda4-c89b-4a20-bd74-d3439e43972c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIE 5" tvg-logo="https://www4.0zz0.com/2022/01/27/19/577795895.png" group-title="GOGO",ALGERIE 5
 http://38gb.pro:80/live/4478355/94943550/5225f81b-e55d-4277-8d35-ba53b0e88580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALGERIE 6" tvg-logo="https://www4.0zz0.com/2022/01/27/19/988429683.png" group-title="GOGO",ALGERIE 6
+#EXTINF:-1 tvg-id="" tvg-name="TV6 HD" tvg-logo="https://www4.0zz0.com/2022/01/27/19/988429683.png" group-title="GOGO",TV6 HD
 http://38gb.pro:80/live/4478355/94943550/b7153f69-1695-46d4-989f-4d1063e9ccc6.m3u8
