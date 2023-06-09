@@ -120,8 +120,6 @@ http://38gb.pro:80/live/4478355/94943550/12dc1e99-944a-40f5-bc10-c233c2c41c4c.m3
 #EXTINF:-1,group-title="DIVERTISSEMENT",NAUTICAL 
 http://38gb.pro:80/live/4478355/94943550/32ce1017-c2fb-4f5b-8556-6a1adb10d072.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",TV5MONDE STYLE HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant
-#EXTINF:-1,group-title="DIVERTISSEMENT",TV5MONDE STYLE HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",TV8 HD
 http://38gb.pro:80/live/4478355/94943550/7fc638a2-5b01-4ff8-a461-8a16269d1fef.m3u8
@@ -132,7 +130,7 @@ http://38gb.pro:80/live/4478355/94943550/80350.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",USHUAIA 
 http://38gb.pro:80/live/4478355/94943550/ce17d655-fc0c-416e-a6cf-687ace2249fc.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",FATAFEAT HD
-http://38gb.pro:80/live/4478355/94943550/e98662e2-8de9-4610-8a42-f01df999257a.m3u8
+http://38gb.pro:80/live/4478355/94943550/127775.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",GOURMET HD
 http://38gb.pro:80/live/4478355/94943550/0293f9c6-7c5e-42a1-8720-cacc5759be8e.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",AWE
