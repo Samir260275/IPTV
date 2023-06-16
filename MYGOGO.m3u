@@ -111,10 +111,6 @@ http://38gb.pro:80/live/4478355/94943550/d475ee1b-8244-44ab-b5f0-2e8131bb23aa.m3
 http://38gb.pro:80/live/4478355/94943550/772fe6a9-2d65-42e6-a691-e6ab2816a381.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL-" tvg-logo="" group-title="DIVERTISSEMENT",DISCOVERY CHANNEL
 http://38gb.pro:80/live/4478355/94943550/608c9b4a-36f8-48fe-b894-3ed80ae62f5c.m3u8
-#EXTINF:-1,group-title="DIVERTISSEMENT",GOURMAND HD
-http://38gb.pro:80/live/4478355/94943550/f12f5632-704e-4e52-82ec-78e9435700e2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BON APPETIT " tvg-logo="" group-title="DIVERTISSEMENT",BON APPETIT 
-http://38gb.pro:80/live/4478355/94943550/db7efb8c-b987-4ead-b7d0-35b25df04eaf.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",MAISON&TRAVAUX
 http://38gb.pro:80/live/4478355/94943550/12dc1e99-944a-40f5-bc10-c233c2c41c4c.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",NAUTICAL 
@@ -137,6 +133,10 @@ http://38gb.pro:80/live/4478355/94943550/0293f9c6-7c5e-42a1-8720-cacc5759be8e.m3
 http://38gb.pro:80/live/4478355/94943550/127759.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",DOCU BOX
 http://38gb.pro:80/live/4478355/94943550/127737.m3u8
+#EXTINF:-1,group-title="DIVERTISSEMENT",GOURMAND HD
+http://38gb.pro:80/live/4478355/94943550/f12f5632-704e-4e52-82ec-78e9435700e2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BON APPETIT " tvg-logo="" group-title="DIVERTISSEMENT",BON APPETIT 
+http://38gb.pro:80/live/4478355/94943550/db7efb8c-b987-4ead-b7d0-35b25df04eaf.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",CANAL COCINA 
 http://38gb.pro:80/live/4478355/94943550/127894.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",FOOD NETWORK
@@ -159,8 +159,8 @@ http://38gb.pro:80/live/4478355/94943550/e930bbc0-1c22-403e-9f95-d3ee65e5e16e.m3
 http://38gb.pro:80/live/4478355/94943550/9beb2c74-e3a0-4a55-8846-797470fc80d9.m3u8
 #EXTINF:-1,SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_KIDS_Logo.png/1200px-Rotana_KIDS_Logo.png" group-title="KIDS",ROTANA KIDS 4K
-http://38gb.pro:80/live/4478355/94943550/127718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_KIDS_Logo.png/1200px-Rotana_KIDS_Logo.png" group-title="KIDS",ROTANA KIDS 4K
+http://38gb.pro:80/live/4478355/94943550/12771.m3u8
 #EXTINF:-1,group-title="KIDS",TOM & JERRY
 http://38gb.pro:80/live/4478355/94943550/898c2036-28ed-49fd-bfec-967fa0d412a3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHAUN THE SHEEP" tvg-logo="" group-title="KIDS",SHAUN THE SHEEP
