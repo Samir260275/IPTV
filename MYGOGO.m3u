@@ -137,10 +137,10 @@ http://38gb.pro:80/live/4478355/94943550/0293f9c6-7c5e-42a1-8720-cacc5759be8e.m3
 http://38gb.pro:80/live/4478355/94943550/127759.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",DOCU BOX
 http://38gb.pro:80/live/4478355/94943550/127737.m3u8
+#EXTINF:-1,group-title="DIVERTISSEMENT",CANAL COCINA 
+http://38gb.pro:80/live/4478355/94943550/127894.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",FOOD NETWORK
 http://38gb.pro:80/live/4478355/94943550/127750.m3u8
-
-
 #EXTINF:-1,group-title="KIDS",BOOMERANG 
 http://38gb.pro:80/live/4478355/94943550/127718.m3u8
 #EXTINF:-1,group-title="KIDS",BOOMERANG 
@@ -157,8 +157,10 @@ http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3
 http://38gb.pro:80/live/4478355/94943550/e930bbc0-1c22-403e-9f95-d3ee65e5e16e.m3u8
 #EXTINF:-1,group-title="KIDS",MAJID KIDS HD
 http://38gb.pro:80/live/4478355/94943550/9beb2c74-e3a0-4a55-8846-797470fc80d9.m3u8
-#EXTINF:-1,SPACE TOON
+#EXTINF:-1,SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_KIDS_Logo.png/1200px-Rotana_KIDS_Logo.png" group-title="KIDS",ROTANA KIDS 4K
+http://38gb.pro:80/live/4478355/94943550/127718.m3u8
 #EXTINF:-1,group-title="KIDS",TOM & JERRY
 http://38gb.pro:80/live/4478355/94943550/898c2036-28ed-49fd-bfec-967fa0d412a3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHAUN THE SHEEP" tvg-logo="" group-title="KIDS",SHAUN THE SHEEP
@@ -183,8 +185,6 @@ http://38gb.pro:80/live/4478355/94943550/47971d6a-8729-4852-ae9e-aad782674d20.m3
 http://38gb.pro:80/live/4478355/94943550/93fbb608-fc09-4b96-9aec-a06421b7c2ae.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLATINIUM KIDS 5" tvg-logo="" group-title="KIDS",PLATINIUM KIDS 5
 http://38gb.pro:80/live/4478355/94943550/f14529ba-5183-40e2-bd21-a117f943f816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_KIDS_Logo.png/1200px-Rotana_KIDS_Logo.png" group-title="KIDS",ROTANA KIDS 4K
-http://38gb.pro:80/live/4478355/94943550/9456ae30-c82a-4ec6-b444-9999c8809b44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ENTV ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/440126101.png" group-title="ALGERIA",PROGRAMME NATIONAL HD
 http://38gb.pro:80/live/4478355/94943550/6ecc62c3-8388-48d7-a21d-3d6221b567c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ALGERIE" tvg-logo="https://www4.0zz0.com/2022/01/27/19/371583147.png" group-title="ALGERIA",CANAL ALGERIE
