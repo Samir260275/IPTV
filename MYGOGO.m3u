@@ -8,6 +8,7 @@ http://38gb.pro:80/live/4478355/94943550/4514dd56-a85f-41eb-b5e3-b72e99dc90ae.m3
 #EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS PREMIUM 1 HD
 http://38gb.pro:80/live/4478355/94943550/147254.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS PREMIUM 2 HD
+http://38gb.pro:80/live/4478355/94943550/147199.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 1 
 http://38gb.pro:80/live/4478355/94943550/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 2 
@@ -26,7 +27,6 @@ http://38gb.pro:80/live/4478355/94943550/72fa7606-10d0-4338-a515-19ccd1312a7b.m3
 http://38gb.pro:80/live/4478355/94943550/c5dfd65e-5536-4c22-8a8f-2a77d653fcd8.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS XTRA 2 
 http://38gb.pro:80/live/4478355/94943550/6083be8a-d45e-41c1-8c59-3e27aea844b0.m3u8
-http://38gb.pro:80/live/4478355/94943550/147199.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | SSC 1 
 http://38gb.pro:80/live/4478355/94943550/cf58bd23-4923-42af-a75c-963d0eecfead.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | SSC 2 
@@ -132,7 +132,7 @@ http://38gb.pro:80/live/4478355/94943550/ce17d655-fc0c-416e-a6cf-687ace2249fc.m3
 #EXTINF:-1,group-title="DIVERTISSEMENT",FATAFEAT HD
 http://38gb.pro:80/live/4478355/94943550/127775.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",GOURMET HD
-http://38gb.pro:80/live/4478355/94943550/147201.m3u8
+http://38gb.pro:80/live/4478355/94943550/147244.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",AWE
 http://38gb.pro:80/live/4478355/94943550/127759.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",DOCU BOX
@@ -160,7 +160,7 @@ http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3
 #EXTINF:-1,group-title="KIDS",DREAMWORKS 
 http://38gb.pro:80/live/4478355/94943550/e930bbc0-1c22-403e-9f95-d3ee65e5e16e.m3u8
 #EXTINF:-1,group-title="KIDS",beIN MOVIE 4 HD
-http://38gb.pro:80/live/4478355/94943550/147244.m3u8
+http://38gb.pro:80/live/4478355/94943550/147201.m3u8
 #EXTINF:-1,group-title="KIDS",MAJID KIDS HD
 http://38gb.pro:80/live/4478355/94943550/9beb2c74-e3a0-4a55-8846-797470fc80d9.m3u8
 #EXTINF:-1,SPACETOON
