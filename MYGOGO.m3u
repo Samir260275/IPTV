@@ -132,7 +132,7 @@ http://38gb.pro:80/live/4478355/94943550/ce17d655-fc0c-416e-a6cf-687ace2249fc.m3
 #EXTINF:-1,group-title="DIVERTISSEMENT",FATAFEAT HD
 http://38gb.pro:80/live/4478355/94943550/127775.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",GOURMET HD
-http://38gb.pro:80/live/4478355/94943550/147244.m3u8
+http://38gb.pro:80/live/4478355/94943550/147614.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",AWE
 http://38gb.pro:80/live/4478355/94943550/127759.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",DOCU BOX
@@ -151,28 +151,36 @@ http://38gb.pro:80/live/4478355/94943550/127718.m3u8
 http://38gb.pro:80/live/4478355/94943550/22f977eb-2113-4fcf-9b30-47692b4bb11e.m3u8
 #EXTINF:-1,group-title="KIDS",BOOMERANG 
 http://38gb.pro:80/live/4478355/94943550/78508.m3u8
-#EXTINF:-1,group-title="KIDS",CANAL J 
+#EXTINF:-1,group-title="KIDS",BOOMERANG BE 
+http://38gb.pro:80/live/4478355/94943550/147697.m3u8
+#EXTINF:-1,group-title="KIDS",CATOONITO 
+http://38gb.pro:80/live/4478355/94943550/147661.m3u8
+#EXTINF:-1,group-title="KIDS",CANAL J
 http://38gb.pro:80/live/4478355/94943550/5b3e9d2b-25bc-412b-8158-c68845e63ec4.m3u8
-#EXTINF:-1,group-title="KIDS",NICKELODEON JUNIOR 
-http://38gb.pro:80/live/4478355/94943550/c8c0a989-dc57-406d-8738-65d9c0171740.m3u8
-#EXTINF:-1,group-title="KIDS",TELETOON+ 
-http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3u8
 #EXTINF:-1,group-title="KIDS",DREAMWORKS 
 http://38gb.pro:80/live/4478355/94943550/e930bbc0-1c22-403e-9f95-d3ee65e5e16e.m3u8
-#EXTINF:-1,group-title="KIDS",beIN MOVIE 4 HD
-http://38gb.pro:80/live/4478355/94943550/147201.m3u8
-#EXTINF:-1,group-title="KIDS",MAJID KIDS HD
-http://38gb.pro:80/live/4478355/94943550/9beb2c74-e3a0-4a55-8846-797470fc80d9.m3u8
-#EXTINF:-1,SPACETOON
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
+#EXTINF:-1,group-title="KIDS",DREAMWORKS AR
+http://38gb.pro:80/live/4478355/94943550/147728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GULLI ARABI" tvg-logo="" group-title="KIDS",GULLI ARABI
+http://38gb.pro:80/live/4478355/94943550/143139.m3u8
+#EXTINF:-1,group-title="KIDS",NICKELODEON JUNIOR 
+http://38gb.pro:80/live/4478355/94943550/c8c0a989-dc57-406d-8738-65d9c0171740.m3u8
+#EXTINF:-1,group-title="KIDS",MAJID HD
+http://38gb.pro:80/live/4478355/94943550/147731.m3u8
+#EXTINF:-1,group-title="KIDS",MASHA HD
+http://38gb.pro:80/live/4478355/94943550/147742.m3u8
 #EXTINF:-1,group-title="KIDS",ROTANA KIDS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_KIDS_Logo.png/1200px-Rotana_KIDS_Logo.png" group-title="KIDS",ROTANA KIDS 4K
 http://38gb.pro:80/live/4478355/94943550/127771.m3u8
+#EXTINF:-1,group-title="KIDS",SPACETOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?#EXTINF:-1%20tvg-id=%22spacetoon.sa%22%20tvg-name=%22AR%20%7C%20Spacetoon%22%20tvg-logo=%22http://apimg.in/picons/PICONS-BOUQUET-ARABIC/SPACETOON.png%22%20group-title=%22ARABIC%22,AR%20%7C%20Spacetoon
+#EXTINF:-1,group-title="KIDS",TELETOON+ 
+http://38gb.pro:80/live/4478355/94943550/540cb6bc-c98a-47c5-8d16-e39983b9b478.m3u8
+#EXTINF:-1,group-title="KIDS",TG KIDS
+http://38gb.pro:80/live/4478355/94943550/14738.m3u8
 #EXTINF:-1,group-title="KIDS",TOM & JERRY
 http://38gb.pro:80/live/4478355/94943550/898c2036-28ed-49fd-bfec-967fa0d412a3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHAUN THE SHEEP" tvg-logo="" group-title="KIDS",SHAUN THE SHEEP
 http://38gb.pro:80/live/4478355/94943550/dce60a5b-6c5e-411c-ba51-5f923ded6c03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GULLI ARABI" tvg-logo="" group-title="KIDS",GULLI ARABI
-http://38gb.pro:80/live/4478355/94943550/143139.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX CARTOON 1" tvg-logo="" group-title="KIDS",NETFLIX CARTOON 1
 http://38gb.pro:80/live/4478355/94943550/77326.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX CARTOON 2" tvg-logo="" group-title="KIDS",NETFLIX CARTOON 2
