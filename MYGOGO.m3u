@@ -108,7 +108,7 @@ http://38gb.pro:80/live/4478355/94943550/78767.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",DISCOVERY SCIENCE 
 http://38gb.pro:80/live/4478355/94943550/56c52ee4-c3bb-4c72-89e1-9adbe2abeed8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE-" tvg-logo="" group-title="DIVERTISSEMENT",DISCOVERY SCIENCE 
-http://ndasat.net:80/live/15724059284478032/1593574628/120.m3u8
+http://ndasat.net:80/live/15724059284478032/1593574628/120.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE-" tvg-logo="" group-title="DIVERTISSEMENT",DISCOVERY SCIENCE
 http://38gb.pro:80/live/4478355/94943550/d475ee1b-8244-44ab-b5f0-2e8131bb23aa.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",DISCOVERY 
@@ -138,7 +138,7 @@ http://38gb.pro:80/live/4478355/94943550/f12f5632-704e-4e52-82ec-78e9435700e2.m3
 #EXTINF:-1 tvg-id="" tvg-name="BON APPETIT " tvg-logo="" group-title="DIVERTISSEMENT",BON APPETIT 
 http://38gb.pro:80/live/4478355/94943550/db7efb8c-b987-4ead-b7d0-35b25df04eaf.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",CANAL COCINA 
-http://ndasat.net:80/live/15724059284478032/1593574628/42713.m3u8
+http://ndasat.net:80/live/15724059284478032/1593574628/42713.ts
 #EXTINF:-1,group-title="DIVERTISSEMENT",FOOD NETWORK
 http://38gb.pro:80/live/4478355/94943550/127750.m3u8
 #EXTINF:-1,group-title="KIDS",BOOMERANG 
@@ -161,7 +161,7 @@ http://38gb.pro:80/live/4478355/94943550/147728.m3u8
 http://38gb.pro:80/live/4478355/94943550/143139.m3u8
 #EXTINF:-1,group-title="KIDS",NICKELODEON JUNIOR 
 http://38gb.pro:80/live/4478355/94943550/c8c0a989-dc57-406d-8738-65d9c0171740.m3u8
-#EXTINF:-1,group-title="KIDS",MADJID HD
+#EXTINF:-1,group-title="KIDS",MAJD KIDS TV HD
 http://38gb.pro:80/live/4478355/94943550/147731.m3u8
 #EXTINF:-1,group-title="KIDS",MASHA HD
 http://38gb.pro:80/live/4478355/94943550/147742.m3u8
