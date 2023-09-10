@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1,group-title="SPORTS",AD | beIN SPORTS 1 HD
+#EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 1 HD
+http://38gb.pro:80/live/4478355/94943550/151334.m3u8
+#EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 2 HD
 http://38gb.pro:80/live/4478355/94943550/151335.m3u8
-#EXTINF:-1,group-title="SPORTS",AD | beIN SPORTS 2 HD
+#EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 3 HD
 http://38gb.pro:80/live/4478355/94943550/151336.m3u8
-#EXTINF:-1,group-title="SPORTS",AD | beIN SPORTS 3 HD
+#EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 5 HD
 http://38gb.pro:80/live/4478355/94943550/151337.m3u8
-#EXTINF:-1,group-title="SPORTS",AD | beIN SPORTS 5 HD
+#EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 6 HD
 http://38gb.pro:80/live/4478355/94943550/151338.m3u8
-#EXTINF:-1,group-title="SPORTS",AD | beIN SPORTS 6 HD
-http://38gb.pro:80/live/4478355/94943550/151339.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 1 HD
 http://38gb.pro:80/live/4478355/94943550/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
 #EXTINF:-1,group-title="SPORTS",AR | beIN SPORTS 2 HD
