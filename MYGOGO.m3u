@@ -263,7 +263,7 @@ http://38gb.pro:80/live/4478355/94943550/11ab4dfc-dcd0-4e97-a031-50d512126568.m3
 #EXTINF:-1,TV5 MONDE EUROPE
 http://38gb.pro:80/live/4478355/94943550/00fcbcbe-684f-44e3-8d12-b756bad37b63.m3u8
 #EXTINF:-1,TV5MONDE STYLE
-http://38gb.pro:80/live/4478355/94943550/01454f1a-9dcd-440b-a151-8bb54d5a3b27.ts
+http://38gb.pro:80/live/4478355/94943550/01454f1a-9dcd-440b-a151-8bb54d5a3b27.m3u8
 #EXTINF:-1,TF1 4K EVENEMENT FREE SAS
 http://38gb.pro:80/live/4478355/94943550/9ac68b2b-a845-42fe-8174-7ccff266f544.m3u8
 #EXTINF:-1,NATURE RELAXATION
@@ -305,15 +305,15 @@ http://38gb.pro:80/live/4478355/94943550/127775.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",GOURMET HD
 http://38gb.pro:80/live/4478355/94943550/d4f85dba-e1a9-4ece-949b-38362a224b85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COCINA" tvg-logo="" group-title="SPAIN",COCINA
-http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/151546.ts
+http://38gb.pro:80/live/4478355/94943550/151546.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COCINA 4K UHD" tvg-logo="" group-title="SPAIN",COCINA 4K UHD
-http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/8f35a496-b816-4b6c-9d7c-3989abfffb03.ts
+http://38gb.pro:80/live/4478355/94943550/8f35a496-b816-4b6c-9d7c-3989abfffb03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="" group-title="SPAIN",ODISEA
-http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/a7d092ba-1753-438a-b3d7-0cdcfa57fd9c.ts
+http://38gb.pro:80/live/4478355/94943550/a7d092ba-1753-438a-b3d7-0cdcfa57fd9c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA 4K UHD" tvg-logo="" group-title="SPAIN",ODISEA 4K UHD
-http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/151581.ts
+http://38gb.pro:80/live/4478355/94943550/151581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA 4K UHD" tvg-logo="" group-title="SPAIN",CANAL DECASA 4K UHD
-http://62.182.85.213:8089/live/447835594943550/kAF4e5bR1/278933e9-6aaf-4e50-9d57-d8ec106fe349.ts
+http://38gb.pro:80/live/4478355/94943550/278933e9-6aaf-4e50-9d57-d8ec106fe349.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",FOOD NETWORK
 http://38gb.pro:80/live/4478355/94943550/127750.m3u8
 #EXTINF:-1,CANAL+ KIDS
