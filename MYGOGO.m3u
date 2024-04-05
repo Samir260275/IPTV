@@ -244,6 +244,8 @@ http://38gb.pro:80/live/7716083/94357555/11ab4dfc-dcd0-4e97-a031-50d512126568.m3
 http://38gb.pro:80/live/7716083/94357555/00fcbcbe-684f-44e3-8d12-b756bad37b63.m3u8
 #EXTINF:-1,group-title="DIVERTISSEMENT",TV5MONDE STYLE HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1,group-title="DIVERTISSEMENT",TV5MONDE STYLE 1HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/06.m3u8
 #EXTINF:-1,TV5MONDE STYLE HD
 http://38gb.pro:80/live/7716083/94357555/44248630-1b56-4ac1-9b18-ceb3538b3884.m3u8
 #EXTINF:-1,NATURE RELAXATION
