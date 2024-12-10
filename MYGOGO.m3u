@@ -22,11 +22,24 @@ http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/73882.m3u8
 http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/173075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Majid" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MAJ_176.png" group-title="🧸 ARABIC KIDS", Majid
 http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/173072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Blippi And Friends" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/BAF_176.png" group-title="🧸 ARABIC KIDS", Blippi And Friends
-http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/173073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CN ARABIA" tvg-logo="" group-title="🧸 ARABIC KIDS",CN ARABIA
 http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/163861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Space Toon" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/SPT_176.png" group-title="🧸 ARABIC KIDS", Space Toon
 http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/173077.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACETOON ARABIC" tvg-logo="" group-title="🧸 ARABIC KIDS",SPACETOON ARABIC
 http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/163858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" KidZone Max" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/KDM_176.png" group-title="🧸 ARABIC KIDS", KidZone Max
+http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/173070.m3u8
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="CARTOONITO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1096/canal-ouah/CHN43FN/CHN43FN_1096_20240611-HkpZ" group-title="🇫🇷FRANCE KIDS",CARTOONITO
+http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/176879.m3u8
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/530/canal-ouah/CHN43FN/CHN43FN_530_20240611-d926" group-title="🇫🇷FRANCE KIDS",BOOMERANG
+http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/176875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="" group-title="🇫🇷 SFR",DREAMWORKS
+http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/183223.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOURMAND TV" tvg-logo="" group-title="🇫🇷 SFR",GOURMAND TV
+http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/183219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" group-title="🇪🇸MOVISTAR",Canal Cocina
+http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/175777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Fatafeat" tvg-logo="https://prod-cdn-static-1.intigral-ott.net/imagizer/176x0@75/https://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/FAT_176.png" group-title="🔥 TOP ARABIC", Fatafeat
+http://tv.gogo-iptv.com:8880/live/771608394357555/B5xy7IC6z/173087.m3u8
