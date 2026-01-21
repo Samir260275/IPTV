@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="BOOMERANG FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEFHD/BOOMERANG.png" group-title="FRANCE FHD",BOOMERANG FHD
+http://aipvar.asia:80/932340410930195/1593574628/155
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="CARTOONITO FHD" tvg-logo="http://aptvpix.net/pubs/2022/cartonito.png" group-title="FRANCE FHD",CARTOONITO FHD
+http://aipvar.asia:80/932340410930195/1593574628/119
+#EXTINF:-1 tvg-id="" tvg-name="KIDS-AR | MAJID" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-ARABIC/MAJIDKIDS.png" group-title="KIDS",KIDS-AR | MAJID
+http://aipvar.asia:80/932340410930195/1593574628/37996
+#EXTINF:-1 tvg-id="" tvg-name="KIDS-AR | ROTANA KIDS" tvg-logo="http://aptvpix.net/picons/rotanakidspitcon.png" group-title="KIDS",KIDS-AR | ROTANA KIDS
+http://aipvar.asia:80/932340410930195/1593574628/38000
+#EXTINF:-1 tvg-id="" tvg-name="KIDS-AR | CARTOONITO" tvg-logo="http://aptvpix.net/pubs/2022/cartonito.png" group-title="KIDS",KIDS-AR | CARTOONITO
+http://aipvar.asia:80/932340410930195/1593574628/122241
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="KIDS-AR | STC KIDS" tvg-logo="https://s9.gifyu.com/images/SVcAf.png" group-title="KIDS",KIDS-AR | STC KIDS
+http://aipvar.asia:80/932340410930195/1593574628/42155
+
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="CANAL+ ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/picons/NEW2022/canalplus.png" group-title="FRANCE H265",CANAL+ ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/194978
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE H265",TF1 ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/131928
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2 ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE H265",FRANCE 2 ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/194979
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FRANCE 3 ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/picons/NEW2022/france3.png" group-title="FRANCE H265",FRANCE 3 ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/194980
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/picons/NEW2022/france4.png" group-title="FRANCE H265",FRANCE 4 ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/194991
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FRANCE 5 ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/picons/NEW2022/france5.png" group-title="FRANCE H265",FRANCE 5 ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/194982
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE H265",M6 ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/131927
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="http://aptvpix.net/picons/NEW2022/arte.png" group-title="FRANCE H265",Arte ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/194983
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="RMC Life ⓈⓊⓅⒺⓇⒽⒹ" tvg-logo="https://aptvpix.net/pubs/2024/picons/rmclife.png" group-title="FRANCE H265",RMC Life ⓈⓊⓅⒺⓇⒽⒹ
+http://aipvar.asia:80/932340410930195/1593574628/194990
+
+#EXTINF:-1 tvg-id="TF14k.fr" tvg-name="4K | TF1" tvg-logo="http://aptvpix.net/pubs/2022/tf14k.png" group-title="4K UHD",4K | TF1
+http://aipvar.asia:80/932340410930195/1593574628/99360
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="4K | FRANCE 2 " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="4K UHD",4K | FRANCE 2 
+http://aipvar.asia:80/932340410930195/1593574628/121305
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="4K | M6" tvg-logo="http://aptvpix.net/pubs/2022/m64k.png" group-title="4K UHD",4K | M6
+http://aipvar.asia:80/932340410930195/1593574628/106007
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="4K | CANAL+ " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/canaluhd.png" group-title="4K UHD",4K | CANAL+ 
+http://aipvar.asia:80/932340410930195/1593574628/74180
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="4K | CANAL+ BOX OFFICE" tvg-logo="http://aptvpix.net/pubs/2022/canalboxoffice.png" group-title="4K UHD",4K | CANAL+ BOX OFFICE
+http://aipvar.asia:80/932340410930195/1593574628/121304
+#EXTINF:-1 tvg-id="EvenementsSports4KUHD.fr" tvg-name="4K | C+ ÉVÉNEMENT SPORT " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/canaluhd.png" group-title="4K UHD",4K | C+ ÉVÉNEMENT SPORT 
+http://aipvar.asia:80/932340410930195/1593574628/75309
+#EXTINF:-1 tvg-id="blueSport1LiveUHD.ch" tvg-name="4K | BLUE SPORT LIVE 1" tvg-logo="http://aptvpix.net/picons/bluesport1pitcon.png" group-title="4K UHD",4K | BLUE SPORT LIVE 1
+http://aipvar.asia:80/932340410930195/1593574628/116016
+#EXTINF:-1 tvg-id="blueSport2LiveUHD.ch" tvg-name="4K | BLUE SPORT LIVE 2" tvg-logo="http://aptvpix.net/picons/bluesport1pitcon.png" group-title="4K UHD",4K | BLUE SPORT LIVE 2
+http://aipvar.asia:80/932340410930195/1593574628/116017
+#EXTINF:-1 tvg-id="blueSport1LiveUHD.ch" tvg-name="4K | BLUE SPORT LIVE 3" tvg-logo="http://aptvpix.net/picons/bluesport1pitcon.png" group-title="4K UHD",4K | BLUE SPORT LIVE 3
+http://aipvar.asia:80/932340410930195/1593574628/122446
+#EXTINF:-1 tvg-id="" tvg-name="4K | BLUE SPORT LIVE 4" tvg-logo="http://aptvpix.net/picons/bluesport1pitcon.png" group-title="4K UHD",4K | BLUE SPORT LIVE 4
+http://aipvar.asia:80/932340410930195/1593574628/124342
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="4K | [AR] BEIN SPORTS " tvg-logo="https://picons.atlaspro.to/pubs/december2020/30-10-21/bein4k.png" group-title="4K UHD",4K | [AR] BEIN SPORTS 
+http://aipvar.asia:80/932340410930195/1593574628/118902
+#EXTINF:-1 tvg-id="tntsportsultimateuhd.uk" tvg-name="4K | TNT SPORTS ULTIMATE " tvg-logo="http://aptvpix.net/pubs/2022/tntsports.png" group-title="4K UHD",4K | TNT SPORTS ULTIMATE 
+http://aipvar.asia:80/932340410930195/1593574628/118904
+#EXTINF:-1 tvg-id="" tvg-name="4K | SKY ULTRA" tvg-logo="https://aptvpix.net/pubs/2022/sky.png" group-title="4K UHD",4K | SKY ULTRA
+http://aipvar.asia:80/932340410930195/1593574628/121272
+#EXTINF:-1 tvg-id="" tvg-name="4K | SKY ULTRA 2" tvg-logo="https://aptvpix.net/pubs/2022/sky.png" group-title="4K UHD",4K | SKY ULTRA 2
+http://aipvar.asia:80/932340410930195/1593574628/126431
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="4K | ƧKY F1" tvg-logo="https://aptvpix.net/pubs/2022/skysportf1.png" group-title="4K UHD",4K | ƧKY F1
+http://aipvar.asia:80/932340410930195/1593574628/115124
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="4K | SKY SPORTS MAIN EVENT" tvg-logo="https://aptvpix.net/pubs/2022/skymain.png" group-title="4K UHD",4K | SKY SPORTS MAIN EVENT
+http://aipvar.asia:80/932340410930195/1593574628/118905
+#EXTINF:-1 tvg-id="LOL.my" tvg-name="4K | ASTRO SUPERSPORTS " tvg-logo="http://aptvpix.net/pubs/2022/astrouhd.png" group-title="4K UHD",4K | ASTRO SUPERSPORTS 
+http://aipvar.asia:80/932340410930195/1593574628/73735
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="4K | HUB PREMIER LEAGUE " tvg-logo="http://aptvpix.net/pubs/2022/plvert.png" group-title="4K UHD",4K | HUB PREMIER LEAGUE 
+http://aipvar.asia:80/932340410930195/1593574628/99361
+#EXTINF:-1 tvg-id="Canal+ 4K Ultra HD" tvg-name="4K | NOW SPORTS " tvg-logo="http://aptvpix.net/pubs/2022/nowsports.png" group-title="4K UHD",4K | NOW SPORTS 
+http://aipvar.asia:80/932340410930195/1593574628/101418
+#EXTINF:-1 tvg-id="" tvg-name="4K | NOW SPORTS 2" tvg-logo="http://aptvpix.net/pubs/2022/nowsports.png" group-title="4K UHD",4K | NOW SPORTS 2
+http://aipvar.asia:80/932340410930195/1593574628/118919
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-name="4K | IRIB " tvg-logo="" group-title="4K UHD",4K | IRIB 
+http://aipvar.asia:80/932340410930195/1593574628/100723
+#EXTINF:-1 tvg-id="" tvg-name="4K | [SW] V SPORT " tvg-logo="http://aptvpix.net/pubs/december2020/19-05-2021/sportuhdv.png" group-title="4K UHD",4K | [SW] V SPORT 
+http://aipvar.asia:80/932340410930195/1593574628/68220
+#EXTINF:-1 tvg-id="Eleven Sports 4K" tvg-name="4K | [PL] ELEVEN SPORT " tvg-logo="http://aptvpix.net/pubs/2022/eleven1.png" group-title="4K UHD",4K | [PL] ELEVEN SPORT 
+http://aipvar.asia:80/932340410930195/1593574628/99164
+#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="4K | [DE] SKY SPORT " tvg-logo="http://aptvpix.net/pubs/2022/skysport.png" group-title="4K UHD",4K | [DE] SKY SPORT 
+http://aipvar.asia:80/932340410930195/1593574628/98634
+#EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" tvg-name="4K | [DE] SKY BUNDESLIGA " tvg-logo="http://aptvpix.net/pubs/2022/skysport.png" group-title="4K UHD",4K | [DE] SKY BUNDESLIGA 
+http://aipvar.asia:80/932340410930195/1593574628/73923
+#EXTINF:-1 tvg-id="" tvg-name="4K | [RO] DIGI " tvg-logo="https://aptvpix.net/pubs/2022/digi4k.png" group-title="4K UHD",4K | [RO] DIGI 
+http://aipvar.asia:80/932340410930195/1593574628/118906
+#EXTINF:-1 tvg-id="" tvg-name="4K | [CY] CYTAVISION SPORT" tvg-logo="https://aptvpix.net/pubs/2024/picons/cytavision.png" group-title="4K UHD",4K | [CY] CYTAVISION SPORT
+http://aipvar.asia:80/932340410930195/1593574628/139499
+#EXTINF:-1 tvg-id="" tvg-name="4K | EUROSPORT " tvg-logo="  " group-title="4K UHD",4K | EUROSPORT 
+http://aipvar.asia:80/932340410930195/1593574628/139500
+#EXTINF:-1 tvg-id="" tvg-name="4K | [RO] PRIMA SPORT" tvg-logo="" group-title="4K UHD",4K | [RO] PRIMA SPORT
+http://aipvar.asia:80/932340410930195/1593574628/131983
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="4K | [ES] M+ CAMPEONES " tvg-logo="http://aptvpix.net/pubs/december2020/30-10-21/ligade.png" group-title="4K UHD",4K | [ES] M+ CAMPEONES 
+http://aipvar.asia:80/932340410930195/1593574628/115125
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="4K | [ES] M+ LALIGA 2" tvg-logo="" group-title="4K UHD",4K | [ES] M+ LALIGA 2
+http://aipvar.asia:80/932340410930195/1593574628/132102
+#EXTINF:-1 tvg-id="mlaligauhd.es" tvg-name="4K | [ES] M+ LALIGATV" tvg-logo="http://aptvpix.net/pubs/2022/mtv1.png" group-title="4K UHD",4K | [ES] M+ LALIGATV
+http://aipvar.asia:80/932340410930195/1593574628/99776
+#EXTINF:-1 tvg-id="LA 1" tvg-name="4K | [ES] TVE " tvg-logo="http://aptvpix.net/pubs/2022/tve4k.png" group-title="4K UHD",4K | [ES] TVE 
+http://aipvar.asia:80/932340410930195/1593574628/58473
+#EXTINF:-1 tvg-id="24.Horas.es" tvg-name="4K | [ES] ODISEA " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/ODISEA.png" group-title="4K UHD",4K | [ES] ODISEA 
+http://aipvar.asia:80/932340410930195/1593574628/58477
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="4K | [ES] DECASA " tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-SPAIN/DECASA.png" group-title="4K UHD",4K | [ES] DECASA 
+http://aipvar.asia:80/932340410930195/1593574628/99332
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="4K | [ES] COCINA " tvg-logo="http://aptvpix.net/pubs/2022/spainbouquetpicons/canalcocina.png" group-title="4K UHD",4K | [ES] COCINA 
+http://aipvar.asia:80/932340410930195/1593574628/58486
+#EXTINF:-1 tvg-id="SWRFernsehen-rp.de" tvg-name="4K | [DE] RTL " tvg-logo="http://aptvpix.net/pubs/2022/rtl.png" group-title="4K UHD",4K | [DE] RTL 
+http://aipvar.asia:80/932340410930195/1593574628/58470
+#EXTINF:-1 tvg-id="" tvg-name="4K | [DE] PRO7SAT.1" tvg-logo="https://aptvpix.net/pubs/2022/prosiben.png" group-title="4K UHD",4K | [DE] PRO7SAT.1
+http://aipvar.asia:80/932340410930195/1593574628/121308
+#EXTINF:-1 tvg-id="" tvg-name="4K | [DE] AUTO MOTOR SPORT" tvg-logo="" group-title="4K UHD",4K | [DE] AUTO MOTOR SPORT
+http://aipvar.asia:80/932340410930195/1593574628/131903
+#EXTINF:-1 tvg-id="UHD1.de" tvg-name="4K | [DE] UHD1" tvg-logo="" group-title="4K UHD",4K | [DE] UHD1
+http://aipvar.asia:80/932340410930195/1593574628/134178
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="4K | [IT] RAI " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1024px-Rai_4K_-_Logo_2017.svg.png" group-title="4K UHD",4K | [IT] RAI 
+http://aipvar.asia:80/932340410930195/1593574628/115351
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="4K | TRT " tvg-logo="http://aptvpix.net/pubs/2022/trt4k.png" group-title="4K UHD",4K | TRT 
+http://aipvar.asia:80/932340410930195/1593574628/41016
+#EXTINF:-1 tvg-id="" tvg-name="4K | [US] NBC " tvg-logo="https://aptvpix.net/pubs/2024/picons/nbc.png" group-title="4K UHD",4K | [US] NBC 
+http://aipvar.asia:80/932340410930195/1593574628/132437
+#EXTINF:-1 tvg-id="" tvg-name="4K | [US] FOX " tvg-logo="https://aptvpix.net/pubs/2022/fox.png" group-title="4K UHD",4K | [US] FOX 
+http://aipvar.asia:80/932340410930195/1593574628/125116
+#EXTINF:-1 tvg-id="I628.35038.zap2it.com" tvg-name="4K | [US] NESN" tvg-logo="https://aptvpix.net/pubs/2022/nesn.png" group-title="4K UHD",4K | [US] NESN
+http://aipvar.asia:80/932340410930195/1593574628/125115
+#EXTINF:-1 tvg-id="Museum UHD" tvg-name="4K | MUSEUM " tvg-logo="http://aptvpix.net/picons/NEW2022/museum.png" group-title="4K UHD",4K | MUSEUM 
+http://aipvar.asia:80/932340410930195/1593574628/125114
+#EXTINF:-1 tvg-id="MyZenTV4K.eu" tvg-name="4K | MYZEN " tvg-logo="https://aptvpix.net/pubs/2022/myzen4k.png" group-title="4K UHD",4K | MYZEN 
+http://aipvar.asia:80/932340410930195/1593574628/131506
+#EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="4K | LOVE NATURE " tvg-logo="http://aptvpix.net/picons/NEW2020/11-2-2020/lovenatureblanc.png" group-title="4K UHD",4K | LOVE NATURE 
+http://aipvar.asia:80/932340410930195/1593574628/72563
+#EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="4K | CLARITY " tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/clarity.png" group-title="4K UHD",4K | CLARITY 
+http://aipvar.asia:80/932340410930195/1593574628/67568
+#EXTINF:-1 tvg-id="Travelxp 4K" tvg-name="4K | TRAVELXP [MULTI-AUDIO] " tvg-logo="http://aptvpix.net/picons/NEW2022/travelxp.png" group-title="4K UHD",4K | TRAVELXP [MULTI-AUDIO] 
+http://aipvar.asia:80/932340410930195/1593574628/15175
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="4K | NASA TV" tvg-logo="http://aptvpix.net/pubs/2022/nasa.png" group-title="4K UHD",4K | NASA TV
+http://aipvar.asia:80/932340410930195/1593574628/99778
+#EXTINF:-1 tvg-id="fashiontv.fr" tvg-name="4K | FASHION TV" tvg-logo="http://aptvpix.net/picons/PICONS-BOUUQET-PORTUGAL/fashiontv.png" group-title="4K UHD",4K | FASHION TV
+http://aipvar.asia:80/932340410930195/1593574628/72319
+#EXTINF:-1 tvg-id="StingrayFestival.fr" tvg-name="4K | STINGRAY FESTIVAL " tvg-logo="http://aptvpix.net/pubs/2022/festival4k.png" group-title="4K UHD",4K | STINGRAY FESTIVAL 
+http://aipvar.asia:80/932340410930195/1593574628/58485
+#EXTINF:-1 tvg-id="USBB1000002TK" tvg-name="4K | LOUPE " tvg-logo="" group-title="4K UHD",4K | LOUPE 
+http://aipvar.asia:80/932340410930195/1593574628/116231
+#EXTINF:-1 tvg-id="" tvg-name="4K | FIREPLACE " tvg-logo="" group-title="4K UHD",4K | FIREPLACE 
+http://aipvar.asia:80/932340410930195/1593574628/116232
+#EXTINF:-1 tvg-id="" tvg-name="4K | OCEAN VIBES " tvg-logo="" group-title="4K UHD",4K | OCEAN VIBES 
+http://aipvar.asia:80/932340410930195/1593574628/131888
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="4K | [US] CBS / BTN" tvg-logo="" group-title="4K UHD",4K | [US] CBS / BTN
+http://aipvar.asia:80/932340410930195/1593574628/134177
+#EXTINF:-1 tvg-id="3+.ch" tvg-name="4K | [CH] 3+" tvg-logo="" group-title="4K UHD",4K | [CH] 3+
+http://aipvar.asia:80/932340410930195/1593574628/138189
+#EXTINF:-1 tvg-id="" tvg-name="4K | [CH] TV24" tvg-logo="" group-title="4K UHD",4K | [CH] TV24
+http://aipvar.asia:80/932340410930195/1593574628/138190
+#EXTINF:-1 tvg-id="" tvg-name="4K | [US] LIVE EVENT" tvg-logo="" group-title="4K UHD",4K | [US] LIVE EVENT
+http://aipvar.asia:80/932340410930195/1593574628/138625
+#EXTINF:-1 tvg-id="" tvg-name="4K | [RU] SIBERIA " tvg-logo="" group-title="4K UHD",4K | [RU] SIBERIA 
+http://aipvar.asia:80/932340410930195/1593574628/139889
+#EXTINF:-1 tvg-id="Canal+ 4K Ultra HD" tvg-name="4K | [PL] CANAL+" tvg-logo="" group-title="4K UHD",4K | [PL] CANAL+
+http://aipvar.asia:80/932340410930195/1593574628/159686
+#EXTINF:-1 tvg-id="InUltra" tvg-name="4K | THAMANYA " tvg-logo="https://aptvpix.net/pubs/2024/picons/8.png" group-title="4K UHD",4K | THAMANYA 
+http://aipvar.asia:80/932340410930195/1593574628/139890
